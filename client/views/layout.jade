@@ -1,0 +1,30 @@
+//
+   Created by pl on 8/28/15.
+
+doctype html
+html
+   head(lang='en')
+      meta(charset='utf8')
+      script(src='bower_components/jquery/dist/jquery.min.js')
+      link(href='bower_components/bootstrap/dist/css/bootstrap.min.css' rel='stylesheet' type='text/css')
+      script(src='bower_components/bootstrap/dist/js/bootstrap.min.js')
+      link(href='bower_components/bootstrap-material-design/dist/css/material-fullpalette.min.css' rel='stylesheet' type='text/css')
+      link(href='bower_components/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css')
+      //user scripts and css
+      script(src='dist/API.js')
+      link(href='dist/main.min.css' rel='stylesheet' type='text/css')
+      block title
+   body
+      .navbar.navbar-inverse
+         .container-fluid
+            .navbar-header
+               button.navbar-toggle.collapsed(data-toggle='collapse' data-target='#mainNavBar' aria-expanded='false')
+                  span.sr-only Toggle navigation
+                  span.icon-bar
+                  span.icon-bar
+                  span.icon-bar
+               a.navbar-brand(href='#') LOL Navbar
+            .collapse.navbar-collapse#mainNavBar
+               ul.nav.navbar-nav
+                  li: a(href='#') Link
+      block content

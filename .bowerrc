@@ -1,0 +1,4 @@
+{
+  "directory": "client/static/bower_components",
+  "dependencies": "client/static/bower.json"
+}

@@ -1,1 +1,7 @@
 /*Created by Peter/FU*/
+.champHeadWrapper {
+  padding: 5px;
+}
+.champHead > img {
+  margin: 0 auto;
+}

@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
+    "fs": "0.0.2",
     "grunt": "^0.4.5",
     "jade": "^1.11.0",
     "path": "^0.11.14"

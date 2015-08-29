@@ -1,0 +1,11 @@
+//
+   Created by pl on 8/28/15.
+extends layout
+block title
+   title League of Legends coding challenge
+block content
+   .container
+      h2= champion.assistsRate
+      each num, key in champion
+         h1= key
+         h3= num

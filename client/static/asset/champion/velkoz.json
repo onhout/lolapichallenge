@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":4063
 ,"Ban_Rate":0.0006111581954288068
 ,"Ban_Rate_Game":0.00362
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":8749.87029288703
 ,"True_Damage_Taken":2314330
 ,"True_Damage_Taken_Average":569.6111247846419
-,"Sight_Wards_Bought":2015
-,"Sight_Wards_Bought_Average":0.495938961358602
+,"sight_Wards_Bought":2015
+,"sight_Wards_Bought_Average":0.495938961358602
 ,"Vision_Wards_Bought":1262
 ,"Vision_Wards_Bought_Average":0.3106079251784396
 ,"Total_Wards_Bought":0.8065468865370415
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Luden’s Echo",
@@ -129,7 +129,7 @@
 		"win" : "57.76%",
 	},
 	"eight" : {
-		"name" : "Sightstone",
+		"name" : "sightstone",
 		"percentages" : "13.21%",
 		"win" : "55.49%",
 	},

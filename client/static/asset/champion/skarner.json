@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":1500
 ,"Ban_Rate":0.0003562275669488349
 ,"Ban_Rate_Game":0.00211
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":11029.378
 ,"True_Damage_Taken":1351292
 ,"True_Damage_Taken_Average":900.8613333333333
-,"Sight_Wards_Bought":490
-,"Sight_Wards_Bought_Average":0.32666666666666666
+,"sight_Wards_Bought":490
+,"sight_Wards_Bought_Average":0.32666666666666666
 ,"Vision_Wards_Bought":411
 ,"Vision_Wards_Bought_Average":0.274
 ,"Total_Wards_Bought":0.6006666666666667
@@ -90,7 +90,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Trinity Force",
@@ -138,7 +138,7 @@
 		"win" : "41.58%",
 	},
 	"ten" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "6.33%",
 		"win" : "48.42%",
 	},

@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":15049
 ,"Ban_Rate":0.009849438983789113
 ,"Ban_Rate_Game":0.05834
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":9257.287527410459
 ,"True_Damage_Taken":14334941
 ,"True_Damage_Taken_Average":952.5510665160476
-,"Sight_Wards_Bought":3805
-,"Sight_Wards_Bought_Average":0.2528407203136421
+,"sight_Wards_Bought":3805
+,"sight_Wards_Bought_Average":0.2528407203136421
 ,"Vision_Wards_Bought":3216
 ,"Vision_Wards_Bought_Average":0.213701907103462
 ,"Total_Wards_Bought":0.4665426274171041
@@ -90,7 +90,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Blade of the Ruined King",
@@ -113,12 +113,12 @@
 		"win" : "56.50%",
 	},
 	"five" : {
-		"name" : "Sunfire Cape",
+		"name" : 'sunfire Cape",
 		"percentages" : "13.71%",
 		"win" : "56.68%",
 	},
 	"six" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "13.60%",
 		"win" : "57.22%",
 	},

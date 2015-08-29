@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 "Pick_Time":5741
 ,"Ban_Rate":0.009069452557578869
 ,"Ban_Rate_Game":0.05372
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":1399.039191778436
 ,"True_Damage_Taken":5217359
 ,"True_Damage_Taken_Average":908.7892353248563
-,"Sight_Wards_Bought":1285
-,"Sight_Wards_Bought_Average":0.22382860128897406
+,"sight_Wards_Bought":1285
+,"sight_Wards_Bought_Average":0.22382860128897406
 ,"Vision_Wards_Bought":828
 ,"Vision_Wards_Bought_Average":0.1442257446437903
 ,"Total_Wards_Bought":0.3680543459327643
@@ -92,56 +92,56 @@
 }
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
-		"name" : 'Hextech Gunblade',
-		"percentages" : '79.62%',
+		"name" : "Hextech Gunblade",
+		"percentages" : "79.62%",
 		"win" : "52.52%",
 	},
 	"two" : {
 		"name" : "Zhonya’s Hourglass",
-		"percentages" : '26.14%',
+		"percentages" : "26.14%",
 		"win" : "58.29%",
 	},
 	"three" : {
 		"name" : "Lich Bane",
-		"percentages" : '25.30%',
+		"percentages" : "25.30%",
 		"win" : "58.49%",
 	},
 	"four" : {
 		"name" : "Rabadon’s Deathcap",
-		"percentages" : '24.69%',
+		"percentages" : "24.69%",
 		"win" : "59.30%",
 	},
 	"five" : {
 		"name" : "Rylai’s Crystal Scepter",
-		"percentages" : '20.91%',
+		"percentages" : "20.91%",
 		"win" : "55.45%",
 	},
 	"six" : {
 		"name" : "Trickster’s Glass",
-		"percentages" : '12.75%',
+		"percentages" : "12.75%",
 		"win" : "58.87%",
 	},
 	"seven" : {
 		"name" : "Luden’s Echo",
-		"percentages" : '9.73%',
+		"percentages" : "9.73%",
 		"win" : "61.00%",
 	},
 	"eight" : {
 		"name" : "Abyssal Scepter",
-		"percentages" : '6.96%',
+		"percentages" : "6.96%",
 		"win" : "58.75%",
 	},
 	"nine" : {
 		"name" : "Void Staff",
-		"percentages" : '6.39%',
+		"percentages" : "6.39%",
 		"win" : "61.58%",
 	},
 	"ten" : {
 		"name" : "Will of the Ancients",
-		"percentages" : '5.24%',
+		"percentages" : "5.24%",
 		"win" : "56.47%",
 	},
 

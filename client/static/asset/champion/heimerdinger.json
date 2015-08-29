@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":9330
 ,"Ban_Rate":0.01368015154021995
 ,"Ban_Rate_Game":0.08103
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":743.9759914255092
 ,"True_Damage_Taken":5693588
 ,"True_Damage_Taken_Average":610.2452304394427
-,"Sight_Wards_Bought":2338
-,"Sight_Wards_Bought_Average":0.2505894962486602
+,"sight_Wards_Bought":2338
+,"sight_Wards_Bought_Average":0.2505894962486602
 ,"Vision_Wards_Bought":1503
 ,"Vision_Wards_Bought_Average":0.16109324758842444
 ,"Total_Wards_Bought":0.4116827438370847
@@ -92,7 +92,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Zhonya’s Hourglass",

@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":2136
 ,"Ban_Rate":0.0010906303708480918
 ,"Ban_Rate_Game":0.00646
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":3717.229868913858
 ,"True_Damage_Taken":2134695
 ,"True_Damage_Taken_Average":999.3890449438202
-,"Sight_Wards_Bought":1393
-,"Sight_Wards_Bought_Average":0.6521535580524345
+,"sight_Wards_Bought":1393
+,"sight_Wards_Bought_Average":0.6521535580524345
 ,"Vision_Wards_Bought":1048
 ,"Vision_Wards_Bought_Average":0.49063670411985016
 ,"Total_Wards_Bought":1.1427902621722847
@@ -96,7 +96,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "sightstone",
@@ -114,7 +114,7 @@
 		"win" : "64.53%",
 	},
 	"four" : {
-		"name" : "Sunfire Cape",
+		"name" : 'sunfire Cape",
 		"percentages" : "17.60%",
 		"win" : "56.64%",
 	},

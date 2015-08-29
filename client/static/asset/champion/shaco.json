@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":9175
 ,"Ban_Rate":0.008882053221411472
 ,"Ban_Rate_Game":0.05261
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":9649.08697547684
 ,"True_Damage_Taken":5245520
 ,"True_Damage_Taken_Average":571.7188010899182
-,"Sight_Wards_Bought":2014
-,"Sight_Wards_Bought_Average":0.21950953678474114
+,"sight_Wards_Bought":2014
+,"sight_Wards_Bought_Average":0.21950953678474114
 ,"Vision_Wards_Bought":2037
 ,"Vision_Wards_Bought_Average":0.22201634877384196
 ,"Total_Wards_Bought":0.44152588555858313
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Ravenous Hydra",
@@ -99,7 +99,7 @@
 		"win" : "52.94%",
 	},
 	"two" : {
-		"name" : "Statikk Shiv",
+		"name" : 'statikk Shiv",
 		"percentages" :"31.12%" ,
 		"win" : "52.03%",
 	},

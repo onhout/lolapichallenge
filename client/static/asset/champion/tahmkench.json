@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 "Pick_Time":21402
 ,"Ban_Rate":0.0148011709926087
 ,"Ban_Rate_Game":0.08767
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":3484.4769180450426
 ,"True_Damage_Taken":18289613
 ,"True_Damage_Taken_Average":854.574946266704
-,"Sight_Wards_Bought":9088
-,"Sight_Wards_Bought_Average":0.42463321184935987
+,"sight_Wards_Bought":9088
+,"sight_Wards_Bought_Average":0.42463321184935987
 ,"Vision_Wards_Bought":7318
 ,"Vision_Wards_Bought_Average":0.3419306606859172
 ,"Total_Wards_Bought":0.766563872535277
@@ -90,7 +90,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Face of the Mountain",
@@ -98,12 +98,12 @@
 		"win" : "50.16%",
 	},
 	"two" : {
-		"name" : "Sightstone",
+		"name" : "sightstone",
 		"percentages" :"35.25%" ,
 		"win" : "45.30%",
 	},
 	"three" : {
-		"name" : "Sunfire Cape",
+		"name" : 'sunfire Cape",
 		"percentages" : "19.94%",
 		"win" : "50.43%",
 	},
@@ -118,7 +118,7 @@
 		"win" : "54.73%",
 	},
 	"six" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "13.62%",
 		"win" : "51.16%",
 	},

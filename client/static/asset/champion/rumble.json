@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":2464
 ,"Ban_Rate":0.0008964779054494377
 ,"Ban_Rate_Game":0.00531
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":604.547077922078
 ,"True_Damage_Taken":2133841
 ,"True_Damage_Taken_Average":866.0068993506494
-,"Sight_Wards_Bought":1417
-,"Sight_Wards_Bought_Average":0.5750811688311688
+,"sight_Wards_Bought":1417
+,"sight_Wards_Bought_Average":0.5750811688311688
 ,"Vision_Wards_Bought":814
 ,"Vision_Wards_Bought_Average":0.33035714285714285
 ,"Total_Wards_Bought":0.9054383116883117
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Liandry’s Torment",

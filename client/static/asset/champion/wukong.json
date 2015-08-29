@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":5813
 ,"Ban_Rate":0.00224541546939313
 ,"Ban_Rate_Game":0.0133
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":5546.8150696714265
 ,"True_Damage_Taken":5106273
 ,"True_Damage_Taken_Average":878.4230173748495
-,"Sight_Wards_Bought":1706
-,"Sight_Wards_Bought_Average":0.2934801307414416
+,"sight_Wards_Bought":1706
+,"sight_Wards_Bought_Average":0.2934801307414416
 ,"Vision_Wards_Bought":1181
 ,"Vision_Wards_Bought_Average":0.20316531911233443
 ,"Total_Wards_Bought":0.496645449853776
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Ravenous Hydra",
@@ -124,7 +124,7 @@
 		"win" : "59.60%",
 	},
 	"seven" : {
-		"name" : "Sunfire Cape",
+		"name" : 'sunfire Cape",
 		"percentages" : "13.79%",
 		"win" : "58.97%",
 	},

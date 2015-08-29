@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 "Pick_Time":4738
 ,"Ban_Rate":0.007264678770525292
 ,"Ban_Rate_Game":0.04303
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":581.1958632334319
 ,"True_Damage_Taken":3144343
 ,"True_Damage_Taken_Average":663.6435204727733
-,"Sight_Wards_Bought":1871
-,"Sight_Wards_Bought_Average":0.39489235964542
+,"sight_Wards_Bought":1871
+,"sight_Wards_Bought_Average":0.39489235964542
 ,"Vision_Wards_Bought":1116
 ,"Vision_Wards_Bought_Average":0.23554242296327565
 ,"Total_Wards_Bought":0.6304347826086957
@@ -89,57 +89,57 @@
 
 }
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Rabadon’s Deathcap",
-		"percentages" : '38.47%',
-		"win" : '54.14%',
+		"percentages" : "38.47%",
+		"win" : "54.14%",
 	},
 	"two" : {
 		"name" : "Zhonya’s Hourglass",
-		"percentages" : '27.01%',
-		"win" : '53.28%',
+		"percentages" : "27.01%",
+		"win" : "53.28%",
 	},
 	"three" : {
 		"name" : "Athene’s Unholy Grail",
-		"percentages" : '25.60%',
-		"win" : '45.67%',
+		"percentages" : "25.60%",
+		"win" : "45.67%",
 	},
 	"four" : {
 		"name" : "Nashor’s Tooth",
-		"percentages" : '24.27%',
-		"win" : '52.17%',
+		"percentages" : "24.27%",
+		"win" : "52.17%",
 	},
 	"five" : {
 		"name" : "Pox Arcana",
-		"percentages" : '17.58%',
-		"win" : '50.42%',
+		"percentages" : "17.58%",
+		"win" : "50.42%",
 	},
 	"six" : {
 		"name" : "Luden’s Echo",
-		"percentages" : '16.65%',
-		"win" : '52.59%',
+		"percentages" : "16.65%",
+		"win" : "52.59%",
 	},
 	"seven" : {
 		"name" : "Netherstride Grimoire",
-		"percentages" : '13.57%',
-		"win" : '51.01%',
+		"percentages" : "13.57%",
+		"win" : "51.01%",
 	},
 	"eight" : {
 		"name" : "Rylai’s Crystal Scepter",
-		"percentages" : '12.98%',
-		"win" : '55.60%',
+		"percentages" : "12.98%",
+		"win" : "55.60%",
 	},
 	"nine" : {
 		"name" : "Void Staff",
-		"percentages" : '12.32%',
-		"win" : '58.56%',
+		"percentages" : "12.32%",
+		"win" : "58.56%",
 	},
 	"ten" : {
 		"name" : "Rite of Ruin",
-		"percentages" : '12.13%',
-		"win" : '50.26%',
+		"percentages" : "12.13%",
+		"win" : "50.26%",
 	},
 
 }

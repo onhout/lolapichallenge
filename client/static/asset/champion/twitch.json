@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":5146
 ,"Ban_Rate":0.0005486917500396746
 ,"Ban_Rate_Game":0.00325
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":8359.17528177225
 ,"True_Damage_Taken":2965333
 ,"True_Damage_Taken_Average":576.2403808783521
-,"Sight_Wards_Bought":569
-,"Sight_Wards_Bought_Average":0.11057131752817723
+,"sight_Wards_Bought":569
+,"sight_Wards_Bought_Average":0.11057131752817723
 ,"Vision_Wards_Bought":611
 ,"Vision_Wards_Bought_Average":0.11873299650213759
 ,"Total_Wards_Bought":0.22930431403031482
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Blade of the Ruined King",
@@ -109,7 +109,7 @@
 		"win" : "54.11%",
 	},
 	"four" : {
-		"name" : "Statikk Shiv",
+		"name" : 'statikk Shiv",
 		"percentages" : "19.93%",
 		"win" : "49.41%",
 	},

@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":5032
 ,"Ban_Rate":0.009660351365313902
 ,"Ban_Rate_Game":0.05722
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":10528.173688394276
 ,"True_Damage_Taken":3929738
 ,"True_Damage_Taken_Average":780.9495230524642
-,"Sight_Wards_Bought":1845
-,"Sight_Wards_Bought_Average":0.36665341812400637
+,"sight_Wards_Bought":1845
+,"sight_Wards_Bought_Average":0.36665341812400637
 ,"Vision_Wards_Bought":1607
 ,"Vision_Wards_Bought_Average":0.31935612082670906
 ,"Total_Wards_Bought":0.6860095389507154
@@ -90,7 +90,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Randuin’s Omen",

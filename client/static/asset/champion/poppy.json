@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":1630
 ,"Ban_Rate":0.0016832174608909403
 ,"Ban_Rate_Game":0.00997
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":6790.668098159509
 ,"True_Damage_Taken":1658655
 ,"True_Damage_Taken_Average":1017.579754601227
-,"Sight_Wards_Bought":428
-,"Sight_Wards_Bought_Average":0.2625766871165644
+,"sight_Wards_Bought":428
+,"sight_Wards_Bought_Average":0.2625766871165644
 ,"Vision_Wards_Bought":310
 ,"Vision_Wards_Bought_Average":0.1901840490797546
 ,"Total_Wards_Bought":0.452760736196319
@@ -90,7 +90,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Trinity Force",

@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":18662
 ,"Ban_Rate":0.07137888769208432
 ,"Ban_Rate_Game":0.42279
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":2124.048601436073
 ,"True_Damage_Taken":16214935
 ,"True_Damage_Taken_Average":868.874450755546
-,"Sight_Wards_Bought":6356
-,"Sight_Wards_Bought_Average":0.34058514628657166
+,"sight_Wards_Bought":6356
+,"sight_Wards_Bought_Average":0.34058514628657166
 ,"Vision_Wards_Bought":3529
 ,"Vision_Wards_Bought_Average":0.1891008466402315
 ,"Total_Wards_Bought":0.5296859929268032
@@ -90,10 +90,10 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
-		"name" : "Statikk Shiv",
+		"name" : 'statikk Shiv",
 		"percentages" : "92.44%",
 		"win" : "51.91%",
 	},

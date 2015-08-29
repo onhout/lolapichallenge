@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 "Pick_Time":6584
 ,"Ban_Rate":0.005172896991143271
 ,"Ban_Rate_Game":0.03064
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":496.24817739975697
 ,"True_Damage_Taken":4161706
 ,"True_Damage_Taken_Average":632.0938639125152
-,"Sight_Wards_Bought":546
-,"Sight_Wards_Bought_Average":0.08292831105710814
+,"sight_Wards_Bought":546
+,"sight_Wards_Bought_Average":0.08292831105710814
 ,"Vision_Wards_Bought":655
 ,"Vision_Wards_Bought_Average":0.09948359659781288
 ,"Total_Wards_Bought":0.18241190765492102
@@ -88,57 +88,57 @@
 
 }
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Infinity Edge",
-		"percentages" : '77.53%',
-		"win" : '54.04%',
+		"percentages" : "77.53%",
+		"win" : "54.04%",
 	},
 	"two" : {
 		"name" : "The Bloodthirster",
-		"percentages" : '54.19%',
-		"win" : '56.44%',
+		"percentages" : "54.19%",
+		"win" : "56.44%",
 	},
 	"three" : {
-		"name" : "Statikk Shiv",
-		"percentages" : '35.76%',
-		"win" : '54.69%',
+		"name" : 'statikk Shiv",
+		"percentages" : "35.76%",
+		"win" : "54.69%",
 	},
 	"four" : {
 		"name" : "Last Whisper",
-		"percentages" : '26.64%',
-		"win" : '59.46%',
+		"percentages" : "26.64%",
+		"win" : "59.46%",
 	},
 	"five" : {
 		"name" : "Phantom Dancer",
-		"percentages" : '19.28%',
-		"win" : '59.21%',
+		"percentages" : "19.28%",
+		"win" : "59.21%",
 	},
 	"six" : {
 		"name" : "Mirage Blade",
-		"percentages" : '16.03%',
-		"win" : '55.11%',
+		"percentages" : "16.03%",
+		"win" : "55.11%",
 	},
 	"seven" : {
 		"name" : "Youmuu’s Ghostblade",
-		"percentages" : '8.73%',
-		"win" : '59.65%',
+		"percentages" : "8.73%",
+		"win" : "59.65%",
 	},
 	"eight" : {
 		"name" : "Typhoon Claws",
-		"percentages" : '7.45%',
-		"win" : '47.25%',
+		"percentages" : "7.45%",
+		"win" : "47.25%",
 	},
 	"nine" : {
 		"name" : "Guardian Angel",
-		"percentages" : '3.67%',
-		"win" : '57.43%',
+		"percentages" : "3.67%",
+		"win" : "57.43%",
 	},
 	"ten" : {
 		"name" : "Flesheater",
-		"percentages" : '2.79%',
-		"win" : '47.82%',
+		"percentages" : "2.79%",
+		"win" : "47.82%",
 	},
 
 }

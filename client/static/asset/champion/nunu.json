@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":3949
 ,"Ban_Rate":0.0009758271739167137
 ,"Ban_Rate_Game":0.00578
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":45670.848316029376
 ,"True_Damage_Taken":3938714
 ,"True_Damage_Taken_Average":997.395289946822
-,"Sight_Wards_Bought":1838
-,"Sight_Wards_Bought_Average":0.46543428716130664
+,"sight_Wards_Bought":1838
+,"sight_Wards_Bought_Average":0.46543428716130664
 ,"Vision_Wards_Bought":1620
 ,"Vision_Wards_Bought_Average":0.4102304380855913
 ,"Total_Wards_Bought":0.875664725246898
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Rod of Ages",
@@ -104,12 +104,12 @@
 		"win" : "56.94%",
 	},
 	"three" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "16.08%",
 		"win" : "56.85%",
 	},
 	"four" : {
-		"name" : "Sightstone",
+		"name" : "sightstone",
 		"percentages" : "13.62%",
 		"win" : "49.81%",
 	},

@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":1582
 ,"Ban_Rate":0.0014012743154859383
 ,"Ban_Rate_Game":0.0083
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":2514.6719342604297
 ,"True_Damage_Taken":1781951
 ,"True_Damage_Taken_Average":1126.3912768647283
-,"Sight_Wards_Bought":476
-,"Sight_Wards_Bought_Average":0.3008849557522124
+,"sight_Wards_Bought":476
+,"sight_Wards_Bought_Average":0.3008849557522124
 ,"Vision_Wards_Bought":275
 ,"Vision_Wards_Bought_Average":0.1738305941845765
 ,"Total_Wards_Bought":0.4747155499367889
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Muramana",
@@ -104,7 +104,7 @@
 		"win" : "45.84%",
 	},
 	"three" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "32.42%",
 		"win" : "50.87%",
 	},

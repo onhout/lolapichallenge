@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":6240
 ,"Ban_Rate":0.0007782981439024307
 ,"Ban_Rate_Game":0.00461
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":4861.358653846154
 ,"True_Damage_Taken":3897213
 ,"True_Damage_Taken_Average":624.5533653846154
-,"Sight_Wards_Bought":1151
-,"Sight_Wards_Bought_Average":0.18445512820512822
+,"sight_Wards_Bought":1151
+,"sight_Wards_Bought_Average":0.18445512820512822
 ,"Vision_Wards_Bought":926
 ,"Vision_Wards_Bought_Average":0.1483974358974359
 ,"Total_Wards_Bought":0.3328525641025641
@@ -93,7 +93,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Trinity Force",
@@ -116,7 +116,7 @@
 		"win" : "57.86%",
 	},
 	"five" : {
-		"name" : "Seraph’s Embrace",
+		"name" : "seraph’s Embrace",
 		"percentages" : "12.61%",
 		"win" : "52.47%",
 	},

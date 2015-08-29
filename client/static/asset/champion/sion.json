@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":3987
 ,"Ban_Rate":0.0007242731100523705
 ,"Ban_Rate_Game":0.00429
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":3680.622272385252
 ,"True_Damage_Taken":4963546
 ,"True_Damage_Taken_Average":1244.9325307248557
-,"Sight_Wards_Bought":1084
-,"Sight_Wards_Bought_Average":0.271883621770755
+,"sight_Wards_Bought":1084
+,"sight_Wards_Bought_Average":0.271883621770755
 ,"Wards_Bought":810
 ,"Wards_Bought_Average":0.20316027088036118
 ,"Total_Wards_Bought":0.47504389265111613
@@ -91,7 +91,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Frozen Heart",
@@ -119,7 +119,7 @@
 		"win" : "56.28%",
 	},
 	"six" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "16.80%",
 		"win" : "52.38%",
 	},
@@ -129,7 +129,7 @@
 		"win" : "51.66%",
 	},
 	"eight" : {
-		"name" : "Sunfire Cape",
+		"name" : 'sunfire Cape",
 		"percentages" : "13.19%",
 		"win" : "55.13%",
 	},

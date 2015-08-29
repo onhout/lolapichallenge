@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":6544
 ,"Ban_Rate":0.0020681458270726196
 ,"Ban_Rate_Game":0.01225
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":4866.393337408313
 ,"True_Damage_Taken":6488002
 ,"True_Damage_Taken_Average":991.442848410758
-,"Sight_Wards_Bought":1575
-,"Sight_Wards_Bought_Average":0.24067848410757947
+,"sight_Wards_Bought":1575
+,"sight_Wards_Bought_Average":0.24067848410757947
 ,"Vision_Wards_Bought":1104
 ,"Vision_Wards_Bought_Average":0.1687041564792176
 ,"Total_Wards_Bought":0.4093826405867971
@@ -92,7 +92,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Ravenous Hydra",

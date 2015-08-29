@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":5305
 ,"Ban_Rate":0.0013134836354795904
 ,"Ban_Rate_Game":0.00778
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":743.7747408105561
 ,"True_Damage_Taken":3293517
 ,"True_Damage_Taken_Average":620.8326107445806
-,"Sight_Wards_Bought":1302
-,"Sight_Wards_Bought_Average":0.24542884071630539
+,"sight_Wards_Bought":1302
+,"sight_Wards_Bought_Average":0.24542884071630539
 ,"Vision_Wards_Bought":867
 ,"Vision_Wards_Bought_Average":0.16343072573044298
 ,"Total_Wards_Bought":0.40885956644674837
@@ -90,7 +90,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Rabadon’s Deathcap",
@@ -113,7 +113,7 @@
 		"win" : "53.72%",
 	},
 	"five" : {
-		"name" : "Seraph’s Embrace",
+		"name" : "seraph’s Embrace",
 		"percentages" : "19.17%",
 		"win" : "54.47%",
 	},

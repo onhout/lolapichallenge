@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":14699
 ,"Ban_Rate":0.001484000148568843
 ,"Ban_Rate_Game":0.00879
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":540.0138784951357
 ,"True_Damage_Taken":7992741
 ,"True_Damage_Taken_Average":543.7608680862644
-,"Sight_Wards_Bought":1630
-,"Sight_Wards_Bought_Average":0.11089189740798694
+,"sight_Wards_Bought":1630
+,"sight_Wards_Bought_Average":0.11089189740798694
 ,"Vision_Wards_Bought":1893
 ,"Vision_Wards_Bought_Average":0.12878427103884618
 ,"Total_Wards_Bought":0.23967616844683312
@@ -94,7 +94,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Infinity Edge",
@@ -102,7 +102,7 @@
 		"win" : "54.83%",
 	},
 	"two" : {
-		"name" : "Statikk Shiv",
+		"name" : 'statikk Shiv",
 		"percentages" : "34.79%",
 		"win" : "54.24%",
 	},

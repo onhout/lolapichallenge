@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":7005
 ,"Ban_Rate":0.009523600498380937
 ,"Ban_Rate_Game":0.05641
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":9409.282512491078
 ,"True_Damage_Taken":5326098
 ,"True_Damage_Taken_Average":760.3280513918629
-,"Sight_Wards_Bought":3373
-,"Sight_Wards_Bought_Average":0.48151320485367594
+,"sight_Wards_Bought":3373
+,"sight_Wards_Bought_Average":0.48151320485367594
 ,"Vision_Wards_Bought":2748
 ,"Vision_Wards_Bought_Average":0.3922912205567452
 ,"Total_Wards_Bought":0.8738044254104211
@@ -93,7 +93,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Liandry’s Torment",
@@ -121,7 +121,7 @@
 		"win" : "54.19%",
 	},
 	"six" : {
-		"name" : "Sunfire Cape",
+		"name" : 'sunfire Cape",
 		"percentages" : "9.35%",
 		"win" : "54.50%",
 	},

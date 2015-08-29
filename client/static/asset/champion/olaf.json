@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":4025
 ,"Ban_Rate":0.0009589443508385698
 ,"Ban_Rate_Game":0.00568
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":15656.788571428571
 ,"True_Damage_Taken":4617564
 ,"True_Damage_Taken_Average":1147.2208695652173
-,"Sight_Wards_Bought":1007
-,"Sight_Wards_Bought_Average":0.2501863354037267
+,"sight_Wards_Bought":1007
+,"sight_Wards_Bought_Average":0.2501863354037267
 ,"Vision_Wards_Bought":727
 ,"Vision_Wards_Bought_Average":0.18062111801242237
 ,"Total_Wards_Bought":0.43080745341614907
@@ -89,7 +89,7 @@
 }
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Ravenous Hydra",
@@ -102,7 +102,7 @@
 		"win" : "55.38%",
 	},
 	"three" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "29.24%",
 		"win" : "50.29%",
 	},

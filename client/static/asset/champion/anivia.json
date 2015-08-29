@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":2221
 ,"Ban_Rate":0.0010703709831543192
 ,"Ban_Rate_Game":0.00634
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":628.4790634849167
 ,"True_Damage_Taken":1605868
 ,"True_Damage_Taken_Average":723.038271049077
-,"Sight_Wards_Bought":715
-,"Sight_Wards_Bought_Average":0.32192705988293563
+,"sight_Wards_Bought":715
+,"sight_Wards_Bought_Average":0.32192705988293563
 ,"Vision_Wards_Bought":456
 ,"Vision_Wards_Bought_Average":0.20531292210715893
 ,"Total_Wards_Bought":0.5272399819900946
@@ -84,23 +84,19 @@
 ,"Win":1092
 ,"Win_Rate":0.49167041873030165
 ,"lose":1129
-,"Lose_Rate":0.5083295812696983
-
-	
-	
-}
+,"Lose_Rate":0.5083295812696983,
 
 
 
 
-"Items" = {
+"Items" : {
 	"one" : {
 		"name" : "Rod of Ages",
 		"percentages" : "65.37%",
 		"win" : "51.97%",
 	},
 	"two" : {
-		"name" : "Seraph’s Embrace",
+		"name" : "seraph’s Embrace",
 		"percentages" : "31.38%",
 		"win" : "69.23%",
 	},

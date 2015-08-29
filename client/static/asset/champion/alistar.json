@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 
 "Pick_Time":5896
 ,"Ban_Rate":0.002110352884767979
@@ -73,8 +73,8 @@
 ,"True_Damage_Dealt_Average":3310.077170963365
 ,"True_Damage_Taken":6880553
 ,"True_Damage_Taken_Average":1166.9866010854817
-,"Sight_Wards_Bought":3370
-,"Sight_Wards_Bought_Average":0.5715739484396201
+,"sight_Wards_Bought":3370
+,"sight_Wards_Bought_Average":0.5715739484396201
 ,"Vision_Wards_Bought":3834
 ,"Vision_Wards_Bought_Average":0.6502713704206241
 ,"Total_Wards_Bought":1.2218453188602443
@@ -97,56 +97,56 @@
 }
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
-		"name" : 'Sightstone',
-		"percentages" : '54.12%',
+		"name" : "sightstone",
+		"percentages" : "54.12%",
 		"win" : "50.29%",
 	},
 	"two" : {
-		"name" : 'Face of the Mountain',
-		"percentages" : '45.01%',
+		"name" : "Face of the Mountain",
+		"percentages" : "45.01%",
 		"win" : "53.39%",
 	},
 	"three" : {
-		"name" : 'Frozen Heart',
-		"percentages" : '15.33%',
+		"name" : "Frozen Heart",
+		"percentages" : "15.33%",
 		"win" : "57.74%",
 	},
 	"four" : {
 		"name" : "Martyr’s Gambit",
-		"percentages" : '14.12%',
+		"percentages" : "14.12%",
 		"win" : "61.82%",
 	},
 	"five" : {
 		"name" : "Righteous Glory",
-		"percentages" : '13.63%',
+		"percentages" : "13.63%",
 		"win" : "56.71%",
 	},
 	"six" : {
 		"name" : "Ruby Sightstone",
-		"percentages" : '12.65%',
+		"percentages" : "12.65%",
 		"win" : "44.36%",
 	},
 	"seven" : {
 		"name" : "Dead Man’s Plate",
-		"percentages" : '11.77%',
+		"percentages" : "11.77%",
 		"win" : "60.08%",
 	},
 	"eight" : {
 		"name" : "Randuin’s Omen",
-		"percentages" : '10.60%',
+		"percentages" : "10.60%",
 		"win" : "53.76%",
 	},
 	"nine" : {
-		"name" : "Spirit Visage",
-		"percentages" : '8.19%',
+		"name" : "spirit Visage",
+		"percentages" : "8.19%",
 		"win" : "58.38%",
 	},
 	"ten" : {
 		"name" : "Trickster’s Glass",
-		"percentages" : '7.63%',
+		"percentages" : "7.63%",
 		"win" : "54.44%",
 	},
 

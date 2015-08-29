@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":9249
 ,"Ban_Rate":0.0007192082631289273
 ,"Ban_Rate_Game":0.00426
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":195.23980970915775
 ,"True_Damage_Taken":4493822
 ,"True_Damage_Taken_Average":485.87112120229216
-,"Sight_Wards_Bought":5854
-,"Sight_Wards_Bought_Average":0.6329332900854147
+,"sight_Wards_Bought":5854
+,"sight_Wards_Bought_Average":0.6329332900854147
 ,"Vision_Wards_Bought":5003
 ,"Vision_Wards_Bought_Average":0.540923343064115
 ,"Total_Wards_Bought":1.1738566331495297
@@ -92,10 +92,10 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
-		"name" : "Sightstone",
+		"name" : "sightstone",
 		"percentages" : "56.48%",
 		"win" : "51.05%",
 	},
@@ -130,7 +130,7 @@
 		"win" : "57.80%",
 	},
 	"eight" : {
-		"name" : "Staff of Flowing Water",
+		"name" : 'staff of Flowing Water",
 		"percentages" : "8.93%",
 		"win" : "60.41%",
 	},

@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":810
 ,"Ban_Rate":0.0013371195877889916
 ,"Ban_Rate_Game":0.00792
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":813.6234567901234
 ,"True_Damage_Taken":660320
 ,"True_Damage_Taken_Average":815.2098765432099
-,"Sight_Wards_Bought":171
-,"Sight_Wards_Bought_Average":0.2111111111111111
+,"sight_Wards_Bought":171
+,"sight_Wards_Bought_Average":0.2111111111111111
 ,"Vision_Wards_Bought":141
 ,"Vision_Wards_Bought_Average":0.17407407407407408
 ,"Total_Wards_Bought":0.3851851851851852
@@ -94,7 +94,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "The Black Cleaver",

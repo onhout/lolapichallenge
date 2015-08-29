@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":8538
 ,"Ban_Rate":0.10662009258540175
 ,"Ban_Rate_Game":0.63153
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":841.0660576247365
 ,"True_Damage_Taken":6708847
 ,"True_Damage_Taken_Average":785.763293511361
-,"Sight_Wards_Bought":4499
-,"Sight_Wards_Bought_Average":0.5269383930662919
+,"sight_Wards_Bought":4499
+,"sight_Wards_Bought_Average":0.5269383930662919
 ,"Vision_Wards_Bought":1532
 ,"Vision_Wards_Bought_Average":0.17943312251112672
 ,"Total_Wards_Bought":0.7063715155774186
@@ -92,7 +92,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Luden’s Echo",

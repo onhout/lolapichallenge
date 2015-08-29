@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":3571
 ,"Ban_Rate":0.0005858339608115911
 ,"Ban_Rate_Game":0.00347
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":9875.676841220946
 ,"True_Damage_Taken":3290063
 ,"True_Damage_Taken_Average":921.3281993839261
-,"Sight_Wards_Bought":1240
-,"Sight_Wards_Bought_Average":0.34724166900028003
+,"sight_Wards_Bought":1240
+,"sight_Wards_Bought_Average":0.34724166900028003
 ,"Vision_Wards_Bought":882
 ,"Vision_Wards_Bought_Average":0.2469896387566508
 ,"Total_Wards_Bought":0.5942313077569308
@@ -93,7 +93,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Blade of the Ruined King",

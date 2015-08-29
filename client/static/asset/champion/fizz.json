@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":15258
 ,"Ban_Rate":0.03547249956948801
 ,"Ban_Rate_Game":0.21011
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":3723.0372919124393
 ,"True_Damage_Taken":12974237
 ,"True_Damage_Taken_Average":850.3235679643466
-,"Sight_Wards_Bought":4120
-,"Sight_Wards_Bought_Average":0.27002228339231876
+,"sight_Wards_Bought":4120
+,"sight_Wards_Bought_Average":0.27002228339231876
 ,"Vision_Wards_Bought":2794
 ,"Vision_Wards_Bought_Average":0.18311705334906278
 ,"Total_Wards_Bought":0.45313933674138157
@@ -89,7 +89,7 @@
 }
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Lich Bane",

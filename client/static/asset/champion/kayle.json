@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":6540
 ,"Ban_Rate":0.010877602909248073
 ,"Ban_Rate_Game":0.06443
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":7425.112079510704
 ,"True_Damage_Taken":4160520
 ,"True_Damage_Taken_Average":636.1651376146789
-,"Sight_Wards_Bought":2041
-,"Sight_Wards_Bought_Average":0.3120795107033639
+,"sight_Wards_Bought":2041
+,"sight_Wards_Bought_Average":0.3120795107033639
 ,"Vision_Wards_Bought":1640
 ,"Vision_Wards_Bought_Average":0.25076452599388377
 ,"Total_Wards_Bought":0.5628440366972477
@@ -89,7 +89,7 @@
 }
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Nashor’s Tooth",

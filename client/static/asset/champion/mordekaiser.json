@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":2690
 ,"Ban_Rate":0.0011463436870059664
 ,"Ban_Rate_Game":0.00679
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":1286.1375464684015
 ,"True_Damage_Taken":2236013
 ,"True_Damage_Taken_Average":831.2315985130111
-,"Sight_Wards_Bought":968
-,"Sight_Wards_Bought_Average":0.35985130111524166
+,"sight_Wards_Bought":968
+,"sight_Wards_Bought_Average":0.35985130111524166
 ,"Vision_Wards_Bought":554
 ,"Vision_Wards_Bought_Average":0.20594795539033459
 ,"Total_Wards_Bought":0.5657992565055762
@@ -92,7 +92,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Will of the Ancients",

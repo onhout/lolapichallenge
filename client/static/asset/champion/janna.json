@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":5917
 ,"Ban_Rate":0.0008593356946775212
 ,"Ban_Rate_Game":0.00509
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":174.6293729930708
 ,"True_Damage_Taken":2828864
 ,"True_Damage_Taken_Average":478.09092445496026
-,"Sight_Wards_Bought":4351
-,"Sight_Wards_Bought_Average":0.735338854149062
+,"sight_Wards_Bought":4351
+,"sight_Wards_Bought_Average":0.735338854149062
 ,"Vision_Wards_Bought":5144
 ,"Vision_Wards_Bought_Average":0.8693594727057631
 ,"Total_Wards_Bought":1.6046983268548252
@@ -91,10 +91,10 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
-		"name" : "Sightstone",
+		"name" : "sightstone",
 		"percentages" : "64.00%",
 		"win" : "52.44%",
 	},

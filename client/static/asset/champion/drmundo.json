@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":2714
 ,"Ban_Rate":0.0008492060008306349
 ,"Ban_Rate_Game":0.00503
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":2421.0696389093587
 ,"True_Damage_Taken":4021532
 ,"True_Damage_Taken_Average":1481.7730287398674
-,"Sight_Wards_Bought":771
-,"Sight_Wards_Bought_Average":0.2840825350036846
+,"sight_Wards_Bought":771
+,"sight_Wards_Bought_Average":0.2840825350036846
 ,"Vision_Wards_Bought":492
 ,"Vision_Wards_Bought_Average":0.1812822402358143
 ,"Total_Wards_Bought":0.4653647752394989
@@ -91,57 +91,57 @@
 }
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
-		"name" : "Spirit Visage",
-		"percentages" : '55.19%',
-		"win" : '50.26%',
+		"name" : "spirit Visage",
+		"percentages" : "55.19%",
+		"win" : "50.26%",
 	},
 	"two" : {
-		"name" : "Sunfire Cape",
-		"percentages" : '48.93%',
-		"win" : '50.22%',
+		"name" : 'sunfire Cape",
+		"percentages" : "48.93%",
+		"win" : "50.22%",
 	},
 	"three" : {
 		"name" : "Warmog’s Armor",
-		"percentages" : '41.04%',
-		"win" : '52.69%',
+		"percentages" : "41.04%",
+		"win" : "52.69%",
 	},
 	"four" : {
 		"name" : "Thornmail",
-		"percentages" : '24.24%',
-		"win" : '50.60%',
+		"percentages" : "24.24%",
+		"win" : "50.60%",
 	},
 	"five" : {
 		"name" : "Dead Man’s Plate",
-		"percentages" : '18.64%',
-		"win" : '52.76%',
+		"percentages" : "18.64%",
+		"win" : "52.76%",
 	},
 	"six" : {
 		"name" : "Randuin’s Omen",
-		"percentages" : '15.10%',
-		"win" : '53.17%',
+		"percentages" : "15.10%",
+		"win" : "53.17%",
 	},
 	"seven" : {
 		"name" : "Ruby Sightstone",
-		"percentages" : '14.81%',
-		"win" : '43.78%',
+		"percentages" : "14.81%",
+		"win" : "43.78%",
 	},
 	"eight" : {
 		"name" : "Martyr’s Gambit",
-		"percentages" : '12.89%',
-		"win" : '52.28%',
+		"percentages" : "12.89%",
+		"win" : "52.28%",
 	},
 	"nine" : {
 		"name" : "Banshee’s Veil",
-		"percentages" : '5.23%',
-		"win" : '48.59%',
+		"percentages" : "5.23%",
+		"win" : "48.59%",
 	},
 	"ten" : {
 		"name" : "Frozen Mallet",
-		"percentages" : '4.86%',
-		"win" : '57.57%',
+		"percentages" : "4.86%",
+		"win" : "57.57%",
 	},
 
 }

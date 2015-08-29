@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":4649
 ,"Ban_Rate":0.0021289239901539376
 ,"Ban_Rate_Game":0.01261
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":10634.155947515595
 ,"True_Damage_Taken":5586514
 ,"True_Damage_Taken_Average":1201.6592815659283
-,"Sight_Wards_Bought":696
-,"Sight_Wards_Bought_Average":0.1497096149709615
+,"sight_Wards_Bought":696
+,"sight_Wards_Bought_Average":0.1497096149709615
 ,"Vision_Wards_Bought":449
 ,"Vision_Wards_Bought_Average":0.09657990965799097
 ,"Total_Wards_Bought":0.24628952462895246
@@ -94,7 +94,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Trinity Force",
@@ -107,12 +107,12 @@
 		"win" : "56.29%",
 	},
 	"three" : {
-		"name" : "Statikk Shiv",
+		"name" : 'statikk Shiv",
 		"percentages" : "37.34%",
 		"win" : "50.63%",
 	},
 	"four" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "16.86%",
 		"win" : "49.87%",
 	},

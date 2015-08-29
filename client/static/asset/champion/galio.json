@@ -1,4 +1,4 @@
-{"champion" = {
+{"champion" : {
 	"Pick_Time":2316
 ,"Ban_Rate":0.002733329056351487
 ,"Ban_Rate_Game":0.01619
@@ -72,8 +72,8 @@
 ,"True_Damage_Dealt_Average":1009.7815198618307
 ,"True_Damage_Taken":2682440
 ,"True_Damage_Taken_Average":1158.2210708117443
-,"Sight_Wards_Bought":682
-,"Sight_Wards_Bought_Average":0.29447322970639034
+,"sight_Wards_Bought":682
+,"sight_Wards_Bought_Average":0.29447322970639034
 ,"Vision_Wards_Bought":422
 ,"Vision_Wards_Bought_Average":0.18221070811744386
 ,"Total_Wards_Bought":0.47668393782383417
@@ -92,7 +92,7 @@
 
 
 
-"Items" = {
+"Items" : {
 
 	"one" : {
 		"name" : "Athene’s Unholy Grail",
@@ -105,7 +105,7 @@
 		"win" : "56.05%",
 	},
 	"three" : {
-		"name" : "Spirit Visage",
+		"name" : "spirit Visage",
 		"percentages" : "20.12%",
 		"win" : "53.64%",
 	},
@@ -135,12 +135,12 @@
 		"win" : "50.00%",
 	},
 	"nine" : {
-		"name" : "Staff of Flowing Water",
+		"name" : 'staff of Flowing Water",
 		"percentages" : "7.51%",
 		"win" : "55.17%",
 	},
 	"ten" : {
-		"name" : "Sightstone",
+		"name" : "sightstone",
 		"percentages" : "7.25%",
 		"win" : "51.78%",
 	},

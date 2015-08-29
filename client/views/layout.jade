@@ -5,17 +5,21 @@ doctype html
 html
    head(lang='en')
       meta(charset='utf8')
-      script(src='bower_components/jquery/dist/jquery.min.js')
       link(href='bower_components/bootstrap/dist/css/bootstrap.min.css' rel='stylesheet' type='text/css')
-      script(src='bower_components/bootstrap/dist/js/bootstrap.min.js')
       link(href='bower_components/bootstrap-material-design/dist/css/material-fullpalette.min.css' rel='stylesheet' type='text/css')
+      link(href='bower_components/bootstrap-material-design/dist/css/ripples.min.css' rel='stylesheet' type='text/css')
       link(href='bower_components/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css')
+
       //user scripts and css
       script(src='dist/API.js')
       link(href='dist/main.min.css' rel='stylesheet' type='text/css')
       block title
    body
-      .navbar.navbar-inverse
+      script(src='bower_components/jquery/dist/jquery.min.js')
+      script(src='bower_components/bootstrap/dist/js/bootstrap.min.js')
+      script(src='bower_components/bootstrap-material-design/dist/js/ripples.min.js')
+      script(src='bower_components/bootstrap-material-design/dist/js/material.min.js')
+      .navbar.navbar-default
          .container-fluid
             .navbar-header
                button.navbar-toggle.collapsed(data-toggle='collapse' data-target='#mainNavBar' aria-expanded='false')
@@ -26,5 +30,9 @@ html
                a.navbar-brand(href='#') LOL Navbar
             .collapse.navbar-collapse#mainNavBar
                ul.nav.navbar-nav
-                  li: a(href='#') Link
+                  li: a(href='/') Home
+                  li: a(href='/champions') Champions
+                  li: a(href='/firsts') Firsts
+                  li: a(href='/teams') Teams
+                  li: a(href='/topten') Top Ten
       block content

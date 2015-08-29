@@ -1,0 +1,147 @@
+{"champion" = {
+"Pick_Time":21402
+,"Ban_Rate":0.0148011709926087
+,"Ban_Rate_Game":0.08767
+,"Ban_Time":8767
+,"Pick_Rate":0.21402
+,"Assists_Rate":9.010419586954491
+,"Assists":192841
+,"Death_Rate":6.383188487057284
+,"Death":136613
+,"Kills_Rate":3.4032333426782544
+,"Kills":72836
+,"KDA":1.9447417156493159
+,"Gold_Earned":188151569
+,"Gold_Earned_Average":8791.3077749743
+,"Gold_Spent":172220572
+,"Gold_Spent_Average":8046.938230071956
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":979
+,"First_Blood_Average":0.045743388468367445
+,"First_Inhibitor_Assist":3051
+,"First_Inhibitor_Assist_Average":0.14255677039529016
+,"First_Inhibitor_Kill":399
+,"First_Inhibitor_Kill_Average":0.018643117465657416
+,"First_Tower_Kill":626
+,"First_Tower_Kill_Average":0.029249602840855995
+,"First_Tower_Assist":1381
+,"First_Tower_Assist_Average":0.06452667974955612
+,"Largest_Killing_Spree":30276
+,"Largest_Killing_Spree_Average":1.4146341463414633
+,"Largest_Multu_Kill":21221
+,"Largest_Multi_Kill_Average":0.9915428464629474
+,"Largest_Critical_Strike":1270
+,"Total_Crit_Average":9.243061396131203
+,"Total_Crit":197820
+,"Magic_Damage_Dealt_To_Champion_Average":8995.128025418186
+,"Magic_Damage_Dealt_To_Champion":192513730
+,"Magic_Damage_Dealt":808061236
+,"Magic_Damage_Dealt_Average":37756.34221100832
+,"Magic_Damage_Taken":210252744
+,"Magic_Damage_Taken_Average":9823.976450798991
+,"Minions_Killed":1167570
+,"Minions_Killed_Average":54.554247266610595
+,"Neutral_Minion_Killed":115274
+,"Neutral_Minion_Killed_Average":5.3861321371834405
+,"Neutral_Minion_Killed_Enemy_Jungle":30975
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":1.4472946453602467
+,"Pentakills":0
+,"Pentakills_Average":0
+,"Physical_Damage_Dealt_To_Champion":40665743
+,"Physical_Damage_Dealt_To_Champion_Average":1900.090785907859
+,"Physical_Damage_Dealt":285163035
+,"Physical_Damage_Dealt_Average":13324.130221474628
+,"Physical_Damage_Taken":390485358
+,"Physical_Damage_Taken_Average":18245.27417998318
+,"Total_Damage_Dealt":1167816824
+,"Total_Damage_Dealt_Average":54565.78002055883
+,"Total_Damage_Dealt_To_Champion":237583646
+,"Total_Damage_Dealt_To_Champion_Average":11101.002055882627
+,"Total_Damage_Taken":619042321
+,"Total_Damage_Taken_Average":28924.50803663209
+,"Total_Heal":117766693
+,"Total_Heal_Average":5502.602233436128
+,"Total_Time_Crowd_Control_Dealt":11795175
+,"Total_Time_Crowd_Control_Dealt_Average":551.1248948696383
+,"Tower_Kills":6086
+,"Tower_Kills_Average":0.28436594710774693
+,"True_Damage_Dealt_To_Champion":4393070
+,"True_Damage_Dealt_To_Champion_Average":205.26446126530232
+,"True_Damage_Dealt":74574775
+,"True_Damage_Dealt_Average":3484.4769180450426
+,"True_Damage_Taken":18289613
+,"True_Damage_Taken_Average":854.574946266704
+,"Sight_Wards_Bought":9088
+,"Sight_Wards_Bought_Average":0.42463321184935987
+,"Vision_Wards_Bought":7318
+,"Vision_Wards_Bought_Average":0.3419306606859172
+,"Total_Wards_Bought":0.766563872535277
+,"Wards_Placed":210210
+,"Wards_Placed_Average":9.821979254275302
+,"Wards_Killed":12720
+,"WardsKilled_Average":0.5943369778525371
+,"Win":9361
+,"Win_Rate":0.43738902906270444
+,"lose":12041
+,"Lose_Rate":0.5626109709372956
+}
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Face of the Mountain",
+		"percentages" : "39.24%",
+		"win" : "50.16%",
+	},
+	"two" : {
+		"name" : "Sightstone",
+		"percentages" :"35.25%" ,
+		"win" : "45.30%",
+	},
+	"three" : {
+		"name" : "Sunfire Cape",
+		"percentages" : "19.94%",
+		"win" : "50.43%",
+	},
+	"four" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "15.91%",
+		"win" : "53.33%",
+	},
+	"five" : {
+		"name" : "Warmog’s Armor",
+		"percentages" : "14.41%",
+		"win" : "54.73%",
+	},
+	"six" : {
+		"name" : "Spirit Visage",
+		"percentages" : "13.62%",
+		"win" : "51.16%",
+	},
+	"seven" : {
+		"name" : "Ruby Sightstone",
+		"percentages" : "13.23%",
+		"win" : "38.12%",
+	},
+	"eight" : {
+		"name" : "Martyr’s Gambit",
+		"percentages" : "11.76%",
+		"win" : "53.67%",
+	},
+	"nine" : {
+		"name" : "Rod of Ages",
+		"percentages" : "9.70%",
+		"win" : "41.42%",
+	},
+	"ten" : {
+		"name" : "Trickster’s Glass",
+		"percentages" : "9.43%",
+		"win" : "47.52%",
+	},
+
+}
+}

@@ -1,0 +1,152 @@
+{"champion" = {
+"Pick_Time":9591
+,"Ban_Rate":0.002469957016332443
+,"Ban_Rate_Game":0.01463
+,"Ban_Time":1463
+,"Pick_Rate":0.09591
+,"Assists_Rate":11.194036075487436
+,"Assists":107362
+,"Death_Rate":6.564904598060682
+,"Death":62964
+,"Kills_Rate":2.6939839432801587
+,"Kills":25838
+,"KDA":2.115494568324757
+,"Gold_Earned":84676833
+,"Gold_Earned_Average":8828.780419142946
+,"Gold_Spent":76802427
+,"Gold_Spent_Average":8007.760087582108
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":503
+,"First_Blood_Average":0.052445000521322074
+,"First_Inhibitor_Assist":1296
+,"First_Inhibitor_Assist_Average":0.1351266812636847
+,"First_Inhibitor_Kill":209
+,"First_Inhibitor_Kill_Average":0.021791262642060265
+,"First_Tower_Kill":152
+,"First_Tower_Kill_Average":0.015848191012407465
+,"First_Tower_Assist":449
+,"First_Tower_Assist_Average":0.04681472213533521
+,"Largest_Killing_Spree":10205
+,"Largest_Killing_Spree_Average":1.0640183505369618
+,"Largest_Multu_Kill":8912
+,"Largest_Multi_Kill_Average":0.929204462516943
+,"Largest_Critical_Strike":1292
+,"Total_Crit_Average":17.78156605150662
+,"Total_Crit":170543
+,"Magic_Damage_Dealt_To_Champion_Average":7008.529976019185
+,"Magic_Damage_Dealt_To_Champion":67218811
+,"Magic_Damage_Dealt":223269283
+,"Magic_Damage_Dealt_Average":23279.041080179333
+,"Magic_Damage_Taken":75814926
+,"Magic_Damage_Taken_Average":7904.798873944323
+,"Minions_Killed":238724
+,"Minions_Killed_Average":24.890418100302366
+,"Neutral_Minion_Killed":17816
+,"Neutral_Minion_Killed_Average":1.8575748097174434
+,"Neutral_Minion_Killed_Enemy_Jungle":5370
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":0.5598999061620269
+,"Pentakills":2
+,"Pentakills_Average":0.00020852882911062454
+,"Physical_Damage_Dealt_To_Champion":22993404
+,"Physical_Damage_Dealt_To_Champion_Average":2397.3938066937753
+,"Physical_Damage_Dealt":95125159
+,"Physical_Damage_Dealt_Average":9918.169012615994
+,"Physical_Damage_Taken":111153102
+,"Physical_Damage_Taken_Average":11589.313106036909
+,"Total_Damage_Dealt":323996820
+,"Total_Damage_Dealt_Average":33781.33875508289
+,"Total_Damage_Dealt_To_Champion":92038554
+,"Total_Damage_Dealt_To_Champion_Average":9596.345949327495
+,"Total_Damage_Taken":192797467
+,"Total_Damage_Taken_Average":20101.915024502137
+,"Total_Heal":44651810
+,"Total_Heal_Average":4655.594828485038
+,"Total_Time_Crowd_Control_Dealt":4640686
+,"Total_Time_Crowd_Control_Dealt_Average":483.85840892503387
+,"Tower_Kills":2160
+,"Tower_Kills_Average":0.22521113543947452
+,"True_Damage_Dealt_To_Champion":1821345
+,"True_Damage_Dealt_To_Champion_Average":189.90147012824522
+,"True_Damage_Dealt":5597317
+,"True_Damage_Dealt_Average":583.6009800854969
+,"True_Damage_Taken":5823383
+,"True_Damage_Taken_Average":607.1716192263581
+,"Sight_Wards_Bought":8017
+,"Sight_Wards_Bought_Average":0.8358878114899385
+,"Vision_Wards_Bought":4642
+,"Vision_Wards_Bought_Average":0.48399541236575955
+,"Total_Wards_Bought":1.3198832238556981
+,"Wards_Placed":117075
+,"Wards_Placed_Average":12.206756334063185
+,"Wards_Killed":8449
+,"WardsKilled_Average":0.8809300385778334
+,"Win":4156
+,"Win_Rate":0.4333229068918778
+,"lose":5435
+,"Lose_Rate":0.5666770931081222
+
+
+
+
+
+}
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Sightstone",
+		"percentages" : "48.94%",
+		"win" : "44.14%",
+	},
+	"two" : {
+		"name" : "Frozen Heart",
+		"percentages" : "16.93%",
+		"win" : "50.86%",
+	},
+	"three" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : "13.96%",
+		"win" : "50.63%",
+	},
+	"four" : {
+		"name" : "Trickster’s Glass",
+		"percentages" : "13.54%",
+		"win" : "53.42%",
+	},
+	"five" : {
+		"name" : "Ruby Sightstone",
+		"percentages" : "10.76%",
+		"win" : "35.75%",
+	},
+	"six" : {
+		"name" : "Globe of Trust",
+		"percentages" : "9.90%",
+		"win" : "48.10%",
+	},
+	"seven" : {
+		"name" : "Talisman of Ascension",
+		"percentages" : "9.48%",
+		"win" : "48.13%",
+	},
+	"eight" : {
+		"name" : "Locket of the Iron Solari",
+		"percentages" : "7.90%",
+		"win" : "56.59%",
+	},
+	"nine" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "7.18%",
+		"win" : '52.53%',
+	},
+	"ten" : {
+		"name" : "Puppeteer",
+		"percentages" : "7.16%",
+		"win" : "53.56%",
+	},
+
+}
+
+}

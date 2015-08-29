@@ -1,0 +1,146 @@
+{"champion" = {
+	"Pick_Time":4025
+,"Ban_Rate":0.0009589443508385698
+,"Ban_Rate_Game":0.00568
+,"Ban_Time":568
+,"Pick_Rate":0.04025
+,"Assists_Rate":5.762732919254659
+,"Assists":23195
+,"Death_Rate":7.048198757763975
+,"Death":28369
+,"Kills_Rate":6.44
+,"Kills":25921
+,"KDA":1.7313264478832529
+,"Gold_Earned":43725022
+,"Gold_Earned_Average":10863.35950310559
+,"Gold_Spent":40524094
+,"Gold_Spent_Average":10068.097888198758
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":653
+,"First_Blood_Average":0.1622360248447205
+,"First_Inhibitor_Assist":391
+,"First_Inhibitor_Assist_Average":0.09714285714285714
+,"First_Inhibitor_Kill":380
+,"First_Inhibitor_Kill_Average":0.09440993788819876
+,"First_Tower_Kill":530
+,"First_Tower_Kill_Average":0.13167701863354037
+,"First_Tower_Assist":85
+,"First_Tower_Assist_Average":0.02111801242236025
+,"Largest_Killing_Spree":10621
+,"Largest_Killing_Spree_Average":2.638757763975155
+,"Largest_Multu_Kill":5605
+,"Largest_Multi_Kill_Average":1.3925465838509317
+,"Largest_Critical_Strike":1568
+,"Total_Crit_Average":128.46335403726707
+,"Total_Crit":517065
+,"Magic_Damage_Dealt_To_Champion_Average":531.4909316770186
+,"Magic_Damage_Dealt_To_Champion":2139251
+,"Magic_Damage_Dealt":26190568
+,"Magic_Damage_Dealt_Average":6506.973416149069
+,"Magic_Damage_Taken":35172243
+,"Magic_Damage_Taken_Average":8738.44546583851
+,"Minions_Killed":435964
+,"Minions_Killed_Average":108.31403726708075
+,"Neutral_Minion_Killed":97369
+,"Neutral_Minion_Killed_Average":24.19105590062112
+,"Neutral_Minion_Killed_Enemy_Jungle":22908
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":5.691428571428571
+,"Pentakills":2
+,"Pentakills_Average":0.0004968944099378882
+,"Physical_Damage_Dealt_To_Champion":47177548
+,"Physical_Damage_Dealt_To_Champion_Average":11721.1299378882
+,"Physical_Damage_Dealt":440621252
+,"Physical_Damage_Dealt_Average":109471.11850931677
+,"Physical_Damage_Taken":85055623
+,"Physical_Damage_Taken_Average":21131.831801242235
+,"Total_Damage_Dealt":529833567
+,"Total_Damage_Dealt_Average":131635.66881987578
+,"Total_Damage_Dealt_To_Champion":68720027
+,"Total_Damage_Dealt_To_Champion_Average":17073.298633540373
+,"Total_Damage_Taken":124848010
+,"Total_Damage_Taken_Average":31018.13913043478
+,"Total_Heal":17296169
+,"Total_Heal_Average":4297.184844720497
+,"Total_Time_Crowd_Control_Dealt":3625304
+,"Total_Time_Crowd_Control_Dealt_Average":900.6966459627329
+,"Tower_Kills":4680
+,"Tower_Kills_Average":1.1627329192546585
+,"True_Damage_Dealt_To_Champion":19400141
+,"True_Damage_Dealt_To_Champion_Average":4819.910807453416
+,"True_Damage_Dealt":63018574
+,"True_Damage_Dealt_Average":15656.788571428571
+,"True_Damage_Taken":4617564
+,"True_Damage_Taken_Average":1147.2208695652173
+,"Sight_Wards_Bought":1007
+,"Sight_Wards_Bought_Average":0.2501863354037267
+,"Vision_Wards_Bought":727
+,"Vision_Wards_Bought_Average":0.18062111801242237
+,"Total_Wards_Bought":0.43080745341614907
+,"Wards_Placed":21848
+,"Wards_Placed_Average":5.428074534161491
+,"Wards_Killed":1591
+,"WardsKilled_Average":0.39527950310559007
+,"Win":1903
+,"Win_Rate":0.4727950310559006
+,"lose":2122
+,"Lose_Rate":0.5272049689440994
+
+}
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Ravenous Hydra",
+		"percentages" : "41.24%",
+		"win" : "52.65%",
+	},
+	"two" : {
+		"name" : "Blade of the Ruined King",
+		"percentages" :"33.68%" ,
+		"win" : "55.38%",
+	},
+	"three" : {
+		"name" : "Spirit Visage",
+		"percentages" : "29.24%",
+		"win" : "50.29%",
+	},
+	"four" : {
+		"name" : "Flesheater",
+		"percentages" : "17.68%",
+		"win" : "50.70%",
+	},
+	"five" : {
+		"name" : "Frozen Heart",
+		"percentages" : "13.41%",
+		"win" : "54.25%",
+	},
+	"six" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "12.86%",
+		"win" : "57.91%",
+	},
+	"seven" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : "11.25%",
+		"win" : "45.69%",
+	},
+	"eight" : {
+		"name" : "Youmuu’s Ghostblade",
+		"percentages" : "9.49%",
+		"win" : "60.73%",
+	},
+	"nine" : {
+		"name" : "Thornmail",
+		"percentages" : "8.12%",
+		"win" : "47.40%",
+	},
+	"ten" : {
+		"name" : "Righteous Glory",
+		"percentages" : "7.70%",
+		"win" : "55.16%",
+	},
+
+}
+}

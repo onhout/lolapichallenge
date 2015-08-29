@@ -1,0 +1,148 @@
+{"champion" = {
+	"Pick_Time":1776
+,"Ban_Rate":0.0003933697777207514
+,"Ban_Rate_Game":0.00233
+,"Ban_Time":233
+,"Pick_Rate":0.01776
+,"Assists_Rate":9.447635135135135
+,"Assists":16779
+,"Death_Rate":5.09009009009009
+,"Death":9040
+,"Kills_Rate":4.966216216216216
+,"Kills":8820
+,"KDA":2.8317477876106194
+,"Gold_Earned":18369600
+,"Gold_Earned_Average":10343.243243243243
+,"Gold_Spent":16856114
+,"Gold_Spent_Average":9491.05518018018
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":149
+,"First_Blood_Average":0.0838963963963964
+,"First_Inhibitor_Assist":249
+,"First_Inhibitor_Assist_Average":0.14020270270270271
+,"First_Inhibitor_Kill":41
+,"First_Inhibitor_Kill_Average":0.023085585585585586
+,"First_Tower_Kill":54
+,"First_Tower_Kill_Average":0.030405405405405407
+,"First_Tower_Assist":70
+,"First_Tower_Assist_Average":0.039414414414414414
+,"Largest_Killing_Spree":4486
+,"Largest_Killing_Spree_Average":2.525900900900901
+,"Largest_Multu_Kill":2135
+,"Largest_Multi_Kill_Average":1.2021396396396395
+,"Largest_Critical_Strike":545
+,"Total_Crit_Average":5.06981981981982
+,"Total_Crit":9004
+,"Magic_Damage_Dealt_To_Champion_Average":12381.93581081081
+,"Magic_Damage_Dealt_To_Champion":21990318
+,"Magic_Damage_Dealt":152528582
+,"Magic_Damage_Dealt_Average":85883.21058558559
+,"Magic_Damage_Taken":15960578
+,"Magic_Damage_Taken_Average":8986.811936936936
+,"Minions_Killed":108192
+,"Minions_Killed_Average":60.91891891891892
+,"Neutral_Minion_Killed":64089
+,"Neutral_Minion_Killed_Average":36.086148648648646
+,"Neutral_Minion_Killed_Enemy_Jungle":10498
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":5.911036036036036
+,"Pentakills":1
+,"Pentakills_Average":0.0005630630630630631
+,"Physical_Damage_Dealt_To_Champion":2013664
+,"Physical_Damage_Dealt_To_Champion_Average":1133.8198198198197
+,"Physical_Damage_Dealt":26593722
+,"Physical_Damage_Dealt_Average":14973.942567567568
+,"Physical_Damage_Taken":39161604
+,"Physical_Damage_Taken_Average":22050.452702702703
+,"Total_Damage_Dealt":192297593
+,"Total_Damage_Dealt_Average":108275.67173423423
+,"Total_Damage_Dealt_To_Champion":24957585
+,"Total_Damage_Dealt_To_Champion_Average":14052.694256756757
+,"Total_Damage_Taken":56974097
+,"Total_Damage_Taken_Average":32080.00957207207
+,"Total_Heal":39303265
+,"Total_Heal_Average":22130.21677927928
+,"Total_Time_Crowd_Control_Dealt":1641678
+,"Total_Time_Crowd_Control_Dealt_Average":924.3682432432432
+,"Tower_Kills":543
+,"Tower_Kills_Average":0.30574324324324326
+,"True_Damage_Dealt_To_Champion":952628
+,"True_Damage_Dealt_To_Champion_Average":536.3896396396397
+,"True_Damage_Dealt":13174260
+,"True_Damage_Dealt_Average":7417.939189189189
+,"True_Damage_Taken":1850751
+,"True_Damage_Taken_Average":1042.089527027027
+,"Sight_Wards_Bought":652
+,"Sight_Wards_Bought_Average":0.36711711711711714
+,"Vision_Wards_Bought":534
+,"Vision_Wards_Bought_Average":0.30067567567567566
+,"Total_Wards_Bought":0.6677927927927928
+,"Wards_Placed":10437
+,"Wards_Placed_Average":5.8766891891891895
+,"Wards_Killed":1105
+,"WardsKilled_Average":0.6221846846846847
+,"Win":871
+,"Win_Rate":0.49042792792792794
+,"lose":905
+,"Lose_Rate":0.5095720720720721
+
+}
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Spirit Visage",
+		"percentages" : "42.34%",
+		"win" : "53.19%",
+	},
+	"two" : {
+		"name" : "Warmog’s Armor",
+		"percentages" :"24.49%" ,
+		"win" : "54.02%",
+	},
+	"three" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : "22.12%",
+		"win" : "53.18%",
+	},
+	"four" : {
+		"name" : "Thornmail",
+		"percentages" : "17.84%",
+		"win" : "51.41%",
+	},
+	"five" : {
+		"name" : "Sunfire Cape",
+		"percentages" : "16.10%",
+		"win" : "49.30%",
+	},
+	"six" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "15.59%",
+		"win" : "59.92%",
+	},
+	"seven" : {
+		"name" : "Liandry’s Torment",
+		"percentages" : "14.35%",
+		"win" : "63.13%",
+	},
+	"eight" : {
+		"name" : "Trickster’s Glass",
+		"percentages" : "14.30%",
+		"win" : "61.02%",
+	},
+	"nine" : {
+		"name" : "Ruby Sightstone",
+		"percentages" : "13.00%",
+		"win" : "41.55%",
+	},
+	"ten" : {
+		"name" : "Martyr’s Gambit",
+		"percentages" : "9.23%",
+		"win" : "57.31%",
+	},
+
+}
+}

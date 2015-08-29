@@ -1,0 +1,148 @@
+{"champion" = {
+	"Pick_Time":12651
+,"Ban_Rate":0.007617529772858498
+,"Ban_Rate_Game":0.04512
+,"Ban_Time":4512
+,"Pick_Rate":0.12651
+,"Assists_Rate":11.273891391984824
+,"Assists":142626
+,"Death_Rate":6.043237688720259
+,"Death":76453
+,"Kills_Rate":3.975416963085922
+,"Kills":50293
+,"KDA":2.5233672975553607
+,"Gold_Earned":122533639
+,"Gold_Earned_Average":9685.688008853054
+,"Gold_Spent":112021019
+,"Gold_Spent_Average":8854.716544146708
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":789
+,"First_Blood_Average":0.062366611335072326
+,"First_Inhibitor_Assist":2087
+,"First_Inhibitor_Assist_Average":0.16496719626906964
+,"First_Inhibitor_Kill":479
+,"First_Inhibitor_Kill_Average":0.03786261955576634
+,"First_Tower_Kill":583
+,"First_Tower_Kill_Average":0.04608331357204964
+,"First_Tower_Assist":1036
+,"First_Tower_Assist_Average":0.08189075962374516
+,"Largest_Killing_Spree":22428
+,"Largest_Killing_Spree_Average":1.772824282665402
+,"Largest_Multu_Kill":13843
+,"Largest_Multi_Kill_Average":1.09422180064817
+,"Largest_Critical_Strike":1568
+,"Total_Crit_Average":3.1355624061339022
+,"Total_Crit":39668
+,"Magic_Damage_Dealt_To_Champion_Average":12168.050272705716
+,"Magic_Damage_Dealt_To_Champion":153938004
+,"Magic_Damage_Dealt":639578722
+,"Magic_Damage_Dealt_Average":50555.5862777646
+,"Magic_Damage_Taken":94120813
+,"Magic_Damage_Taken_Average":7439.792348430954
+,"Minions_Killed":729395
+,"Minions_Killed_Average":57.65512607698996
+,"Neutral_Minion_Killed":26864
+,"Neutral_Minion_Killed_Average":2.1234685005137934
+,"Neutral_Minion_Killed_Enemy_Jungle":10322
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":0.8159038811161173
+,"Pentakills":1
+,"Pentakills_Average":0.00007904513477195479
+,"Physical_Damage_Dealt_To_Champion":17557587
+,"Physical_Damage_Dealt_To_Champion_Average":1387.8418306853214
+,"Physical_Damage_Dealt":146468322
+,"Physical_Damage_Dealt_Average":11577.60825231207
+,"Physical_Damage_Taken":142872753
+,"Physical_Damage_Taken_Average":11293.396016125207
+,"Total_Damage_Dealt":791710838
+,"Total_Damage_Dealt_Average":62580.88989012726
+,"Total_Damage_Dealt_To_Champion":174666362
+,"Total_Damage_Dealt_To_Champion_Average":13806.526124417042
+,"Total_Damage_Taken":244774539
+,"Total_Damage_Taken_Average":19348.236423998103
+,"Total_Heal":12696492
+,"Total_Heal_Average":1003.5959212710458
+,"Total_Time_Crowd_Control_Dealt":4227264
+,"Total_Time_Crowd_Control_Dealt_Average":334.1446525966327
+,"Tower_Kills":5501
+,"Tower_Kills_Average":0.43482728638052326
+,"True_Damage_Dealt_To_Champion":3164201
+,"True_Damage_Dealt_To_Champion_Average":250.11469449055411
+,"True_Damage_Dealt":5656949
+,"True_Damage_Dealt_Average":447.15429610307484
+,"True_Damage_Taken":7773068
+,"True_Damage_Taken_Average":614.4232076515691
+,"Sight_Wards_Bought":8870
+,"Sight_Wards_Bought_Average":0.701130345427239
+,"Vision_Wards_Bought":5482
+,"Vision_Wards_Bought_Average":0.43332542881985614
+,"Total_Wards_Bought":1.134455774247095
+,"Wards_Placed":152970
+,"Wards_Placed_Average":12.091534266065924
+,"Wards_Killed":8575
+,"WardsKilled_Average":0.6778120306695123
+,"Win":6455
+,"Win_Rate":0.5102363449529681
+,"lose":6196
+,"Lose_Rate":0.48976365504703184
+
+}
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Zhonya’s Hourglass",
+		"percentages" : "59.30%",
+		"win" : "55.04%",
+	},
+	"two" : {
+		"name" : "Sightstone",
+		"percentages" :"31.43%" ,
+		"win" : "50.21%",
+	},
+	"three" : {
+		"name" : "Rabadon’s Deathcap",
+		"percentages" : "20.15%",
+		"win" : "58.50%",
+	},
+	"four" : {
+		"name" : "Pox Arcana",
+		"percentages" : "8.98%",
+		"win" : "58.48%",
+	},
+	"five" : {
+		"name" : "Luden’s Echo",
+		"percentages" : "8.67%",
+		"win" : "59.70%",
+	},
+	"six" : {
+		"name" : "Rylai’s Crystal Scepter",
+		"percentages" : "8.53%",
+		"win" : "57.77%",
+	},
+	"seven" : {
+		"name" : "Trickster’s Glass",
+		"percentages" : "8.26%",
+		"win" : "59.75%",
+	},
+	"eight" : {
+		"name" : "Rod of Ages",
+		"percentages" : "7.77%",
+		"win" : "52.18%",
+	},
+	"nine" : {
+		"name" : "Athene’s Unholy Grail",
+		"percentages" : "6.81%",
+		"win" : "54.87%",
+	},
+	"ten" : {
+		"name" : "Netherstride Grimoire",
+		"percentages" : "6.70%",
+		"win" : "55.66%",
+	},
+
+}
+}

@@ -1,0 +1,148 @@
+{"champion" = {
+	"Pick_Time":8216
+,"Ban_Rate":0.00239567259478861
+,"Ban_Rate_Game":0.01419
+,"Ban_Time":1419
+,"Pick_Rate":0.08216
+,"Assists_Rate":11.058909444985394
+,"Assists":90860
+,"Death_Rate":5.517039922103213
+,"Death":45328
+,"Kills_Rate":4.368305744888024
+,"Kills":35890
+,"KDA":2.796284857042005
+,"Gold_Earned":81237923
+,"Gold_Earned_Average":9887.770569620254
+,"Gold_Spent":74967707
+,"Gold_Spent_Average":9124.599196689387
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":585
+,"First_Blood_Average":0.07120253164556962
+,"First_Inhibitor_Assist":1321
+,"First_Inhibitor_Assist_Average":0.16078383641674782
+,"First_Inhibitor_Kill":352
+,"First_Inhibitor_Kill_Average":0.042843232716650435
+,"First_Tower_Kill":330
+,"First_Tower_Kill_Average":0.04016553067185979
+,"First_Tower_Assist":397
+,"First_Tower_Assist_Average":0.04832035053554041
+,"Largest_Killing_Spree":17101
+,"Largest_Killing_Spree_Average":2.0814264849074977
+,"Largest_Multu_Kill":9244
+,"Largest_Multi_Kill_Average":1.1251217137293086
+,"Largest_Critical_Strike":1146
+,"Total_Crit_Average":60.06584712755599
+,"Total_Crit":493501
+,"Magic_Damage_Dealt_To_Champion_Average":8314.008519961051
+,"Magic_Damage_Dealt_To_Champion":68307894
+,"Magic_Damage_Dealt":340296122
+,"Magic_Damage_Dealt_Average":41418.71007789679
+,"Magic_Damage_Taken":73784624
+,"Magic_Damage_Taken_Average":8980.601752677701
+,"Minions_Killed":713218
+,"Minions_Killed_Average":86.80842259006816
+,"Neutral_Minion_Killed":76398
+,"Neutral_Minion_Killed_Average":9.298685491723466
+,"Neutral_Minion_Killed_Enemy_Jungle":16873
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":2.0536757546251216
+,"Pentakills":1
+,"Pentakills_Average":0.00012171372930866602
+,"Physical_Damage_Dealt_To_Champion":25911691
+,"Physical_Damage_Dealt_To_Champion_Average":3153.8085443037976
+,"Physical_Damage_Dealt":244959382
+,"Physical_Damage_Dealt_Average":29814.919912366116
+,"Physical_Damage_Taken":152749994
+,"Physical_Damage_Taken_Average":18591.77142161636
+,"Total_Damage_Dealt":607628945
+,"Total_Damage_Dealt_Average":73956.78493184032
+,"Total_Damage_Dealt_To_Champion":96729498
+,"Total_Damage_Dealt_To_Champion_Average":11773.30793573515
+,"Total_Damage_Taken":236232236
+,"Total_Damage_Taken_Average":28752.706426484907
+,"Total_Heal":20685695
+,"Total_Heal_Average":2517.7330817916263
+,"Total_Time_Crowd_Control_Dealt":4225300
+,"Total_Time_Crowd_Control_Dealt_Average":514.2770204479066
+,"Tower_Kills":4716
+,"Tower_Kills_Average":0.5740019474196689
+,"True_Damage_Dealt_To_Champion":2505578
+,"True_Damage_Dealt_To_Champion_Average":304.96324245374876
+,"True_Damage_Dealt":22368715
+,"True_Damage_Dealt_Average":2722.5797224926973
+,"True_Damage_Taken":9691096
+,"True_Damage_Taken_Average":1179.539435248296
+,"Sight_Wards_Bought":3316
+,"Sight_Wards_Bought_Average":0.4036027263875365
+,"Vision_Wards_Bought":2498
+,"Vision_Wards_Bought_Average":0.3040408958130477
+,"Total_Wards_Bought":0.7076436222005842
+,"Wards_Placed":56892
+,"Wards_Placed_Average":6.924537487828627
+,"Wards_Killed":3799
+,"WardsKilled_Average":0.4623904576436222
+,"Win":4098
+,"Win_Rate":0.49878286270691335
+,"lose":4118
+,"Lose_Rate":0.5012171372930867
+
+}
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Sunfire Cape",
+		"percentages" : "52.99%",
+		"win" : "54.96%",
+	},
+	"two" : {
+		"name" : "Spirit Visage",
+		"percentages" :"32.41%" ,
+		"win" : "55.83%",
+	},
+	"three" : {
+		"name" : "Thornmail",
+		"percentages" : "26.08%",
+		"win" : "54.96%",
+	},
+	"four" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : "19.32%",
+		"win" : "56.48%",
+	},
+	"five" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "18.29%",
+		"win" : "57.08%",
+	},
+	"six" : {
+		"name" : "Ruby Sightstone",
+		"percentages" : "13.27%",
+		"win" : "42.43%",
+	},
+	"seven" : {
+		"name" : "Martyr’s Gambit",
+		"percentages" : "10.61%",
+		"win" : "58.60%",
+	},
+	"eight" : {
+		"name" : "Trinity Force",
+		"percentages" : "9.72%",
+		"win" : "63.07%",
+	},
+	"nine" : {
+		"name" : "Sightstone",
+		"percentages" : "9.16%",
+		"win" : "44.75%",
+	},
+	"ten" : {
+		"name" : "Face of the Mountain",
+		"percentages" : "8.72%",
+		"win" : "52.30%",
+	},
+
+}
+}

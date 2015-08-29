@@ -1,0 +1,148 @@
+{"champion" = {
+	"Pick_Time":11702
+,"Ban_Rate":0.0015177657947251307
+,"Ban_Rate_Game":0.00899
+,"Ban_Time":899
+,"Pick_Rate":0.11702
+,"Assists_Rate":13.42642283370364
+,"Assists":157116
+,"Death_Rate":6.040334985472569
+,"Death":70684
+,"Kills_Rate":3.256366433088361
+,"Kills":38106
+,"KDA":2.7618980250127327
+,"Gold_Earned":111109759
+,"Gold_Earned_Average":9494.937532045804
+,"Gold_Spent":100281959
+,"Gold_Spent_Average":8569.642710647753
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":613
+,"First_Blood_Average":0.052384207827721754
+,"First_Inhibitor_Assist":2575
+,"First_Inhibitor_Assist_Average":0.22004785506750982
+,"First_Inhibitor_Kill":563
+,"First_Inhibitor_Kill_Average":0.04811143394291574
+,"First_Tower_Kill":599
+,"First_Tower_Kill_Average":0.051187831139976075
+,"First_Tower_Assist":1369
+,"First_Tower_Assist_Average":0.11698854896598872
+,"Largest_Killing_Spree":16383
+,"Largest_Killing_Spree_Average":1.4000170910955392
+,"Largest_Multu_Kill":11938
+,"Largest_Multi_Kill_Average":1.0201674927362845
+,"Largest_Critical_Strike":1129
+,"Total_Crit_Average":5.663989061698855
+,"Total_Crit":66280
+,"Magic_Damage_Dealt_To_Champion_Average":10133.317039822252
+,"Magic_Damage_Dealt_To_Champion":118580076
+,"Magic_Damage_Dealt":295753254
+,"Magic_Damage_Dealt_Average":25273.735600752007
+,"Magic_Damage_Taken":81981219
+,"Magic_Damage_Taken_Average":7005.744231755256
+,"Minions_Killed":297736
+,"Minions_Killed_Average":25.44317210733208
+,"Neutral_Minion_Killed":11952
+,"Neutral_Minion_Killed_Average":1.0213638694240301
+,"Neutral_Minion_Killed_Enemy_Jungle":5541
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":0.4735088019142027
+,"Pentakills":1
+,"Pentakills_Average":0.00008545547769612032
+,"Physical_Damage_Dealt_To_Champion":25398805
+,"Physical_Damage_Dealt_To_Champion_Average":2170.4670141856095
+,"Physical_Damage_Dealt":126854580
+,"Physical_Damage_Dealt_Average":10840.418731840711
+,"Physical_Damage_Taken":127534216
+,"Physical_Damage_Taken_Average":10898.497350880192
+,"Total_Damage_Dealt":425868364
+,"Total_Damage_Dealt_Average":36392.78448128525
+,"Total_Damage_Dealt_To_Champion":145645012
+,"Total_Damage_Dealt_To_Champion_Average":12446.164074517177
+,"Total_Damage_Taken":215110736
+,"Total_Damage_Taken_Average":18382.390702444027
+,"Total_Heal":110762714
+,"Total_Heal_Average":9465.280635788755
+,"Total_Time_Crowd_Control_Dealt":2462921
+,"Total_Time_Crowd_Control_Dealt_Average":210.47009058280636
+,"Tower_Kills":5499
+,"Tower_Kills_Average":0.46991967185096567
+,"True_Damage_Dealt_To_Champion":1660140
+,"True_Damage_Dealt_To_Champion_Average":141.8680567424372
+,"True_Damage_Dealt":3254260
+,"True_Damage_Dealt_Average":278.09434284737654
+,"True_Damage_Taken":5587514
+,"True_Damage_Taken_Average":477.48367800376
+,"Sight_Wards_Bought":8611
+,"Sight_Wards_Bought_Average":0.7358571184412921
+,"Vision_Wards_Bought":5173
+,"Vision_Wards_Bought_Average":0.44206118612203044
+,"Total_Wards_Bought":1.1779183045633226
+,"Wards_Placed":177248
+,"Wards_Placed_Average":15.146812510681935
+,"Wards_Killed":9633
+,"WardsKilled_Average":0.823192616646727
+,"Win":6175
+,"Win_Rate":0.527687574773543
+,"lose":5527
+,"Lose_Rate":0.472312425226457
+
+}
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Sightstone",
+		"percentages" : "52.92%",
+		"win" : "52.72%",
+	},
+	"two" : {
+		"name" : "Lich Bane",
+		"percentages" :"26.80%" ,
+		"win" : "59.67%",
+	},
+	"three" : {
+		"name" : "Athene’s Unholy Grail",
+		"percentages" : "17.03%",
+		"win" : "58.07%",
+	},
+	"four" : {
+		"name" : "Ardent Censer",
+		"percentages" : "13.14%",
+		"win" : "60.53%",
+	},
+	"five" : {
+		"name" : "Luden’s Echo",
+		"percentages" : "9.94%",
+		"win" : "61.34%",
+	},
+	"six" : {
+		"name" : "Pox Arcana",
+		"percentages" : "7.56%",
+		"win" : "60.67%",
+	},
+	"seven" : {
+		"name" : "Netherstride Grimoire",
+		"percentages" : "7.24%",
+		"win" : "60.02%",
+	},
+	"eight" : {
+		"name" : "Globe of Trust",
+		"percentages" : "6.89%",
+		"win" : "54.77%",
+	},
+	"nine" : {
+		"name" : "Lost Chapter",
+		"percentages" : "6.62%",
+		"win" : "53.80%",
+	},
+	"ten" : {
+		"name" : "Rabadon’s Deathcap",
+		"percentages" : "6.59%",
+		"win" : "60.75%",
+	},
+
+}
+}

@@ -1,0 +1,154 @@
+{"champion" = {
+
+"Pick_Time":4957
+,"Ban_Rate":0.004031618151060748
+,"Ban_Rate_Game":0.02388
+,"Ban_Time":2388
+,"Pick_Rate":0.04957
+,"Assists_Rate":10.315715150292515
+,"Assists":51135
+,"Death_Rate":5.919306031874117
+,"Death":29342
+,"Kills_Rate":5.3179342344159775
+,"Kills":26361
+,"KDA":2.6411287574125826
+,"Gold_Earned":55036035
+,"Gold_Earned_Average":11102.690135162396
+,"Gold_Spent":50266113
+,"Gold_Spent_Average":10140.43030058503
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":209
+,"First_Blood_Average":0.042162598345773655
+,"First_Inhibitor_Assist":750
+,"First_Inhibitor_Assist_Average":0.15130119023602986
+,"First_Inhibitor_Kill":134
+,"First_Inhibitor_Kill_Average":0.027032479322170667
+,"First_Tower_Kill":58
+,"First_Tower_Kill_Average":0.011700625378252975
+,"First_Tower_Assist":161
+,"First_Tower_Assist_Average":0.03247932217066774
+,"Largest_Killing_Spree":11767
+,"Largest_Killing_Spree_Average":2.3738148073431513
+,"Largest_Multu_Kill":6435
+,"Largest_Multi_Kill_Average":1.2981642122251362
+,"Largest_Critical_Strike":1143
+,"Total_Crit_Average":5.051038934839621
+,"Total_Crit":25038
+,"Magic_Damage_Dealt_To_Champion_Average":13463.004841638087
+,"Magic_Damage_Dealt_To_Champion":66736115
+,"Magic_Damage_Dealt":476109316
+,"Magic_Damage_Dealt_Average":96047.87492434941
+,"Magic_Damage_Taken":46196642
+,"Magic_Damage_Taken_Average":9319.475892677023
+,"Minions_Killed":239612
+,"Minions_Killed_Average":48.33810772644745
+,"Neutral_Minion_Killed":260608
+,"Neutral_Minion_Killed_Average":52.573734113375025
+,"Neutral_Minion_Killed_Enemy_Jungle":42107
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":8.494452289691345
+,"Pentakills":3
+,"Pentakills_Average":0.0006052047609441194
+,"Physical_Damage_Dealt_To_Champion":7558196
+,"Physical_Damage_Dealt_To_Champion_Average":1524.7520677829332
+,"Physical_Damage_Dealt":87367169
+,"Physical_Damage_Dealt_Average":17625.008876336495
+,"Physical_Damage_Taken":92182290
+,"Physical_Damage_Taken_Average":18596.386927577165
+,"Total_Damage_Dealt":634176729
+,"Total_Damage_Dealt_Average":127935.5918902562
+,"Total_Damage_Dealt_To_Champion":76562775
+,"Total_Damage_Dealt_To_Champion_Average":15445.385313697801
+,"Total_Damage_Taken":143531845
+,"Total_Damage_Taken_Average":28955.3853136978
+,"Total_Heal":12969833
+,"Total_Heal_Average":2616.4682267500502
+,"Total_Time_Crowd_Control_Dealt":4052027
+,"Total_Time_Crowd_Control_Dealt_Average":817.4353439580391
+,"Tower_Kills":1347
+,"Tower_Kills_Average":0.2717369376639096
+,"True_Damage_Dealt_To_Champion":2265829
+,"True_Damage_Dealt_To_Champion_Average":457.09683276175105
+,"True_Damage_Dealt":70697088
+,"True_Damage_Dealt_Average":14262.071414161792
+,"True_Damage_Taken":5149677
+,"True_Damage_Taken_Average":1038.8696792414767
+,"Sight_Wards_Bought":2121
+,"Sight_Wards_Bought_Average":0.42787976598749244
+,"Vision_Wards_Bought":1537
+,"Vision_Wards_Bought_Average":0.31006657252370384
+,"Total_Wards_Bought":0.7379463385111963
+,"Wards_Placed":31399
+,"Wards_Placed_Average":6.334274762961469
+,"Wards_Killed":3733
+,"WardsKilled_Average":0.7530764575347992
+,"Win":2694
+,"Win_Rate":0.5434738753278192
+,"lose":2263
+,"Lose_Rate":0.45652612467218073
+
+}
+
+"Items" = {
+	
+	"one" : {
+		"name" : 'Frozen Heart',
+		"percentages" : '23.46%',
+		"win" : "57.95%",
+	},
+	"two" : {
+		"name" : "Abyssal Scepter",
+		"percentages" : '18.23%',
+		"win" : "61.50%",
+	},
+	"three" : {
+		"name" : "Liandry’s Torment",
+		"percentages" : '18.23%',
+		"win" : "62.05%",
+	},
+	"four" : {
+		"name" : "Righteous Glory",
+		"percentages" : '15.61%',
+		"win" : "58.78%",
+	},
+	"five" : {
+		"name" : "Zhonya’s Hourglass",
+		"percentages" : '13.81%',
+		"win" : "59.41%",
+	},
+	"six" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : '13.09%',
+		"win" : "60.55%",
+	},
+	"seven" : {
+		"name" : "Trickster's Glass",
+		"percentages" : '11.39%',
+		"win" : "64.42%",
+	},
+	"eight" : {
+		"name" : "Sunfire Cape",
+		"percentages" : '10.95%',
+		"win" : "58.37%",
+	},
+	"nine" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : '10.06%',
+		"win" : "54.30%",
+	},
+	"ten" : {
+		"name" : "Thornmail",
+		"percentages" : '9.92%',
+		"win" : "57.31%",
+	},
+	
+}
+
+
+
+
+
+
+
+
+}

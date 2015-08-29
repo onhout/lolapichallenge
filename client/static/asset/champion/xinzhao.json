@@ -1,0 +1,147 @@
+{"champion" = {
+	"Pick_Time":15049
+,"Ban_Rate":0.009849438983789113
+,"Ban_Rate_Game":0.05834
+,"Ban_Time":5834
+,"Pick_Rate":0.15049
+,"Assists_Rate":6.750681108379294
+,"Assists":101591
+,"Death_Rate":7.216692139012559
+,"Death":108604
+,"Kills_Rate":7.647883580304339
+,"Kills":115093
+,"KDA":1.9951751316710251
+,"Gold_Earned":171446848
+,"Gold_Earned_Average":11392.574124526547
+,"Gold_Spent":157705556
+,"Gold_Spent_Average":10479.470795401689
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":1838
+,"First_Blood_Average":0.12213436108711542
+,"First_Inhibitor_Assist":1610
+,"First_Inhibitor_Assist_Average":0.10698385274769087
+,"First_Inhibitor_Kill":1171
+,"First_Inhibitor_Kill_Average":0.07781247923450063
+,"First_Tower_Kill":1036
+,"First_Tower_Kill_Average":0.06884178350720978
+,"First_Tower_Assist":441
+,"First_Tower_Assist_Average":0.02930427270915011
+,"Largest_Killing_Spree":46951
+,"Largest_Killing_Spree_Average":3.1198750747557975
+,"Largest_Multu_Kill":22381
+,"Largest_Multi_Kill_Average":1.4872084523888631
+,"Largest_Critical_Strike":2277
+,"Total_Crit_Average":245.53930493720512
+,"Total_Crit":3695121
+,"Magic_Damage_Dealt_To_Champion_Average":3471.44474715928
+,"Magic_Damage_Dealt_To_Champion":52241772
+,"Magic_Damage_Dealt":434540269
+,"Magic_Damage_Dealt_Average":28875.026181141606
+,"Magic_Damage_Taken":123956128
+,"Magic_Damage_Taken_Average":8236.83487274902
+,"Minions_Killed":917035
+,"Minions_Killed_Average":60.93660708352714
+,"Neutral_Minion_Killed":707027
+,"Neutral_Minion_Killed_Average":46.98165991095754
+,"Neutral_Minion_Killed_Enemy_Jungle":140778
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":9.354641504418899
+,"Pentakills":33
+,"Pentakills_Average":0.0021928367333377634
+,"Physical_Damage_Dealt_To_Champion":197563385
+,"Physical_Damage_Dealt_To_Champion_Average":13128.007508804572
+,"Physical_Damage_Dealt":1418119319
+,"Physical_Damage_Dealt_Average":94233.45863512525
+,"Physical_Damage_Taken":352084007
+,"Physical_Damage_Taken_Average":23395.84072031364
+,"Total_Damage_Dealt":1991982735
+,"Total_Damage_Dealt_Average":132366.45192371585
+,"Total_Damage_Dealt_To_Champion":262895553
+,"Total_Damage_Dealt_To_Champion_Average":17469.303807561962
+,"Total_Damage_Taken":490384766
+,"Total_Damage_Taken_Average":32585.870556183134
+,"Total_Heal":124492665
+,"Total_Heal_Average":8272.487540700378
+,"Total_Time_Crowd_Control_Dealt":13162050
+,"Total_Time_Crowd_Control_Dealt_Average":874.6129310917669
+,"Tower_Kills":13952
+,"Tower_Kills_Average":0.9271047910160144
+,"True_Damage_Dealt_To_Champion":13081769
+,"True_Damage_Dealt_To_Champion_Average":869.27829091634
+,"True_Damage_Dealt":139312920
+,"True_Damage_Dealt_Average":9257.287527410459
+,"True_Damage_Taken":14334941
+,"True_Damage_Taken_Average":952.5510665160476
+,"Sight_Wards_Bought":3805
+,"Sight_Wards_Bought_Average":0.2528407203136421
+,"Vision_Wards_Bought":3216
+,"Vision_Wards_Bought_Average":0.213701907103462
+,"Total_Wards_Bought":0.4665426274171041
+,"Wards_Placed":91164
+,"Wards_Placed_Average":6.057811150242541
+,"Wards_Killed":10034
+,"WardsKilled_Average":0.66675526613064
+,"Win":7920
+,"Win_Rate":0.5262808160010632
+,"lose":7129
+,"Lose_Rate":0.4737191839989368
+
+}
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Blade of the Ruined King",
+		"percentages" : "44.14%",
+		"win" : "60.02%",
+	},
+	"two" : {
+		"name" : "The Black Cleaver",
+		"percentages" :"16.45%" ,
+		"win" : "58.82%",
+	},
+	"three" : {
+		"name" : "Trinity Force",
+		"percentages" : "15.62%",
+		"win" : "60.65%",
+	},
+	"four" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : "13.99%",
+		"win" : "56.50%",
+	},
+	"five" : {
+		"name" : "Sunfire Cape",
+		"percentages" : "13.71%",
+		"win" : "56.68%",
+	},
+	"six" : {
+		"name" : "Spirit Visage",
+		"percentages" : "13.60%",
+		"win" : "57.22%",
+	},
+	"seven" : {
+		"name" : "Typhoon Claws",
+		"percentages" : "10.77%",
+		"win" : "59.03%",
+	},
+	"eight" : {
+		"name" : "Youmuu’s Ghostblade",
+		"percentages" : "10.75%",
+		"win" : "59.70%",
+	},
+	"nine" : {
+		"name" : "Ravenous Hydra",
+		"percentages" : "10.71%",
+		"win" : "58.46%",
+	},
+	"ten" : {
+		"name" : "Flesheater",
+		"percentages" : "10.03%",
+		"win" : "55.69%",
+	},
+
+}
+}

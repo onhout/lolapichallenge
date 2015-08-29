@@ -1,0 +1,147 @@
+{"champion" = {
+	"Pick_Time":9064
+,"Ban_Rate":0.00249190468633403
+,"Ban_Rate_Game":0.01476
+,"Ban_Time":1476
+,"Pick_Rate":0.09064
+,"Assists_Rate":9.21072374227714
+,"Assists":83486
+,"Death_Rate":5.658539276257723
+,"Death":51289
+,"Kills_Rate":5.348521624007061
+,"Kills":48479
+,"KDA":2.5729688627191014
+,"Gold_Earned":89893728
+,"Gold_Earned_Average":9917.666372462489
+,"Gold_Spent":82983866
+,"Gold_Spent_Average":9155.325022065314
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":529
+,"First_Blood_Average":0.058362753751103266
+,"First_Inhibitor_Assist":1395
+,"First_Inhibitor_Assist_Average":0.1539055604589585
+,"First_Inhibitor_Kill":333
+,"First_Inhibitor_Kill_Average":0.036738746690203
+,"First_Tower_Kill":376
+,"First_Tower_Kill_Average":0.04148278905560459
+,"First_Tower_Assist":400
+,"First_Tower_Assist_Average":0.0441306266548985
+,"Largest_Killing_Spree":22602
+,"Largest_Killing_Spree_Average":2.49360105913504
+,"Largest_Multu_Kill":11306
+,"Largest_Multi_Kill_Average":1.247352162400706
+,"Largest_Critical_Strike":1371
+,"Total_Crit_Average":11.591240070609002
+,"Total_Crit":105063
+,"Magic_Damage_Dealt_To_Champion_Average":12084.830097087379
+,"Magic_Damage_Dealt_To_Champion":109536900
+,"Magic_Damage_Dealt":458182235
+,"Magic_Damage_Dealt_Average":50549.67288172992
+,"Magic_Damage_Taken":73421845
+,"Magic_Damage_Taken_Average":8100.380075022065
+,"Minions_Killed":666481
+,"Minions_Killed_Average":73.53056045895852
+,"Neutral_Minion_Killed":109036
+,"Neutral_Minion_Killed_Average":12.029567519858782
+,"Neutral_Minion_Killed_Enemy_Jungle":19897
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":2.1951676963812887
+,"Pentakills":3
+,"Pentakills_Average":0.00033097969991173877
+,"Physical_Damage_Dealt_To_Champion":26742793
+,"Physical_Damage_Dealt_To_Champion_Average":2950.4405339805826
+,"Physical_Damage_Dealt":267988305
+,"Physical_Damage_Dealt_Average":29566.22958958517
+,"Physical_Damage_Taken":114959979
+,"Physical_Damage_Taken_Average":12683.139783759929
+,"Total_Damage_Dealt":760676906
+,"Total_Damage_Dealt_Average":83922.8713592233
+,"Total_Damage_Dealt_To_Champion":139558083
+,"Total_Damage_Dealt_To_Champion_Average":15396.964143865844
+,"Total_Damage_Taken":197311162
+,"Total_Damage_Taken_Average":21768.66306266549
+,"Total_Heal":15715180
+,"Total_Heal_Average":1733.8018534863195
+,"Total_Time_Crowd_Control_Dealt":11392557
+,"Total_Time_Crowd_Control_Dealt_Average":1256.9016990291261
+,"Tower_Kills":4439
+,"Tower_Kills_Average":0.4897396293027361
+,"True_Damage_Dealt_To_Champion":3273671
+,"True_Damage_Dealt_To_Champion_Average":361.17288172992056
+,"True_Damage_Dealt":34500956
+,"True_Damage_Dealt_Average":3806.372021182701
+,"True_Damage_Taken":8922994
+,"True_Damage_Taken_Average":984.4432921447485
+,"Sight_Wards_Bought":3110
+,"Sight_Wards_Bought_Average":0.34311562224183584
+,"Vision_Wards_Bought":2032
+,"Vision_Wards_Bought_Average":0.22418358340688438
+,"Total_Wards_Bought":0.5672992056487202
+,"Wards_Placed":65481
+,"Wards_Placed_Average":7.224293909973522
+,"Wards_Killed":3720
+,"WardsKilled_Average":0.41041482789055606
+,"Win":4656
+,"Win_Rate":0.5136804942630185
+,"lose":4408
+,"Lose_Rate":0.48631950573698146
+
+}
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Sunfire Cape",
+		"percentages" : "29.77%",
+		"win" : "56.46%",
+	},
+	"two" : {
+		"name" : "Frozen Heart",
+		"percentages" :"20.38%" ,
+		"win" : "56.38%",
+	},
+	"three" : {
+		"name" : "Thornmail",
+		"percentages" : "17.88%",
+		"win" : "54.84%",
+	},
+	"four" : {
+		"name" : "Iceborn Gauntlet",
+		"percentages" : "17.31%",
+		"win" : "56.34%",
+	},
+	"five" : {
+		"name" : "Abyssal Scepter",
+		"percentages" : "16.44%",
+		"win" : "57.67%",
+	},
+	"six" : {
+		"name" : "Trickster’s Glass",
+		"percentages" : "12.21%",
+		"win" : "59.71%",
+	},
+	"seven" : {
+		"name" : "Randuin’s Omen",
+		"percentages" : "11.10%",
+		"win" : "56.20%",
+	},
+	"eight" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "11.06%",
+		"win" : "55.43%",
+	},
+	"nine" : {
+		"name" : "Sightstone",
+		"percentages" : "8.56%",
+		"win" : "51.54%",
+	},
+	"ten" : {
+		"name" : "Rod of Ages",
+		"percentages" : "8.16%",
+		"win" : "54.05%",
+	},
+
+}
+}

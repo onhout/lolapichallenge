@@ -1,0 +1,149 @@
+{"champion" = {
+	
+	"Pick_Time":10600
+,"Ban_Rate":0.06637313064941468
+,"Ban_Rate_Game":0.39314
+,"Ban_Time":39314
+,"Pick_Rate":0.106
+,"Assists_Rate":5.360849056603773
+,"Assists":56825
+,"Death_Rate":7.332169811320755
+,"Death":77721
+,"Kills_Rate":8.74566037735849
+,"Kills":92704
+,"KDA":1.9239201760142046
+,"Gold_Earned":122603975
+,"Gold_Earned_Average":11566.412735849057
+,"Gold_Spent":113744687
+,"Gold_Spent_Average":10730.630849056604
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":1679
+,"First_Blood_Average":0.15839622641509435
+,"First_Inhibitor_Assist":990
+,"First_Inhibitor_Assist_Average":0.09339622641509433
+,"First_Inhibitor_Kill":690
+,"First_Inhibitor_Kill_Average":0.06509433962264151
+,"First_Tower_Kill":992
+,"First_Tower_Kill_Average":0.09358490566037736
+,"First_Tower_Assist":224
+,"First_Tower_Assist_Average":0.021132075471698115
+,"Largest_Killing_Spree":36755
+,"Largest_Killing_Spree_Average":3.4674528301886793
+,"Largest_Multu_Kill":16000
+,"Largest_Multi_Kill_Average":1.509433962264151
+,"Largest_Critical_Strike":2898
+,"Total_Crit_Average":469.7780188679245
+,"Total_Crit":4979647
+,"Magic_Damage_Dealt_To_Champion_Average":1017.9564150943396
+,"Magic_Damage_Dealt_To_Champion":10790338
+,"Magic_Damage_Dealt":71337665
+,"Magic_Damage_Dealt_Average":6729.968396226415
+,"Magic_Damage_Taken":83632937
+,"Magic_Damage_Taken_Average":7889.899716981132
+,"Minions_Killed":1498811
+,"Minions_Killed_Average":141.39726415094339
+,"Neutral_Minion_Killed":104420
+,"Neutral_Minion_Killed_Average":9.850943396226414
+,"Neutral_Minion_Killed_Enemy_Jungle":36909
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":3.4819811320754717
+,"Pentakills":11
+,"Pentakills_Average":0.0010377358490566038
+,"Physical_Damage_Dealt_To_Champion":193032952
+,"Physical_Damage_Dealt_To_Champion_Average":18210.655849056602
+,"Physical_Damage_Dealt":1329295944
+,"Physical_Damage_Dealt_Average":125405.27773584906
+,"Physical_Damage_Taken":164606889
+,"Physical_Damage_Taken_Average":15528.95179245283
+,"Total_Damage_Dealt":1430670156
+,"Total_Damage_Dealt_Average":134968.88264150944
+,"Total_Damage_Dealt_To_Champion":211816806
+,"Total_Damage_Dealt_To_Champion_Average":19982.71754716981
+,"Total_Damage_Taken":257702000
+,"Total_Damage_Taken_Average":24311.509433962263
+,"Total_Heal":22861644
+,"Total_Heal_Average":2156.758867924528
+,"Total_Time_Crowd_Control_Dealt":3760092
+,"Total_Time_Crowd_Control_Dealt_Average":354.7256603773585
+,"Tower_Kills":9049
+,"Tower_Kills_Average":0.8536792452830189
+,"True_Damage_Dealt_To_Champion":7987653
+,"True_Damage_Dealt_To_Champion_Average":753.5521698113207
+,"True_Damage_Dealt":30029952
+,"True_Damage_Dealt_Average":2833.0143396226417
+,"True_Damage_Taken":9455444
+,"True_Damage_Taken_Average":892.0230188679245
+,"Sight_Wards_Bought":4129
+,"Sight_Wards_Bought_Average":0.38952830188679244
+,"Vision_Wards_Bought":2279
+,"Vision_Wards_Bought_Average":0.215
+,"Total_Wards_Bought":0.6045283018867924
+,"Wards_Placed":62664
+,"Wards_Placed_Average":5.911698113207547
+,"Wards_Killed":3146
+,"WardsKilled_Average":0.2967924528301887
+,"Win":5050
+,"Win_Rate":0.47641509433962265
+,"lose":5550
+,"Lose_Rate":0.5235849056603774
+
+}
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Blade of the Ruined King",
+		"percentages" : "73.28%",
+		"win" : "50.37%",
+	},
+	"two" : {
+		"name" : "Youmuu’s Ghostblade",
+		"percentages" :"57.97%" ,
+		"win" : "52.31%",
+	},
+	"three" : {
+		"name" : "Last Whisper",
+		"percentages" : "35.93%",
+		"win" : "54.97%",
+	},
+	"four" : {
+		"name" : "The Bloodthirster",
+		"percentages" : "21.21%",
+		"win" : "56.82%",
+	},
+	"five" : {
+		"name" : "Flesheater",
+		"percentages" : "18.11%",
+		"win" : "49.94%",
+	},
+	"six" : {
+		"name" : "The Black Cleaver",
+		"percentages" : "17.38%",
+		"win" : "55.50%",
+	},
+	"seven" : {
+		"name" : "Ravenous Hydra",
+		"percentages" : "8.96%",
+		"win" : "57.78%",
+	},
+	"eight" : {
+		"name" : "Mirage Blade",
+		"percentages" : "8.16%",
+		"win" : "51.44%",
+	},
+	"nine" : {
+		"name" : "Typhoon Claws",
+		"percentages" : "6.09%",
+		"win" : "56.19%",
+	},
+	"ten" : {
+		"name" : "Infinity Edge",
+		"percentages" : "4.16%",
+		"win" : "56.91%",
+	},
+
+}
+}

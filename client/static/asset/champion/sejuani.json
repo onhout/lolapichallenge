@@ -1,0 +1,147 @@
+{"champion" = {
+	"Pick_Time":3074
+,"Ban_Rate":0.013342495078657073
+,"Ban_Rate_Game":0.07903
+,"Ban_Time":7903
+,"Pick_Rate":0.03074
+,"Assists_Rate":10.727716330513989
+,"Assists":32977
+,"Death_Rate":5.639882888744307
+,"Death":17337
+,"Kills_Rate":4.796031229668185
+,"Kills":14743
+,"KDA":2.752494664590183
+,"Gold_Earned":33788333
+,"Gold_Earned_Average":10991.650292778138
+,"Gold_Spent":30841277
+,"Gold_Spent_Average":10032.946324007808
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":128
+,"First_Blood_Average":0.04163955757970072
+,"First_Inhibitor_Assist":541
+,"First_Inhibitor_Assist_Average":0.17599219258295382
+,"First_Inhibitor_Kill":70
+,"First_Inhibitor_Kill_Average":0.02277163305139883
+,"First_Tower_Kill":64
+,"First_Tower_Kill_Average":0.02081977878985036
+,"First_Tower_Assist":102
+,"First_Tower_Assist_Average":0.03318152244632401
+,"Largest_Killing_Spree":6965
+,"Largest_Killing_Spree_Average":2.2657774886141833
+,"Largest_Multu_Kill":3684
+,"Largest_Multi_Kill_Average":1.1984385165907612
+,"Largest_Critical_Strike":1028
+,"Total_Crit_Average":5.940793754066363
+,"Total_Crit":18262
+,"Magic_Damage_Dealt_To_Champion_Average":11017.298633702017
+,"Magic_Damage_Dealt_To_Champion":33867176
+,"Magic_Damage_Dealt":266037073
+,"Magic_Damage_Dealt_Average":86544.26577748862
+,"Magic_Damage_Taken":30692204
+,"Magic_Damage_Taken_Average":9984.451528952504
+,"Minions_Killed":153100
+,"Minions_Killed_Average":49.80481457384515
+,"Neutral_Minion_Killed":158056
+,"Neutral_Minion_Killed_Average":51.41704619388419
+,"Neutral_Minion_Killed_Enemy_Jungle":24022
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":7.814573845152895
+,"Pentakills":0
+,"Pentakills_Average":0
+,"Physical_Damage_Dealt_To_Champion":6683628
+,"Physical_Damage_Dealt_To_Champion_Average":2174.2446324007806
+,"Physical_Damage_Dealt":70407529
+,"Physical_Damage_Dealt_Average":22904.205920624594
+,"Physical_Damage_Taken":68324438
+,"Physical_Damage_Taken_Average":22226.557579700715
+,"Total_Damage_Dealt":381084436
+,"Total_Damage_Dealt_Average":123970.2134027326
+,"Total_Damage_Dealt_To_Champion":42181531
+,"Total_Damage_Dealt_To_Champion_Average":13722.03350683149
+,"Total_Damage_Taken":102575597
+,"Total_Damage_Taken_Average":33368.76935588809
+,"Total_Heal":10667130
+,"Total_Heal_Average":3470.113858165257
+,"Total_Time_Crowd_Control_Dealt":3142836
+,"Total_Time_Crowd_Control_Dealt_Average":1022.3929733246584
+,"Tower_Kills":886
+,"Tower_Kills_Average":0.28822381262199087
+,"True_Damage_Dealt_To_Champion":1629018
+,"True_Damage_Dealt_To_Champion_Average":529.9342875731945
+,"True_Damage_Dealt":44637971
+,"True_Damage_Dealt_Average":14521.135653871177
+,"True_Damage_Taken":3556911
+,"True_Damage_Taken_Average":1157.0953155497723
+,"Sight_Wards_Bought":1502
+,"Sight_Wards_Bought_Average":0.4886141834743006
+,"Vision_Wards_Bought":1161
+,"Vision_Wards_Bought_Average":0.37768379960962917
+,"Total_Wards_Bought":0.8662979830839297
+,"Wards_Placed":21463
+,"Wards_Placed_Average":6.982108002602472
+,"Wards_Killed":2651
+,"WardsKilled_Average":0.8623942745608328
+,"Win":1618
+,"Win_Rate":0.5263500325309044
+,"lose":1456
+,"Lose_Rate":0.47364996746909566
+
+}
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Frozen Heart",
+		"percentages" : "32.85%",
+		"win" : "56.33%",
+	},
+	"two" : {
+		"name" : "Randuin’s Omen",
+		"percentages" :"24.00%" ,
+		"win" : "55.14%",
+	},
+	"three" : {
+		"name" : "Warmog’s Armor",
+		"percentages" : "21.01%",
+		"win" : "59.28%",
+	},
+	"four" : {
+		"name" : "Dead Man’s Plate",
+		"percentages" : "17.76%",
+		"win" : "59.52%",
+	},
+	"five" : {
+		"name" : "Liandry’s Torment",
+		"percentages" : "14.34%",
+		"win" : "61.22%",
+	},
+	"six" : {
+		"name" : "Banshee’s Veil",
+		"percentages" : "14.15%",
+		"win" : "57.24%",
+	},
+	"seven" : {
+		"name" : "Ruby Sightstone",
+		"percentages" : "12.06%",
+		"win" : "43.39%",
+	},
+	"eight" : {
+		"name" : "Thornmail",
+		"percentages" : "10.63%",
+		"win" : "52.29%",
+	},
+	"nine" : {
+		"name" : "Abyssal Scepter",
+		"percentages" : "10.40%",
+		"win" : "62.81%",
+	},
+	"ten" : {
+		"name" : "Spirit Visage",
+		"percentages" : "10.14%",
+		"win" : "58.33%",
+	},
+
+}
+}

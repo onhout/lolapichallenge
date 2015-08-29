@@ -1,0 +1,149 @@
+{"champion" = {
+	"Pick_Time":9249
+,"Ban_Rate":0.0007192082631289273
+,"Ban_Rate_Game":0.00426
+,"Ban_Time":426
+,"Pick_Rate":0.09249
+,"Assists_Rate":13.752621905070818
+,"Assists":127198
+,"Death_Rate":5.925181100659531
+,"Death":54802
+,"Kills_Rate":2.230727646232025
+,"Kills":20632
+,"KDA":2.6975292872522902
+,"Gold_Earned":84030152
+,"Gold_Earned_Average":9085.322953832847
+,"Gold_Spent":75954667
+,"Gold_Spent_Average":8212.203157098065
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":421
+,"First_Blood_Average":0.04551843442534328
+,"First_Inhibitor_Assist":1933
+,"First_Inhibitor_Assist_Average":0.20899556708833386
+,"First_Inhibitor_Kill":285
+,"First_Inhibitor_Kill_Average":0.03081414206941291
+,"First_Tower_Kill":350
+,"First_Tower_Kill_Average":0.037841928857173746
+,"First_Tower_Assist":994
+,"First_Tower_Assist_Average":0.10747107795437344
+,"Largest_Killing_Spree":8160
+,"Largest_Killing_Spree_Average":0.8822575413558222
+,"Largest_Multu_Kill":8156
+,"Largest_Multi_Kill_Average":0.8818250621688831
+,"Largest_Critical_Strike":1042
+,"Total_Crit_Average":6.313547410530868
+,"Total_Crit":58394
+,"Magic_Damage_Dealt_To_Champion_Average":7670.25862255379
+,"Magic_Damage_Dealt_To_Champion":70942222
+,"Magic_Damage_Dealt":185530320
+,"Magic_Damage_Dealt_Average":20059.500486539084
+,"Magic_Damage_Taken":61941450
+,"Magic_Damage_Taken_Average":6697.096983457671
+,"Minions_Killed":182172
+,"Minions_Killed_Average":19.696399610768733
+,"Neutral_Minion_Killed":5893
+,"Neutral_Minion_Killed_Average":0.6371499621580712
+,"Neutral_Minion_Killed_Enemy_Jungle":2688
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":0.29062601362309437
+,"Pentakills":0
+,"Pentakills_Average":0
+,"Physical_Damage_Dealt_To_Champion":14377412
+,"Physical_Damage_Dealt_To_Champion_Average":1554.4828630122176
+,"Physical_Damage_Dealt":88562033
+,"Physical_Damage_Dealt_Average":9575.309006379068
+,"Physical_Damage_Taken":94702193
+,"Physical_Damage_Taken_Average":10239.181857498108
+,"Total_Damage_Dealt":275902887
+,"Total_Damage_Dealt_Average":29830.564060979566
+,"Total_Damage_Dealt_To_Champion":86187853
+,"Total_Damage_Dealt_To_Champion_Average":9318.613147367283
+,"Total_Damage_Taken":161143122
+,"Total_Damage_Taken_Average":17422.7615958482
+,"Total_Heal":77689454
+,"Total_Heal_Average":8399.767974916207
+,"Total_Time_Crowd_Control_Dealt":3258789
+,"Total_Time_Crowd_Control_Dealt_Average":352.3396042815439
+,"Tower_Kills":3092
+,"Tower_Kills_Average":0.33430641150394635
+,"True_Damage_Dealt_To_Champion":863543
+,"True_Damage_Dealt_To_Champion_Average":93.36609363174398
+,"True_Damage_Dealt":1805773
+,"True_Damage_Dealt_Average":195.23980970915775
+,"True_Damage_Taken":4493822
+,"True_Damage_Taken_Average":485.87112120229216
+,"Sight_Wards_Bought":5854
+,"Sight_Wards_Bought_Average":0.6329332900854147
+,"Vision_Wards_Bought":5003
+,"Vision_Wards_Bought_Average":0.540923343064115
+,"Total_Wards_Bought":1.1738566331495297
+,"Wards_Placed":142037
+,"Wards_Placed_Average":15.357011568818251
+,"Wards_Killed":8724
+,"WardsKilled_Average":0.9432371067142393
+,"Win":4720
+,"Win_Rate":0.5103254405881716
+,"lose":4529
+,"Lose_Rate":0.4896745594118283
+
+}
+
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Sightstone",
+		"percentages" : "56.48%",
+		"win" : "51.05%",
+	},
+	"two" : {
+		"name" : "Athene’s Unholy Grail",
+		"percentages" :"13.93%" ,
+		"win" : "56.08%",
+	},
+	"three" : {
+		"name" : "Rabadon’s Deathcap",
+		"percentages" : "11.56%",
+		"win" : "60.65%",
+	},
+	"four" : {
+		"name" : "Mikael’s Crucible",
+		"percentages" : "11.35%",
+		"win" : "58.09%",
+	},
+	"five" : {
+		"name" : "Frozen Heart",
+		"percentages" : "10.86%",
+		"win" : "56.61%",
+	},
+	"six" : {
+		"name" : "Globe of Trust",
+		"percentages" : "10.40%",
+		"win" : "54.67%",
+	},
+	"seven" : {
+		"name" : "Locket of the Iron Solari",
+		"percentages" : "9.55%",
+		"win" : "57.80%",
+	},
+	"eight" : {
+		"name" : "Staff of Flowing Water",
+		"percentages" : "8.93%",
+		"win" : "60.41%",
+	},
+	"nine" : {
+		"name" : "Trickster’s Glas",
+		"percentages" : "8.29%",
+		"win" : "59.45%",
+	},
+	"ten" : {
+		"name" : "Talisman of Ascension",
+		"percentages" : "7.73%",
+		"win" : "55.38%",
+	},
+
+}
+}

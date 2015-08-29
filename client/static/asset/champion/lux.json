@@ -1,0 +1,149 @@
+{"champion" = {
+	"Pick_Time":15245
+,"Ban_Rate":0.002125547425538309
+,"Ban_Rate_Game":0.01259
+,"Ban_Time":1259
+,"Pick_Rate":0.15245
+,"Assists_Rate":9.839029189898328
+,"Assists":149996
+,"Death_Rate":5.692686126598885
+,"Death":86785
+,"Kills_Rate":6.143719252213841
+,"Kills":93661
+,"KDA":2.8075934781356224
+,"Gold_Earned":156723990
+,"Gold_Earned_Average":10280.353558543784
+,"Gold_Spent":143497392
+,"Gold_Spent_Average":9412.751197113808
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":1474
+,"First_Blood_Average":0.09668743850442768
+,"First_Inhibitor_Assist":2760
+,"First_Inhibitor_Assist_Average":0.18104296490652674
+,"First_Inhibitor_Kill":644
+,"First_Inhibitor_Kill_Average":0.04224335847818957
+,"First_Tower_Kill":727
+,"First_Tower_Kill_Average":0.04768776648081338
+,"First_Tower_Assist":912
+,"First_Tower_Assist_Average":0.059822892751721875
+,"Largest_Killing_Spree":45245
+,"Largest_Killing_Spree_Average":2.9678583142013775
+,"Largest_Multu_Kill":19625
+,"Largest_Multi_Kill_Average":1.287307313873401
+,"Largest_Critical_Strike":1007
+,"Total_Crit_Average":3.9136110200065595
+,"Total_Crit":59663
+,"Magic_Damage_Dealt_To_Champion_Average":17105.250377172844
+,"Magic_Damage_Dealt_To_Champion":260769542
+,"Magic_Damage_Dealt":1216317034
+,"Magic_Damage_Dealt_Average":79784.65293538866
+,"Magic_Damage_Taken":93462705
+,"Magic_Damage_Taken_Average":6130.7120367333555
+,"Minions_Killed":1308455
+,"Minions_Killed_Average":85.82846835027878
+,"Neutral_Minion_Killed":45736
+,"Neutral_Minion_Killed_Average":3.0000655952771402
+,"Neutral_Minion_Killed_Enemy_Jungle":15357
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":1.0073466710396852
+,"Pentakills":5
+,"Pentakills_Average":0.00032797638570022957
+,"Physical_Damage_Dealt_To_Champion":21561412
+,"Physical_Damage_Dealt_To_Champion_Average":1414.3267956707118
+,"Physical_Damage_Dealt":220297334
+,"Physical_Damage_Dealt_Average":14450.46467694326
+,"Physical_Damage_Taken":129219316
+,"Physical_Damage_Taken_Average":8476.17684486717
+,"Total_Damage_Dealt":1444690985
+,"Total_Damage_Dealt_Average":94764.90554280092
+,"Total_Damage_Dealt_To_Champion":287062953
+,"Total_Damage_Dealt_To_Champion_Average":18829.973958674975
+,"Total_Damage_Taken":229841836
+,"Total_Damage_Taken_Average":15076.538930796982
+,"Total_Heal":15405735
+,"Total_Heal_Average":1010.5434568711053
+,"Total_Time_Crowd_Control_Dealt":5460182
+,"Total_Time_Crowd_Control_Dealt_Average":358.16215152509017
+,"Tower_Kills":7770
+,"Tower_Kills_Average":0.5096753033781568
+,"True_Damage_Dealt_To_Champion":4723929
+,"True_Damage_Dealt_To_Champion_Average":309.8674319449
+,"True_Damage_Dealt":8068167
+,"True_Damage_Dealt_Average":529.2336503771728
+,"True_Damage_Taken":7149182
+,"True_Damage_Taken_Average":468.95257461462774
+,"Sight_Wards_Bought":8482
+,"Sight_Wards_Bought_Average":0.5563791407018694
+,"Vision_Wards_Bought":3894
+,"Vision_Wards_Bought_Average":0.2554280091833388
+,"Total_Wards_Bought":0.8118071498852083
+,"Wards_Placed":130332
+,"Wards_Placed_Average":8.549163660216465
+,"Wards_Killed":5962
+,"WardsKilled_Average":0.39107904230895374
+,"Win":7939
+,"Win_Rate":0.5207609052148245
+,"lose":7306
+,"Lose_Rate":0.47923909478517546
+
+}
+
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Luden’s Echo",
+		"percentages" : "44.62%",
+		"win" : "58.20%",
+	},
+	"two" : {
+		"name" : "Rabadon’s Deathcap",
+		"percentages" :"34.98%" ,
+		"win" : "59.24%",
+	},
+	"three" : {
+		"name" : "Athene’s Unholy Grail",
+		"percentages" : "29.48%",
+		"win" : "53.65%",
+	},
+	"four" : {
+		"name" : "Zhonya’s Hourglass",
+		"percentages" : "17.17%",
+		"win" : "57.37%",
+	},
+	"five" : {
+		"name" : "Mejai’s Soulstealer",
+		"percentages" : "13.55%",
+		"win" : "66.90%",
+	},
+	"six" : {
+		"name" : "Pox Arcana",
+		"percentages" : "13.21%",
+		"win" : "55.26%",
+	},
+	"seven" : {
+		"name" : "Netherstride Grimoire",
+		"percentages" : "12.08%",
+		"win" : "58.14%",
+	},
+	"eight" : {
+		"name" : "Sightstone",
+		"percentages" : "12.03%",
+		"win" : "50.29%",
+	},
+	"nine" : {
+		"name" : "Void Staff",
+		"percentages" : "11.42%",
+		"win" : "57.46%",
+	},
+	"ten" : {
+		"name" : "Rite of Ruin",
+		"percentages" : "9.91%",
+		"win" : "56.12%",
+	},
+
+}
+}

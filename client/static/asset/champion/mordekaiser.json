@@ -1,0 +1,149 @@
+{"champion" = {
+	"Pick_Time":2690
+,"Ban_Rate":0.0011463436870059664
+,"Ban_Rate_Game":0.00679
+,"Ban_Time":679
+,"Pick_Rate":0.0269
+,"Assists_Rate":6.774721189591078
+,"Assists":18224
+,"Death_Rate":6.891078066914498
+,"Death":18537
+,"Kills_Rate":7.239405204460967
+,"Kills":19474
+,"KDA":2.03366240491989
+,"Gold_Earned":31352462
+,"Gold_Earned_Average":11655.190334572491
+,"Gold_Spent":28641776
+,"Gold_Spent_Average":10647.500371747212
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":320
+,"First_Blood_Average":0.11895910780669144
+,"First_Inhibitor_Assist":479
+,"First_Inhibitor_Assist_Average":0.17806691449814127
+,"First_Inhibitor_Kill":256
+,"First_Inhibitor_Kill_Average":0.09516728624535316
+,"First_Tower_Kill":553
+,"First_Tower_Kill_Average":0.20557620817843866
+,"First_Tower_Assist":99
+,"First_Tower_Assist_Average":0.03680297397769517
+,"Largest_Killing_Spree":8498
+,"Largest_Killing_Spree_Average":3.1591078066914497
+,"Largest_Multu_Kill":4189
+,"Largest_Multi_Kill_Average":1.5572490706319702
+,"Largest_Critical_Strike":825
+,"Total_Crit_Average":6.090334572490707
+,"Total_Crit":16383
+,"Magic_Damage_Dealt_To_Champion_Average":20386.63568773234
+,"Magic_Damage_Dealt_To_Champion":54840050
+,"Magic_Damage_Dealt":378259926
+,"Magic_Damage_Dealt_Average":140617.07286245353
+,"Magic_Damage_Taken":18788745
+,"Magic_Damage_Taken_Average":6984.663568773234
+,"Minions_Killed":421011
+,"Minions_Killed_Average":156.5096654275093
+,"Neutral_Minion_Killed":26318
+,"Neutral_Minion_Killed_Average":9.78364312267658
+,"Neutral_Minion_Killed_Enemy_Jungle":10745
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":3.9944237918215615
+,"Pentakills":8
+,"Pentakills_Average":0.002973977695167286
+,"Physical_Damage_Dealt_To_Champion":2501241
+,"Physical_Damage_Dealt_To_Champion_Average":929.8293680297397
+,"Physical_Damage_Dealt":44227321
+,"Physical_Damage_Dealt_Average":16441.383271375464
+,"Physical_Damage_Taken":28717300
+,"Physical_Damage_Taken_Average":10675.576208178438
+,"Total_Damage_Dealt":425948562
+,"Total_Damage_Dealt_Average":158345.1903345725
+,"Total_Damage_Dealt_To_Champion":59345749
+,"Total_Damage_Dealt_To_Champion_Average":22061.616728624536
+,"Total_Damage_Taken":49744523
+,"Total_Damage_Taken_Average":18492.387732342006
+,"Total_Heal":19389031
+,"Total_Heal_Average":7207.818215613383
+,"Total_Time_Crowd_Control_Dealt":1274092
+,"Total_Time_Crowd_Control_Dealt_Average":473.6401486988848
+,"Tower_Kills":3260
+,"Tower_Kills_Average":1.211895910780669
+,"True_Damage_Dealt_To_Champion":2002970
+,"True_Damage_Dealt_To_Champion_Average":744.5985130111524
+,"True_Damage_Dealt":3459710
+,"True_Damage_Dealt_Average":1286.1375464684015
+,"True_Damage_Taken":2236013
+,"True_Damage_Taken_Average":831.2315985130111
+,"Sight_Wards_Bought":968
+,"Sight_Wards_Bought_Average":0.35985130111524166
+,"Vision_Wards_Bought":554
+,"Vision_Wards_Bought_Average":0.20594795539033459
+,"Total_Wards_Bought":0.5657992565055762
+,"Wards_Placed":17752
+,"Wards_Placed_Average":6.599256505576208
+,"Wards_Killed":783
+,"WardsKilled_Average":0.29107806691449817
+,"Win":1455
+,"Win_Rate":0.5408921933085502
+,"lose":1235
+,"Lose_Rate":0.4591078066914498
+
+}
+
+
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Will of the Ancients",
+		"percentages" : "76.98%",
+		"win" : "55.48%",
+	},
+	"two" : {
+		"name" : "Rylai’s Crystal Scepter",
+		"percentages" :"30.00%" ,
+		"win" : "59.23%",
+	},
+	"three" : {
+		"name" : "Rabadon’s Deathcap",
+		"percentages" : "28.51%",
+		"win" : "59.84%",
+	},
+	"four" : {
+		"name" : "Zhonya’s Hourglass",
+		"percentages" : "22.97%",
+		"win" : "57.92%",
+	},
+	"five" : {
+		"name" : "Liandry’s Torment",
+		"percentages" : "21.89%",
+		"win" : "57.89%",
+	},
+	"six" : {
+		"name" : "Trickster’s Glass",
+		"percentages" : "13.30%",
+		"win" : "62.56%",
+	},
+	"seven" : {
+		"name" : "Hextech Gunblade",
+		"percentages" : "11.89%",
+		"win" : "61.87%",
+	},
+	"eight" : {
+		"name" : "Luden’s Echo",
+		"percentages" : "11.18%",
+		"win" : "62.79%",
+	},
+	"nine" : {
+		"name" : "Abyssal Scepter",
+		"percentages" : "10.78%",
+		"win" : "60.68%",
+	},
+	"ten" : {
+		"name" : "Void Staff",
+		"percentages" : "7.80%",
+		"win" : "59.52%",
+	},
+
+}
+}

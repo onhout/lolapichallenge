@@ -1,0 +1,148 @@
+{"champion" = {
+	"Pick_Time":5917
+,"Ban_Rate":0.0008593356946775212
+,"Ban_Rate_Game":0.00509
+,"Ban_Time":509
+,"Pick_Rate":0.05917
+,"Assists_Rate":14.256379922257901
+,"Assists":84355
+,"Death_Rate":4.749535237451411
+,"Death":28103
+,"Kills_Rate":1.3513604867331417
+,"Kills":7996
+,"KDA":3.286161619755898
+,"Gold_Earned":53673141
+,"Gold_Earned_Average":9071.005746155146
+,"Gold_Spent":48391454
+,"Gold_Spent_Average":8178.3765421666385
+,"First_Blood_Assist":0
+,"First_Blood_Assist_Average":0
+,"First_Blood_Kill":171
+,"First_Blood_Average":0.02889978029406794
+,"First_Inhibitor_Assist":1331
+,"First_Inhibitor_Assist_Average":0.22494507351698495
+,"First_Inhibitor_Kill":160
+,"First_Inhibitor_Kill_Average":0.027040730099712692
+,"First_Tower_Kill":155
+,"First_Tower_Kill_Average":0.026195707284096672
+,"First_Tower_Assist":677
+,"First_Tower_Assist_Average":0.11441608923440932
+,"Largest_Killing_Spree":2846
+,"Largest_Killing_Spree_Average":0.48098698664863954
+,"Largest_Multu_Kill":4022
+,"Largest_Multi_Kill_Average":0.6797363528815278
+,"Largest_Critical_Strike":1089
+,"Total_Crit_Average":10.797363528815278
+,"Total_Crit":63888
+,"Magic_Damage_Dealt_To_Champion_Average":4039.308940341389
+,"Magic_Damage_Dealt_To_Champion":23900591
+,"Magic_Damage_Dealt":106688773
+,"Magic_Damage_Dealt_Average":18030.88947101572
+,"Magic_Damage_Taken":40155608
+,"Magic_Damage_Taken_Average":6786.4809869866485
+,"Minions_Killed":108225
+,"Minions_Killed_Average":18.290518844008787
+,"Neutral_Minion_Killed":2940
+,"Neutral_Minion_Killed_Average":0.4968734155822207
+,"Neutral_Minion_Killed_Enemy_Jungle":1337
+,"Neutral_Minion_Killed_Enemy_Jungle_Average":0.22595910089572419
+,"Pentakills":1
+,"Pentakills_Average":0.0001690045631232043
+,"Physical_Damage_Dealt_To_Champion":8368212
+,"Physical_Damage_Dealt_To_Champion_Average":1414.266013182356
+,"Physical_Damage_Dealt":45900081
+,"Physical_Damage_Dealt_Average":7757.323136724692
+,"Physical_Damage_Taken":57102325
+,"Physical_Damage_Taken_Average":9650.553489944228
+,"Total_Damage_Dealt":153625182
+,"Total_Damage_Dealt_Average":25963.35676863275
+,"Total_Damage_Dealt_To_Champion":32790682
+,"Total_Damage_Dealt_To_Champion_Average":5541.77488592192
+,"Total_Damage_Taken":100090778
+,"Total_Damage_Taken_Average":16915.79820855163
+,"Total_Heal":33216449
+,"Total_Heal_Average":5613.731451749197
+,"Total_Time_Crowd_Control_Dealt":2220892
+,"Total_Time_Crowd_Control_Dealt_Average":375.3408822038195
+,"Tower_Kills":1738
+,"Tower_Kills_Average":0.29372993070812914
+,"True_Damage_Dealt_To_Champion":518898
+,"True_Damage_Dealt_To_Champion_Average":87.69612979550448
+,"True_Damage_Dealt":1033282
+,"True_Damage_Dealt_Average":174.6293729930708
+,"True_Damage_Taken":2828864
+,"True_Damage_Taken_Average":478.09092445496026
+,"Sight_Wards_Bought":4351
+,"Sight_Wards_Bought_Average":0.735338854149062
+,"Vision_Wards_Bought":5144
+,"Vision_Wards_Bought_Average":0.8693594727057631
+,"Total_Wards_Bought":1.6046983268548252
+,"Wards_Placed":105897
+,"Wards_Placed_Average":17.89707622105797
+,"Wards_Killed":8134
+,"WardsKilled_Average":1.374683116444144
+,"Win":3127
+,"Win_Rate":0.5284772688862599
+,"lose":2790
+,"Lose_Rate":0.47152273111374005
+
+	
+}
+
+
+
+"Items" = {
+
+	"one" : {
+		"name" : "Sightstone",
+		"percentages" : "64.00%",
+		"win" : "52.44%",
+	},
+	"two" : {
+		"name" : "Talisman of Ascension",
+		"percentages" :"52.29%" ,
+		"win" : "54.49%",
+	},
+	"three" : {
+		"name" : "Globe of Trust",
+		"percentages" : "17.76%",
+		"win" : "57.18%",
+	},
+	"four" : {
+		"name" : "Locket of the Iron Solari",
+		"percentages" : "14.72%",
+		"win" : "58.55%",
+	},
+	"five" : {
+		"name" : "Frozen Heart",
+		"percentages" : "12.81%",
+		"win" : "56.59%",
+	},
+	"six" : {
+		"name" : "Mikael’s Crucible",
+		"percentages" : "12.37%",
+		"win" : "58.87%",
+	},
+	"seven" : {
+		"name" : "Mejai’s Soulstealer",
+		"percentages" : "11.23%",
+		"win" : "69.62%",
+	},
+	"eight" : {
+		"name" : "T"win" :Shadows",
+		"percentages" : "8.14%",
+		"win" : "61.41%",
+	},
+	"nine" : {
+		"name" : "Puppeteer",
+		"percentages" : "7.74%",
+		"win" : "62.66%",
+	},
+	"ten" : {
+		"name" : "Ruby Sightstone",
+		"percentages" : "7.57%",
+		"win" : "50.00%",
+	},
+
+}
+}

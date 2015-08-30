@@ -67,24 +67,24 @@
             "win": "65.92%"
         },
         "seven": {
-            "name": "",
-            "percentages": "%",
-            "win": "%"
-        },
-        "eight": {
             "name": "Void Staff",
             "percentages": "6.68%",
             "win": "60.64%"
         },
-        "nine": {
+        "eight": {
             "name": "Rylai’s Crystal Scepter",
             "percentages": "6.60%",
             "win": "67.82%"
         },
-        "ten": {
+        "nine": {
             "name": "Typhoon Claws",
             "percentages": "6.42%",
             "win": "55.23%"
+        },
+        "ten": {
+            "name": "Blade of the Ruined King",
+            "percentages": "6.25%",
+            "win": "57.94%"
         }
     }
 }

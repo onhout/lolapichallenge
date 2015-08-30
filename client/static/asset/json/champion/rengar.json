@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.07865,
+        "Pick_Rate": 0.13199,
+        "Assists_Rate": 5.997575573907114,
+        "Death_Rate": 7.268959769679521,
+        "Kills_Rate": 8.068565800439428,
+        "KDA": 1.9350968804394275,
+        "Gold_Earned_Average": 11581.314645048868,
+        "Gold_Spent_Average": 10739.158269565876,
+        "First_Blood_Average": 0.12296386089855292,
+        "First_Inhibitor_Assist_Average": 0.08629441624365482,
+        "First_Inhibitor_Kill_Average": 0.059777255852716114,
+        "First_Tower_Kill_Average": 0.06045912569134025,
+        "First_Tower_Assist_Average": 0.021895598151375106,
+        "Largest_Killing_Spree_Average": 3.3240396999772712,
+        "Largest_Multi_Kill_Average": 1.516554284415486,
+        "Largest_Critical_Strike": 3664,
+        "Magic_Damage_Dealt_To_Champion_Average": 1826.1236457307373,
+        "Minions_Killed_Average": 84.00803091143268,
+        "Neutral_Minion_Killed_Average": 42.2117584665505,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 8.66611106902038,
+        "Pentakills_Average": 0.0021971361466777786,
+        "Physical_Damage_Dealt_To_Champion_Average": 14382.789681036442,
+        "Total_Damage_Dealt_To_Champion_Average": 16937.640957648306,
+        "Total_Damage_Taken_Average": 28935.68656716418,
+        "Total_Heal_Average": 4379.696795211758,
+        "Total_Time_Crowd_Control_Dealt_Average": 601.8275626941435,
+        "Tower_Kills_Average": 0.6817940753087355,
+        "True_Damage_Dealt_To_Champion_Average": 728.1619062050155,
+        "Sight_Wards_Bought_Average": 0.30820516705811046,
+        "Vision_Wards_Bought_Average": 0.23236608834002576,
+        "Wards_Bought_Average": 0.5405712553981362,
+        "Wards_Placed_Average": 5.447836957345253,
+        "Wards_Killed_Average": 0.6675505720130313,
+        "Win_Rate": 0.4768543071444806
+    },
+    "Items": {
+        "one": {
+            "name": "Ravenous Hydra",
+            "percentages": "66.05%",
+            "win": "52.56%"
+        },
+        "two": {
+            "name": "Youmuu’s Ghostblade",
+            "percentages": "47.38%",
+            "win": "55.85%"
+        },
+        "three": {
+            "name": "Last Whisper",
+            "percentages": "18.00%",
+            "win": "59.30%"
+        },
+        "four": {
+            "name": "Blade of the Ruined King",
+            "percentages": "14.37%",
+            "win": "54.71%"
+        },
+        "five": {
+            "name": "Flesheater",
+            "percentages": "12.37%",
+            "win": "50.52%"
+        },
+        "six": {
+            "name": "Infinity Edge",
+            "percentages": "10.33%",
+            "win": "62.82%"
+        },
+        "seven": {
+            "name": "Randuin’s Omen",
+            "percentages": "7.97%",
+            "win": "50.76%"
+        },
+        "eight": {
+            "name": "Typhoon Claws",
+            "percentages": "6.22%",
+            "win": "51.40"
+        },
+        "nine": {
+            "name": "Mirage Blade",
+            "percentages": "5.71%",
+            "win": "57.55%"
+        },
+        "ten": {
+            "name": "Spirit Visage",
+            "percentages": "%5.15%",
+            "win": "50.80%"
+        }
+    }
+}

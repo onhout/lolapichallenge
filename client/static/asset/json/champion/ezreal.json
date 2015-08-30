@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.02742,
+        "Pick_Rate": 0.1479,
+        "Assists_Rate": 7.793576741041244,
+        "Death_Rate": 5.932251521298174,
+        "Kills_Rate": 7.205476673427992,
+        "KDA": 2.528391346964827,
+        "Gold_Earned_Average": 11036.075050709938,
+        "Gold_Spent_Average": 10231.13015551048,
+        "First_Blood_Average": 0.10784313725490197,
+        "First_Inhibitor_Assist_Average": 0.13144016227180527,
+        "First_Inhibitor_Kill_Average": 0.06910074374577417,
+        "First_Tower_Kill_Average": 0.05510480054090602,
+        "First_Tower_Assist_Average": 0.03671399594320487,
+        "Largest_Killing_Spree_Average": 3.3181203515889113,
+        "Largest_Multi_Kill_Average": 1.4649763353617309,
+        "Largest_Critical_Strike": 2078,
+        "Magic_Damage_Dealt_To_Champion_Average": 10163.131169709262,
+        "Minions_Killed_Average": 130.42393509127788,
+        "Neutral_Minion_Killed_Average": 7.025422582826234,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 2.3095334685598377,
+        "Pentakills_Average": 0.0020960108181203516,
+        "Physical_Damage_Dealt_To_Champion_Average": 11165.18708586883,
+        "Total_Damage_Dealt_To_Champion_Average": 21676.340229885056,
+        "Total_Damage_Taken_Average": 19250.89560513861,
+        "Total_Heal_Average": 1711.3866125760649,
+        "Total_Time_Crowd_Control_Dealt_Average": 221.9973630831643,
+        "Tower_Kills_Average": 0.7664638269100744,
+        "True_Damage_Dealt_To_Champion_Average": 347.4929682217715,
+        "Sight_Wards_Bought_Average": 0.14415145368492224,
+        "Vision_Wards_Bought_Average": 0.1103448275862069,
+        "Wards_Bought_Average": 0.25449628127112917,
+        "Wards_Placed_Average": 5.17816091954023,
+        "Wards_Killed_Average": 0.3471264367816092,
+        "Win_Rate": 0.4779580797836376
+    },
+    "Items": {
+        "one": {
+            "name": "Trinity Force",
+            "percentages": "38.81%",
+            "win": "53.77%"
+        },
+        "two": {
+            "name": "Muramana",
+            "percentages": "24.40%",
+            "win": "53.11%"
+        },
+        "three": {
+            "name": "Last Whisper",
+            "percentages": "18.20%",
+            "win": "57.51%"
+        },
+        "four": {
+            "name": "Luden’s Echo",
+            "percentages": "17.80%",
+            "win": "51.46%"
+        },
+        "five": {
+            "name": "Blade of the Ruined King",
+            "percentages": "15.56%",
+            "win": "56.03%"
+        },
+        "six": {
+            "name": "Infinity Edge",
+            "percentages": "13.54%",
+            "win": "55.93%"
+        },
+        "seven": {
+            "name": "Iceborn Gauntlet",
+            "percentages": "13.38%",
+            "win": "53.93%"
+        },
+        "eight": {
+            "name": "Manamune",
+            "percentages": "12.40%",
+            "win": "47.84%"
+        },
+        "nine": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "10.48%",
+            "win": "54.80%"
+        },
+        "ten": {
+            "name": "Lich Bane",
+            "percentages": "9.95%",
+            "win": "49.72%"
+        }
+    }
+}

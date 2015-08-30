@@ -1,0 +1,28 @@
+{
+    "team": {
+        "Blue": {
+            "Win_Rate": 53.08,
+            "First_Baron_Killed_Chance": 49.55,
+            "Baron_Killed_Rate": 49.44,
+            "First_Dragon_Killed_Chance": 51.44,
+            "Dragon_Killed_Rate": 51.06,
+            "First_Tower_Destroy_Chance": 51.6,
+            "Tower_Destroy_Rate": 51.85,
+            "First_Inhibitor_Destroy_Chance": 52.9,
+            "Inhibitor_Destroy_Rate": 52.64,
+            "First_Blood_Chance": 51.16
+        },
+        "Purple": {
+            "Win_Rate": 46.91,
+            "First_Baron_Killed_Chance": 50.44,
+            "Baron_Killed_Rate": 50.55,
+            "First_Dragon_Killed_Chance": 48.55,
+            "Dragon_Killed_Rate": 48.93,
+            "First_Tower_Destroy_Chance": 48.39,
+            "Tower_Destroy_Rate": 48.14,
+            "First_Inhibitor_Destroy": 47.09,
+            "Inhibitor_Destroy_Rate": 47.35,
+            "First_Blood_Chance": 48.83
+        }
+    }
+}

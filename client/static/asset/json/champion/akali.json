@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.05372,
+        "Pick_Rate": 0.05741,
+        "Assists_Rate": 5.529524473088312,
+        "Death_Rate": 7.546943041282007,
+        "Kills_Rate": 10.030656680020902,
+        "KDA": 2.0617859533316407,
+        "Gold_Earned_Average": 10893.231666956975,
+        "Gold_Spent_Average": 9992.108517679846,
+        "First_Blood_Average": 0.09162166869883295,
+        "First_Inhibitor_Assist_Average": 0.10242118097892353,
+        "First_Inhibitor_Kill_Average": 0.057655460721128725,
+        "First_Tower_Kill_Average": 0.05190733321720954,
+        "First_Tower_Assist_Average": 0.01637345410207281,
+        "Largest_Killing_Spree_Average": 4.003832085002613,
+        "Largest_Multi_Kill_Average": 1.754398188468908,
+        "Largest_Critical_Strike": 1148,
+        "Magic_Damage_Dealt_To_Champion_Average": 12550.781222783487,
+        "Minions_Killed_Average": 98.5596585960634,
+        "Neutral_Minion_Killed_Average": 8.840620101027696,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 3.0334436509318934,
+        "Pentakills_Average": 0.004528827730360565,
+        "Physical_Damage_Dealt_To_Champion_Average": 5516.90472043198,
+        "Total_Damage_Dealt_To_Champion_Average": 18649.756140045287,
+        "Total_Damage_Taken_Average": 27391.021947395922,
+        "Total_Heal_Average": 978.0999825814318,
+        "Total_Time_Crowd_Control_Dealt_Average": 727.4300644487023,
+        "Tower_Kills_Average": 0.6716599895488591,
+        "True_Damage_Dealt_To_Champion_Average": 581.5030482494338,
+        "Sight_Wards_Bought_Average": 0.22382860128897406,
+        "Vision_Wards_Bought_Average": 0.1442257446437903,
+        "Wards_Bought_Average": 0.3680543459327643,
+        "Wards_Placed_Average": 5.527434244905069,
+        "Wards_Killed_Average": 0.3380944086396098,
+        "Win_Rate": 0.49381640829123846
+    },
+    "Items": {
+        "one": {
+            "name": "Hextech Gunblade",
+            "percentages": "79.62%",
+            "win": "52.52%"
+        },
+        "two": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "26.14%",
+            "win": "58.29%"
+        },
+        "three": {
+            "name": "Lich Bane",
+            "percentages": "25.30%",
+            "win": "58.49%"
+        },
+        "four": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "24.69%",
+            "win": "59.30%"
+        },
+        "five": {
+            "name": "Rylai’s Crystal Scepter",
+            "percentages": "20.91%",
+            "win": "55.45%"
+        },
+        "six": {
+            "name": "Trickster’s Glass",
+            "percentages": "12.75%",
+            "win": "58.87%"
+        },
+        "seven": {
+            "name": "Luden’s Echo",
+            "percentages": "9.73%",
+            "win": "61.00%"
+        },
+        "eight": {
+            "name": "Abyssal Scepter",
+            "percentages": "6.96%",
+            "win": "58.75%"
+        },
+        "nine": {
+            "name": "Void Staff",
+            "percentages": "6.39%",
+            "win": "61.58%"
+        },
+        "ten": {
+            "name": "Will of the Ancients",
+            "percentages": "5.24%",
+            "win": "56.47%"
+        }
+    }
+}

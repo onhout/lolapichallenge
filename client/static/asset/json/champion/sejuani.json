@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.07903,
+        "Pick_Rate": 0.03074,
+        "Assists_Rate": 10.727716330513989,
+        "Death_Rate": 5.639882888744307,
+        "Kills_Rate": 4.796031229668185,
+        "KDA": 2.752494664590183,
+        "Gold_Earned_Average": 10991.650292778138,
+        "Gold_Spent_Average": 10032.946324007808,
+        "First_Blood_Average": 0.04163955757970072,
+        "First_Inhibitor_Assist_Average": 0.17599219258295382,
+        "First_Inhibitor_Kill_Average": 0.02277163305139883,
+        "First_Tower_Kill_Average": 0.02081977878985036,
+        "First_Tower_Assist_Average": 0.03318152244632401,
+        "Largest_Killing_Spree_Average": 2.2657774886141833,
+        "Largest_Multi_Kill_Average": 1.1984385165907612,
+        "Largest_Critical_Strike": 1028,
+        "Magic_Damage_Dealt_To_Champion_Average": 11017.298633702017,
+        "Minions_Killed_Average": 49.80481457384515,
+        "Neutral_Minion_Killed_Average": 51.41704619388419,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 7.814573845152895,
+        "Pentakills_Average": 0,
+        "Physical_Damage_Dealt_To_Champion_Average": 2174.2446324007806,
+        "Total_Damage_Dealt_To_Champion_Average": 13722.03350683149,
+        "Total_Damage_Taken_Average": 33368.76935588809,
+        "Total_Heal_Average": 3470.113858165257,
+        "Total_Time_Crowd_Control_Dealt_Average": 1022.3929733246584,
+        "Tower_Kills_Average": 0.28822381262199087,
+        "True_Damage_Dealt_To_Champion_Average": 529.9342875731945,
+        "Sight_Wards_Bought_Average": 0.4886141834743006,
+        "Vision_Wards_Bought_Average": 0.37768379960962917,
+        "Wards_Bought_Average": 0.8662979830839297,
+        "Wards_Placed_Average": 6.982108002602472,
+        "Wards_Killed_Average": 0.8623942745608328,
+        "Win_Rate": 0.5263500325309044
+    },
+    "Items": {
+        "one": {
+            "name": "Frozen Heart",
+            "percentages": "32.85%",
+            "win": "56.33%"
+        },
+        "two": {
+            "name": "Randuin’s Omen",
+            "percentages": "24.00%",
+            "win": "55.14%"
+        },
+        "three": {
+            "name": "Warmog’s Armor",
+            "percentages": "21.01%",
+            "win": "59.28%"
+        },
+        "four": {
+            "name": "Dead Man’s Plate",
+            "percentages": "17.76%",
+            "win": "59.52%"
+        },
+        "five": {
+            "name": "Liandry’s Torment",
+            "percentages": "14.34%",
+            "win": "61.22%"
+        },
+        "six": {
+            "name": "Banshee’s Veil",
+            "percentages": "14.15%",
+            "win": "57.24%"
+        },
+        "seven": {
+            "name": "Ruby Sightstone",
+            "percentages": "12.06%",
+            "win": "43.39%"
+        },
+        "eight": {
+            "name": "Thornmail",
+            "percentages": "10.63%",
+            "win": "52.29%"
+        },
+        "nine": {
+            "name": "Abyssal Scepter",
+            "percentages": "10.40%",
+            "win": "62.81%"
+        },
+        "ten": {
+            "name": "Spirit Visage",
+            "percentages": "10.14%",
+            "win": "58.33%"
+        }
+    }
+}

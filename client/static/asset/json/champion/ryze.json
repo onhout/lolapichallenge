@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.03101,
+        "Pick_Rate": 0.02342,
+        "Assists_Rate": 5.920153714773698,
+        "Death_Rate": 7.2053800170794196,
+        "Kills_Rate": 5.067036720751495,
+        "KDA": 1.5248592592592594,
+        "Gold_Earned_Average": 9660.283945345858,
+        "Gold_Spent_Average": 8898.353970964987,
+        "First_Blood_Average": 0.08155422715627669,
+        "First_Inhibitor_Assist_Average": 0.11528608027327071,
+        "First_Inhibitor_Kill_Average": 0.03116994022203245,
+        "First_Tower_Kill_Average": 0.04355251921434671,
+        "First_Tower_Assist_Average": 0.020922288642186166,
+        "Largest_Killing_Spree_Average": 2.078992314261315,
+        "Largest_Multi_Kill_Average": 1.253202391118702,
+        "Largest_Critical_Strike": 1053,
+        "Magic_Damage_Dealt_To_Champion_Average": 13933.036293766012,
+        "Minions_Killed_Average": 111.45602049530316,
+        "Neutral_Minion_Killed_Average": 5.503415883859949,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 1.6041844577284372,
+        "Pentakills_Average": 0.0008539709649871904,
+        "Physical_Damage_Dealt_To_Champion_Average": 1550.3202391118703,
+        "Total_Damage_Dealt_To_Champion_Average": 15792.90051238258,
+        "Total_Damage_Taken_Average": 22877.729291204098,
+        "Total_Heal_Average": 1033.736976942784,
+        "Total_Time_Crowd_Control_Dealt_Average": 353.14944491887275,
+        "Tower_Kills_Average": 0.5405636208368916,
+        "True_Damage_Dealt_To_Champion_Average": 309.0251921434671,
+        "Sight_Wards_Bought_Average": 0.3471391972672929,
+        "Vision_Wards_Bought_Average": 0.21050384286934246,
+        "Wards_Bought_Average": 0.5576430401366353,
+        "Wards_Placed_Average": 5.574722459436379,
+        "Wards_Killed_Average": 0.24380871050384287,
+        "Win_Rate": 0.4257045260461144
+    },
+    "Items": {
+        "one": {
+            "name": "Rod of Ages",
+            "percentages": "77.66%",
+            "win": "47.55%"
+        },
+        "two": {
+            "name": "seraph’s Embrace",
+            "percentages": "44.06%",
+            "win": "51.35%"
+        },
+        "three": {
+            "name": "Frozen Heart",
+            "percentages": "13.79%",
+            "win": "55.41%"
+        },
+        "four": {
+            "name": "Archangel’s Staff",
+            "percentages": "9.60%",
+            "win": "47.11%"
+        },
+        "five": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "9.30%",
+            "win": "56.88%"
+        },
+        "six": {
+            "name": "Void Staff",
+            "percentages": "8.24%",
+            "win": "56.47%"
+        },
+        "seven": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "7.00%",
+            "win": "51.82%"
+        },
+        "eight": {
+            "name": "Abyssal Scepter",
+            "percentages": "6.36%",
+            "win": "48.32%"
+        },
+        "nine": {
+            "name": "Trickster’s Glass",
+            "percentages": "5.33%",
+            "win": "53.60%"
+        },
+        "ten": {
+            "name": "Pox Arcana",
+            "percentages": "4.91%",
+            "win": "45.21%"
+        }
+    }
+}

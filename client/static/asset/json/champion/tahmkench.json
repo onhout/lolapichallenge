@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.08767,
+        "Pick_Rate": 0.21402,
+        "Assists_Rate": 9.010419586954491,
+        "Death_Rate": 6.383188487057284,
+        "Kills_Rate": 3.4032333426782544,
+        "KDA": 1.9447417156493159,
+        "Gold_Earned_Average": 8791.3077749743,
+        "Gold_Spent_Average": 8046.938230071956,
+        "First_Blood_Average": 0.045743388468367445,
+        "First_Inhibitor_Assist_Average": 0.14255677039529016,
+        "First_Inhibitor_Kill_Average": 0.018643117465657416,
+        "First_Tower_Kill_Average": 0.029249602840855995,
+        "First_Tower_Assist_Average": 0.06452667974955612,
+        "Largest_Killing_Spree_Average": 1.4146341463414633,
+        "Largest_Multi_Kill_Average": 0.9915428464629474,
+        "Largest_Critical_Strike": 1270,
+        "Magic_Damage_Dealt_To_Champion_Average": 8995.128025418186,
+        "Minions_Killed_Average": 54.554247266610595,
+        "Neutral_Minion_Killed_Average": 5.3861321371834405,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 1.4472946453602467,
+        "Pentakills_Average": 0,
+        "Physical_Damage_Dealt_To_Champion_Average": 1900.090785907859,
+        "Total_Damage_Dealt_To_Champion_Average": 11101.002055882627,
+        "Total_Damage_Taken_Average": 28924.50803663209,
+        "Total_Heal_Average": 5502.602233436128,
+        "Total_Time_Crowd_Control_Dealt_Average": 551.1248948696383,
+        "Tower_Kills_Average": 0.28436594710774693,
+        "True_Damage_Dealt_To_Champion_Average": 205.26446126530232,
+        "Sight_Wards_Bought_Average": 0.42463321184935987,
+        "Vision_Wards_Bought_Average": 0.3419306606859172,
+        "Wards_Bought_Average": 0.766563872535277,
+        "Wards_Placed_Average": 9.821979254275302,
+        "Wards_Killed_Average": 0.5943369778525371,
+        "Win_Rate": 0.43738902906270444
+    },
+    "Items": {
+        "one": {
+            "name": "Face of the Mountain",
+            "percentages": "39.24%",
+            "win": "50.16%"
+        },
+        "two": {
+            "name": "Sightstone",
+            "percentages": "35.25%",
+            "win": "45.30%"
+        },
+        "three": {
+            "name": "Sunfire Cape",
+            "percentages": "19.94%",
+            "win": "50.43%"
+        },
+        "four": {
+            "name": "Dead Man’s Plate",
+            "percentages": "15.91%",
+            "win": "53.33%"
+        },
+        "five": {
+            "name": "Warmog’s Armor",
+            "percentages": "14.41%",
+            "win": "54.73%"
+        },
+        "six": {
+            "name": "Spirit Visage",
+            "percentages": "13.62%",
+            "win": "51.16%"
+        },
+        "seven": {
+            "name": "Ruby Sightstone",
+            "percentages": "13.23%",
+            "win": "38.12%"
+        },
+        "eight": {
+            "name": "Martyr’s Gambit",
+            "percentages": "11.76%",
+            "win": "53.67%"
+        },
+        "nine": {
+            "name": "Rod of Ages",
+            "percentages": "9.70%",
+            "win": "41.42%"
+        },
+        "ten": {
+            "name": "Trickster’s Glass",
+            "percentages": "9.43%",
+            "win": "47.52%"
+        }
+    }
+}

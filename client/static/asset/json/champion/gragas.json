@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.04034,
+        "Pick_Rate": 0.03509,
+        "Assists_Rate": 8.917070390424623,
+        "Death_Rate": 6.053861499002565,
+        "Kills_Rate": 4.810487318324309,
+        "KDA": 2.2675704938097256,
+        "Gold_Earned_Average": 10169.755485893416,
+        "Gold_Spent_Average": 9396.270447420917,
+        "First_Blood_Average": 0.06497577657452265,
+        "First_Inhibitor_Assist_Average": 0.14078084924479908,
+        "First_Inhibitor_Kill_Average": 0.022228555143915644,
+        "First_Tower_Kill_Average": 0.022228555143915644,
+        "First_Tower_Assist_Average": 0.03334283271587347,
+        "Largest_Killing_Spree_Average": 2.1729837560558565,
+        "Largest_Multi_Kill_Average": 1.1803932744371617,
+        "Largest_Critical_Strike": 1326,
+        "Magic_Damage_Dealt_To_Champion_Average": 11508.145910515817,
+        "Minions_Killed_Average": 48.45454545454545,
+        "Neutral_Minion_Killed_Average": 39.98090624109433,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 6.371615844970077,
+        "Pentakills_Average": 0,
+        "Physical_Damage_Dealt_To_Champion_Average": 1664.180108292961,
+        "Total_Damage_Dealt_To_Champion_Average": 13735.72755770875,
+        "Total_Damage_Taken_Average": 30976.28441151325,
+        "Total_Heal_Average": 7139.392419492733,
+        "Total_Time_Crowd_Control_Dealt_Average": 817.4764890282132,
+        "Tower_Kills_Average": 0.2798518096323739,
+        "True_Damage_Dealt_To_Champion_Average": 562.8652037617555,
+        "Sight_Wards_Bought_Average": 0.6446280991735537,
+        "Vision_Wards_Bought_Average": 0.4864633798803078,
+        "Wards_Bought_Average": 1.1310914790538615,
+        "Wards_Placed_Average": 7.220005699629524,
+        "Wards_Killed_Average": 0.8557993730407524,
+        "Win_Rate": 0.45454545454545453
+    },
+    "Items": {
+        "one": {
+            "name": "Spirit Visage",
+            "percentages": "21.20%",
+            "win": "49.05%"
+        },
+        "two": {
+            "name": "Rod of Ages",
+            "percentages": "20.17%",
+            "win": "43.64%"
+        },
+        "three": {
+            "name": "Sunfire Cape",
+            "percentages": "11.99%",
+            "win": "48.45%"
+        },
+        "four": {
+            "name": "Dead Man’s Plate",
+            "percentages": "11.51%",
+            "win": "56.18%"
+        },
+        "five": {
+            "name": "Randuin’s Omen",
+            "percentages": "10.80%",
+            "win": "48.54%"
+        },
+        "six": {
+            "name": "Ruby Sightstone",
+            "percentages": "10.28%",
+            "win": "38.78%"
+        },
+        "seven": {
+            "name": "Frozen Heart",
+            "percentages": "10.23%",
+            "win": "52.36%"
+        },
+        "eight": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "10.23%",
+            "win": "53.20%"
+        },
+        "nine": {
+            "name": "Trickster’s Glass",
+            "percentages": "10.11%",
+            "win": "54.92%"
+        },
+        "ten": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "9.46%",
+            "win": "55.72%"
+        }
+    }
+}

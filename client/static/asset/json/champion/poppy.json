@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.00997,
+        "Pick_Rate": 0.0163,
+        "Assists_Rate": 5.666871165644172,
+        "Death_Rate": 6.749693251533742,
+        "Kills_Rate": 6.714723926380368,
+        "KDA": 1.8343937465915288,
+        "Gold_Earned_Average": 10478.817791411044,
+        "Gold_Spent_Average": 9793.072392638036,
+        "First_Blood_Average": 0.10858895705521472,
+        "First_Inhibitor_Assist_Average": 0.09325153374233129,
+        "First_Inhibitor_Kill_Average": 0.05460122699386503,
+        "First_Tower_Kill_Average": 0.03865030674846626,
+        "First_Tower_Assist_Average": 0.02638036809815951,
+        "Largest_Killing_Spree_Average": 2.6883435582822086,
+        "Largest_Multi_Kill_Average": 1.3828220858895706,
+        "Largest_Critical_Strike": 1932,
+        "Magic_Damage_Dealt_To_Champion_Average": 9411.606748466258,
+        "Minions_Killed_Average": 76.12944785276073,
+        "Neutral_Minion_Killed_Average": 25.379754601226995,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 4.796319018404908,
+        "Pentakills_Average": 0.00245398773006135,
+        "Physical_Damage_Dealt_To_Champion_Average": 5660.600613496933,
+        "Total_Damage_Dealt_To_Champion_Average": 15734.920245398773,
+        "Total_Damage_Taken_Average": 27334.398773006134,
+        "Total_Heal_Average": 2271.844171779141,
+        "Total_Time_Crowd_Control_Dealt_Average": 589.0300613496933,
+        "Tower_Kills_Average": 0.6429447852760736,
+        "True_Damage_Dealt_To_Champion_Average": 662.158282208589,
+        "Sight_Wards_Bought_Average": 0.2625766871165644,
+        "Vision_Wards_Bought_Average": 0.1901840490797546,
+        "Wards_Bought_Average": 0.452760736196319,
+        "Wards_Placed_Average": 6.204294478527608,
+        "Wards_Killed_Average": 0.4411042944785276,
+        "Win_Rate": 0.4539877300613497
+    },
+    "Items": {
+        "one": {
+            "name": "Trinity Force",
+            "percentages": "59.81%",
+            "win": "51.17%"
+        },
+        "two": {
+            "name": "Blade of the Ruined King",
+            "percentages": "25.27%",
+            "win": "55.82%"
+        },
+        "three": {
+            "name": "Ravenous Hydra",
+            "percentages": "13.00%",
+            "win": "59.90%"
+        },
+        "four": {
+            "name": "Flesheater",
+            "percentages": "11.47%",
+            "win": "55.08%"
+        },
+        "five": {
+            "name": "Hextech Gunblade",
+            "percentages": "11.41%",
+            "win": "48.92%"
+        },
+        "six": {
+            "name": "Randuin’s Omen",
+            "percentages": "9.38%",
+            "win": "49.01%"
+        },
+        "seven": {
+            "name": "Dead Man’s Plate",
+            "percentages": "6.38%",
+            "win": "50.00%"
+        },
+        "eight": {
+            "name": "Ruby Sightstone",
+            "percentages": "6.07%",
+            "win": "36.36%"
+        },
+        "nine": {
+            "name": "Infinity Edge",
+            "percentages": "3.61%",
+            "win": "74.57%"
+        },
+        "ten": {
+            "name": "Guardian Angel",
+            "percentages": "3.49%",
+            "win": "54.38%"
+        }
+    }
+}

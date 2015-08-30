@@ -1,0 +1,1890 @@
+{
+    "chart": {
+        "Ban_Rate_Average": {
+            "0": {
+                "name": "Katarina",
+                "values": 63.15
+            },
+            "1": {
+                "name": "Yasuo",
+                "values": 42.28
+            },
+            "2": {
+                "name": "Zed",
+                "values": 39.31
+            },
+            "3": {
+                "name": "Master Yi",
+                "values": 27.27
+            },
+            "4": {
+                "name": "LeBlanc",
+                "values": 24.68
+            },
+            "5": {
+                "name": "Fizz",
+                "values": 21.01
+            },
+            "6": {
+                "name": "Blitzcrank",
+                "values": 18.04
+            },
+            "7": {
+                "name": "Ekko",
+                "values": 17.91
+            },
+            "8": {
+                "name": "Riven",
+                "values": 15.08
+            },
+            "9": {
+                "name": "Diana",
+                "values": 14.91
+            },
+            "10": {
+                "name": "Karma",
+                "values": 0.35
+            },
+            "11": {
+                "name": "Nocturne",
+                "values": 0.35
+            },
+            "12": {
+                "name": "Syndra",
+                "values": 0.34
+            },
+            "13": {
+                "name": "Twitch",
+                "values": 0.33
+            },
+            "14": {
+                "name": "Zyra",
+                "values": 0.28
+            },
+            "15": {
+                "name": "Lulu",
+                "values": 0.27
+            },
+            "16": {
+                "name": "Kennen",
+                "values": 0.25
+            },
+            "17": {
+                "name": "Zac",
+                "values": 0.23
+            },
+            "18": {
+                "name": "Skarner",
+                "values": 0.21
+            },
+            "19": {
+                "name": "Corki",
+                "values": 0.18
+            }
+        },
+        "Pick_Rate_Percetange": {
+            "0": {
+                "name": "Vayne",
+                "values": 25.38
+            },
+            "1": {
+                "name": "Miss Fortune",
+                "values": 24.01
+            },
+            "2": {
+                "name": "Jinx",
+                "values": 23.21
+            },
+            "3": {
+                "name": "Tahm Kench",
+                "values": 21.4
+            },
+            "4": {
+                "name": "Master Yi",
+                "values": 19.62
+            },
+            "5": {
+                "name": "Yasuo",
+                "values": 18.66
+            },
+            "6": {
+                "name": "Lee Sin",
+                "values": 18.13
+            },
+            "7": {
+                "name": "Diana",
+                "values": 17.8
+            },
+            "8": {
+                "name": "Blitzcrank",
+                "values": 17.39
+            },
+            "9": {
+                "name": "Teemo",
+                "values": 17.31
+            },
+            "10": {
+                "name": "Karthus",
+                "values": 1.96
+            },
+            "11": {
+                "name": "Lissandra",
+                "values": 1.89
+            },
+            "12": {
+                "name": "Syndra",
+                "values": 1.85
+            },
+            "13": {
+                "name": "Zilean",
+                "values": 1.8
+            },
+            "14": {
+                "name": "Zac",
+                "values": 1.78
+            },
+            "15": {
+                "name": "Poppy",
+                "values": 1.63
+            },
+            "16": {
+                "name": "Yorick",
+                "values": 1.58
+            },
+            "17": {
+                "name": "Skarner",
+                "values": 1.5
+            },
+            "18": {
+                "name": "Kassadin",
+                "values": 1.43
+            },
+            "19": {
+                "name": "Urgot",
+                "values": 0.81
+            }
+        },
+        "Win_Rate_Percentage": {
+            "0": {
+                "name": "Malzahar",
+                "values": 54.35
+            },
+            "1": {
+                "name": "Amumu",
+                "values": 54.34
+            },
+            "2": {
+                "name": "Mordekaiser",
+                "values": 54.08
+            },
+            "3": {
+                "name": "Swain",
+                "values": 53.9
+            },
+            "4": {
+                "name": "Leona",
+                "values": 53.89
+            },
+            "5": {
+                "name": "Wukong",
+                "values": 53.58
+            },
+            "6": {
+                "name": "Heimerdinger",
+                "values": 53.48
+            },
+            "7": {
+                "name": "Tryndamere",
+                "values": 53.45
+            },
+            "8": {
+                "name": "Rammus",
+                "values": 53.35
+            },
+            "9": {
+                "name": "Warwick",
+                "values": 53.34
+            },
+            "10": {
+                "name": "Azir",
+                "values": 45.9
+            },
+            "11": {
+                "name": "Nidalee",
+                "values": 45.75
+            },
+            "12": {
+                "name": "Gragas",
+                "values": 45.45
+            },
+            "13": {
+                "name": "Poppy",
+                "values": 45.39
+            },
+            "14": {
+                "name": "LeBlanc",
+                "values": 45.14
+            },
+            "15": {
+                "name": "Twitch",
+                "values": 45.08
+            },
+            "16": {
+                "name": "Tahm Kench",
+                "values": 43.73
+            },
+            "17": {
+                "name": "Bard",
+                "values": 43.33
+            },
+            "18": {
+                "name": "Ryze",
+                "values": 42.57
+            },
+            "19": {
+                "name": "Kassadin",
+                "values": 39.03
+            }
+        },
+        "KDA": {
+            "0": {
+                "name": "Janna",
+                "values": 3.28
+            },
+            "1": {
+                "name": "Zac",
+                "values": 2.83
+            },
+            "2": {
+                "name": "Lux",
+                "values": 2.8
+            },
+            "3": {
+                "name": "Shen",
+                "values": 2.79
+            },
+            "4": {
+                "name": "Sona",
+                "values": 2.76
+            },
+            "5": {
+                "name": "Sejuani",
+                "values": 2.75
+            },
+            "6": {
+                "name": "Braum",
+                "values": 2.73
+            },
+            "7": {
+                "name": "Skarner",
+                "values": 2.7
+            },
+            "8": {
+                "name": "Nami",
+                "values": 2.69
+            },
+            "9": {
+                "name": "Soraka",
+                "values": 2.69
+            },
+            "10": {
+                "name": "Jax",
+                "values": 1.85
+            },
+            "11": {
+                "name": "Yorick",
+                "values": 1.84
+            },
+            "12": {
+                "name": "Poppy",
+                "values": 1.83
+            },
+            "13": {
+                "name": "Riven",
+                "values": 1.83
+            },
+            "14": {
+                "name": "Yasuo",
+                "values": 1.81
+            },
+            "15": {
+                "name": "Twisted Fate",
+                "values": 1.79
+            },
+            "16": {
+                "name": "Master Yi",
+                "values": 1.76
+            },
+            "17": {
+                "name": "Azir",
+                "values": 1.73
+            },
+            "18": {
+                "name": "Olaf",
+                "values": 1.73
+            },
+            "19": {
+                "name": "Ryze",
+                "values": 1.52
+            }
+        },
+        "Kill_Average": {
+            "0": {
+                "name": "Akali",
+                "values": 10.03
+            },
+            "1": {
+                "name": "Katarina",
+                "values": 9.66
+            },
+            "2": {
+                "name": "Fizz",
+                "values": 402149691964
+            },
+            "3": {
+                "name": "Talon",
+                "values": 9.43
+            },
+            "4": {
+                "name": "Fiora",
+                "values": 8.88
+            },
+            "5": {
+                "name": "Diana",
+                "values": 8.8
+            },
+            "6": {
+                "name": "Zed",
+                "values": 8.74
+            },
+            "7": {
+                "name": "Master Yi",
+                "values": 8.63
+            },
+            "8": {
+                "name": "LeBlanc",
+                "values": 8.5
+            },
+            "9": {
+                "name": "Yasuo",
+                "values": 8.45
+            },
+            "10": {
+                "name": "Lulu",
+                "values": 2.78
+            },
+            "11": {
+                "name": "Bard",
+                "values": 2.69
+            },
+            "12": {
+                "name": "Thresh",
+                "values": 2.66
+            },
+            "13": {
+                "name": "Leona",
+                "values": 2.63
+            },
+            "14": {
+                "name": "Taric",
+                "values": 2.36
+            },
+            "15": {
+                "name": "Alistar",
+                "values": 2.27
+            },
+            "16": {
+                "name": "Nami",
+                "values": 2.23
+            },
+            "17": {
+                "name": "Braum",
+                "values": 2.19
+            },
+            "18": {
+                "name": "Soraka",
+                "values": 1.56
+            },
+            "19": {
+                "name": "Janna",
+                "values": 1.35
+            }
+        },
+        "Death_Average": {
+            "0": {
+                "name": "Yasuo",
+                "values": 8.1
+            },
+            "1": {
+                "name": "Karthus",
+                "values": 7.99
+            },
+            "2": {
+                "name": "Twisted Fate",
+                "values": 7.77
+            },
+            "3": {
+                "name": "Master Yi",
+                "values": 7.69
+            },
+            "4": {
+                "name": "Talon",
+                "values": 7.63
+            },
+            "5": {
+                "name": "Azir",
+                "values": 7.58
+            },
+            "6": {
+                "name": "Katarina",
+                "values": 7.56
+            },
+            "7": {
+                "name": "Akali",
+                "values": 7.55
+            },
+            "8": {
+                "name": "Fiora",
+                "values": 7.49
+            },
+            "9": {
+                "name": "Twitch",
+                "values": 7.47
+            },
+            "10": {
+                "name": "Malphite",
+                "values": 5.65
+            },
+            "11": {
+                "name": "Lulu",
+                "values": 5.64
+            },
+            "12": {
+                "name": "Sejuani",
+                "values": 5.63
+            },
+            "13": {
+                "name": "Cho'Gath",
+                "values": 5.57
+            },
+            "14": {
+                "name": "Shen",
+                "values": 5.51
+            },
+            "15": {
+                "name": "Skarner",
+                "values": 5.46
+            },
+            "16": {
+                "name": "Garen",
+                "values": 5.44
+            },
+            "17": {
+                "name": "Anivia",
+                "values": 5.43
+            },
+            "18": {
+                "name": "Zac",
+                "values": 5.09
+            },
+            "19": {
+                "name": "Janna",
+                "values": 4.74
+            }
+        },
+        "Assists_Average": {
+            "0": {
+                "name": "Janna",
+                "values": 14.25
+            },
+            "1": {
+                "name": "Braum",
+                "values": 13.86
+            },
+            "2": {
+                "name": "Nami",
+                "values": 13.75
+            },
+            "3": {
+                "name": "Soraka",
+                "values": 13.74
+            },
+            "4": {
+                "name": "Sona",
+                "values": 13.42
+            },
+            "5": {
+                "name": "Thresh",
+                "values": 13.41
+            },
+            "6": {
+                "name": "Taric",
+                "values": 13.2
+            },
+            "7": {
+                "name": "Leona",
+                "values": 13.2
+            },
+            "8": {
+                "name": "Alistar",
+                "values": 12.53
+            },
+            "9": {
+                "name": "Blitzcrank",
+                "values": 11.93
+            },
+            "10": {
+                "name": "Poppy",
+                "values": 5.66
+            },
+            "11": {
+                "name": "Fizz",
+                "values": 5.61
+            },
+            "12": {
+                "name": "Akali",
+                "values": 5.52
+            },
+            "13": {
+                "name": "Jax",
+                "values": 5.49
+            },
+            "14": {
+                "name": "Darius",
+                "values": 5.4
+            },
+            "15": {
+                "name": "Zed",
+                "values": 5.36
+            },
+            "16": {
+                "name": "Riven",
+                "values": 5.24
+            },
+            "17": {
+                "name": "Tryndamere",
+                "values": 5.05
+            },
+            "18": {
+                "name": "Fiora",
+                "values": 5.03
+            },
+            "19": {
+                "name": "Masteryi",
+                "values": 4.96
+            }
+        },
+        "Gold_Earned_Average": {
+            "0": {
+                "name": "Draven",
+                "values": 12392
+            },
+            "1": {
+                "name": "Shyvana",
+                "values": 12350
+            },
+            "2": {
+                "name": "Master Yi",
+                "values": 12302
+            },
+            "3": {
+                "name": "Nocturne",
+                "values": 12249
+            },
+            "4": {
+                "name": "Yasuo",
+                "values": 12170
+            },
+            "5": {
+                "name": "Tryndamere",
+                "values": 12093
+            },
+            "6": {
+                "name": "Karthus",
+                "values": 11845
+            },
+            "7": {
+                "name": "Lucian",
+                "values": 11832
+            },
+            "8": {
+                "name": "Udyr",
+                "values": 11778
+            },
+            "9": {
+                "name": "Talon",
+                "values": 11682
+            },
+            "10": {
+                "name": "Nami",
+                "values": 9085
+            },
+            "11": {
+                "name": "Janna",
+                "values": 9071
+            },
+            "12": {
+                "name": "Thresh",
+                "values": 9025
+            },
+            "13": {
+                "name": "Taric",
+                "values": 8996
+            },
+            "14": {
+                "name": "Soraka",
+                "values": 8988
+            },
+            "15": {
+                "name": "Leona",
+                "values": 8977
+            },
+            "16": {
+                "name": "Braum",
+                "values": 8848
+            },
+            "17": {
+                "name": "Bard",
+                "values": 8828
+            },
+            "18": {
+                "name": "Tahm Kench",
+                "values": 8791
+            },
+            "19": {
+                "name": "Alistar",
+                "values": 8765
+            }
+        },
+        "Gold_Spent_Average": {
+            "0": {
+                "name": "Master Yi",
+                "values": 11388
+            },
+            "1": {
+                "name": "Draven",
+                "values": 11388
+            },
+            "2": {
+                "name": "Nocturne",
+                "values": 11308
+            },
+            "3": {
+                "name": "Shyvana",
+                "values": 11295
+            },
+            "4": {
+                "name": "Yasuo",
+                "values": 11216
+            },
+            "5": {
+                "name": "Karthus",
+                "values": 11047
+            },
+            "6": {
+                "name": "Tryndamere",
+                "values": 11035
+            },
+            "7": {
+                "name": "Lucian",
+                "values": 10961
+            },
+            "8": {
+                "name": "Talon",
+                "values": 10840
+            },
+            "9": {
+                "name": "Udyr",
+                "values": 10810
+            },
+            "10": {
+                "name": "Thresh",
+                "values": 8234
+            },
+            "11": {
+                "name": "Nami",
+                "values": 8212
+            },
+            "12": {
+                "name": "Leona",
+                "values": 8185
+            },
+            "13": {
+                "name": "Taric",
+                "values": 8180
+            },
+            "14": {
+                "name": "Janna",
+                "values": 8178
+            },
+            "15": {
+                "name": "Soraka",
+                "values": 8157
+            },
+            "16": {
+                "name": "Braum",
+                "values": 8056
+            },
+            "17": {
+                "name": "Tahm Kench",
+                "values": 8046
+            },
+            "18": {
+                "name": "Alistar",
+                "values": 8015
+            },
+            "19": {
+                "name": "Bard",
+                "values": 8007
+            }
+        },
+        "Largest_Killing_Spree_Average": {
+            "0": {
+                "name": "Akali",
+                "values": 4
+            },
+            "1": {
+                "name": "Katarina",
+                "values": 3.95
+            },
+            "2": {
+                "name": "Fizz",
+                "values": 3.79
+            },
+            "3": {
+                "name": "Diana",
+                "values": 3.69
+            },
+            "4": {
+                "name": "LeBlanc",
+                "values": 3.68
+            },
+            "5": {
+                "name": "Talon",
+                "values": 3.67
+            },
+            "6": {
+                "name": "Fiora",
+                "values": 3.6
+            },
+            "7": {
+                "name": "Kha'Zix",
+                "values": 3.52
+            },
+            "8": {
+                "name": "Ahri",
+                "values": 3.49
+            },
+            "9": {
+                "name": "Corki",
+                "values": 3.47
+            },
+            "10": {
+                "name": "Lulu",
+                "values": 1.17
+            },
+            "11": {
+                "name": "Bard",
+                "values": 1.06
+            },
+            "12": {
+                "name": "Leona",
+                "values": 1.05
+            },
+            "13": {
+                "name": "Thresh",
+                "values": 1.04
+            },
+            "14": {
+                "name": "Taric",
+                "values": 0.92
+            },
+            "15": {
+                "name": "Alistar",
+                "values": 0.91
+            },
+            "16": {
+                "name": "Nami",
+                "values": 0.88
+            },
+            "17": {
+                "name": "Braum",
+                "values": 0.87
+            },
+            "18": {
+                "name": "Soraka",
+                "values": 0.55
+            },
+            "19": {
+                "name": "Janna",
+                "values": 0.48
+            }
+        },
+        "Largest_Critical_Strike": {
+            "0": {
+                "name": "Nasus",
+                "values": 4006
+            },
+            "1": {
+                "name": "Fiora",
+                "values": 3667
+            },
+            "2": {
+                "name": "Rengar",
+                "values": 3664
+            },
+            "3": {
+                "name": "Talon",
+                "values": 3461
+            },
+            "4": {
+                "name": "Jayce",
+                "values": 3406
+            },
+            "5": {
+                "name": "Caitlyn",
+                "values": 3269
+            },
+            "6": {
+                "name": "Tryndamere",
+                "values": 2993
+            },
+            "7": {
+                "name": "Master Yi",
+                "values": 2911
+            },
+            "8": {
+                "name": "Zed",
+                "values": 2898
+            },
+            "9": {
+                "name": "Gangplank",
+                "values": 2789
+            },
+            "10": {
+                "name": "Rumble",
+                "values": 681
+            },
+            "11": {
+                "name": "Xerath",
+                "values": 626
+            },
+            "12": {
+                "name": "Cassiopeia",
+                "values": 588
+            },
+            "13": {
+                "name": "Veigar",
+                "values": 574
+            },
+            "14": {
+                "name": "Zac",
+                "values": 545
+            },
+            "15": {
+                "name": "Zyra",
+                "values": 543
+            },
+            "16": {
+                "name": "Galio",
+                "values": 524
+            },
+            "17": {
+                "name": "Singed",
+                "values": 421
+            },
+            "18": {
+                "name": "Vladimir",
+                "values": 394
+            },
+            "19": {
+                "name": "Syndra",
+                "values": 370
+            }
+        },
+        "Damage_Dealt_To_Champion_Average": {
+            "0": {
+                "name": "Karthus",
+                "values": 27429
+            },
+            "1": {
+                "name": "Brand",
+                "values": 24769
+            },
+            "2": {
+                "name": "Heimerdinger",
+                "values": 23244
+            },
+            "3": {
+                "name": "Zi,s",
+                "values": 22836
+            },
+            "4": {
+                "name": "Xerath",
+                "values": 22655
+            },
+            "5": {
+                "name": "Malzahar",
+                "values": 22471
+            },
+            "6": {
+                "name": "Teemo",
+                "values": 22333
+            },
+            "7": {
+                "name": "Mordekaiser",
+                "values": 22061
+            },
+            "8": {
+                "name": "Vel'Koz",
+                "values": 21922
+            },
+            "9": {
+                "name": "Kog'Maw",
+                "values": 21841
+            },
+            "10": {
+                "name": "Lulu",
+                "values": 9944
+            },
+            "11": {
+                "name": "Bard",
+                "values": 9596
+            },
+            "12": {
+                "name": "Nami",
+                "values": 9318
+            },
+            "13": {
+                "name": "Leona",
+                "values": 8976
+            },
+            "14": {
+                "name": "Thresh",
+                "values": 8691
+            },
+            "15": {
+                "name": "Braum",
+                "values": 8348
+            },
+            "16": {
+                "name": "Taric",
+                "values": 7951
+            },
+            "17": {
+                "name": "Alistar",
+                "values": 7739
+            },
+            "18": {
+                "name": "Soraka",
+                "values": 7574
+            },
+            "19": {
+                "name": "Janna",
+                "values": 5541
+            }
+        },
+        "Magic_Dmage_Dealt_To_Champion_Average": {
+            "0": {
+                "name": "Karthus",
+                "values": 26643
+            },
+            "1": {
+                "name": "Brand",
+                "values": 23078
+            },
+            "2": {
+                "name": "Heimerdinger",
+                "values": 21643
+            },
+            "3": {
+                "name": "Xerath",
+                "values": 21504
+            },
+            "4": {
+                "name": "Zi,s",
+                "values": 21217
+            },
+            "5": {
+                "name": "Mordekaiser",
+                "values": 20386
+            },
+            "6": {
+                "name": "Viktor",
+                "values": 20036
+            },
+            "7": {
+                "name": "Vladimir",
+                "values": 19945
+            },
+            "8": {
+                "name": "Katarina",
+                "values": 19432
+            },
+            "9": {
+                "name": "Teemo",
+                "values": 19295
+            },
+            "10": {
+                "name": "Wukong",
+                "values": 820
+            },
+            "11": {
+                "name": "Quinn",
+                "values": 722
+            },
+            "12": {
+                "name": "Sivir",
+                "values": 645
+            },
+            "13": {
+                "name": "Vayne",
+                "values": 584
+            },
+            "14": {
+                "name": "Olaf",
+                "values": 531
+            },
+            "15": {
+                "name": "Draven",
+                "values": 516
+            },
+            "16": {
+                "name": "Twitch",
+                "values": 480
+            },
+            "17": {
+                "name": "Urgot",
+                "values": 84
+            },
+            "18": {
+                "name": "Riven",
+                "values": 59
+            },
+            "19": {
+                "name": "Talon",
+                "values": 46
+            }
+        },
+        "Physical_Damage_Dealt_To_Champion_Average": {
+            "0": {
+                "name": "Talon",
+                "values": 20788
+            },
+            "1": {
+                "name": "Draven",
+                "values": 19503
+            },
+            "2": {
+                "name": "Zed",
+                "values": 18210
+            },
+            "3": {
+                "name": "Fiora",
+                "values": 18172
+            },
+            "4": {
+                "name": "Varus",
+                "values": 17482
+            },
+            "5": {
+                "name": "Sivir",
+                "values": 17284
+            },
+            "6": {
+                "name": "Caitlyn",
+                "values": 17247
+            },
+            "7": {
+                "name": "Jinx",
+                "values": 17213
+            },
+            "8": {
+                "name": "Lucian",
+                "values": 16788
+            },
+            "9": {
+                "name": "Wukong",
+                "values": 16747
+            },
+            "10": {
+                "name": "Veigar",
+                "values": 956
+            },
+            "11": {
+                "name": "Vladimir",
+                "values": 950
+            },
+            "12": {
+                "name": "Nidalee",
+                "values": 931
+            },
+            "13": {
+                "name": "Mordekaiser",
+                "values": 929
+            },
+            "14": {
+                "name": "Vel'Koz",
+                "values": 884
+            },
+            "15": {
+                "name": "Viktor",
+                "values": 839
+            },
+            "16": {
+                "name": "Xerath",
+                "values": 829
+            },
+            "17": {
+                "name": "Singed",
+                "values": 802
+            },
+            "18": {
+                "name": "Fiddlesticks",
+                "values": 568
+            },
+            "19": {
+                "name": "Karthus",
+                "values": 460
+            }
+        },
+        "True_Damage_Dealt_To_Champion_Average": {
+            "0": {
+                "name": "Ahri",
+                "values": 5336
+            },
+            "1": {
+                "name": "Olaf",
+                "values": 4819
+            },
+            "2": {
+                "name": "Darius",
+                "values": 3905
+            },
+            "3": {
+                "name": "Vayne",
+                "values": 3705
+            },
+            "4": {
+                "name": "Cho'Gath",
+                "values": 3601
+            },
+            "5": {
+                "name": "Vel'Koz",
+                "values": 3147
+            },
+            "6": {
+                "name": "Master Yi",
+                "values": 2841
+            },
+            "7": {
+                "name": "Twitch",
+                "values": 2695
+            },
+            "8": {
+                "name": "Irelia",
+                "values": 2694
+            },
+            "9": {
+                "name": "Gangplank",
+                "values": 2332
+            },
+            "10": {
+                "name": "Bard",
+                "values": 189
+            },
+            "11": {
+                "name": "Thresh",
+                "values": 181
+            },
+            "12": {
+                "name": "Zilean",
+                "values": 177
+            },
+            "13": {
+                "name": "Leona",
+                "values": 162
+            },
+            "14": {
+                "name": "Taric",
+                "values": 159
+            },
+            "15": {
+                "name": "Sona",
+                "values": 141
+            },
+            "16": {
+                "name": "Braum",
+                "values": 116
+            },
+            "17": {
+                "name": "Nami",
+                "values": 93
+            },
+            "18": {
+                "name": "Janna",
+                "values": 87
+            },
+            "19": {
+                "name": "Soraka",
+                "values": 69
+            }
+        },
+        "Damage_Taken_Average": {
+            "0": {
+                "name": "Warwick",
+                "values": 38350
+            },
+            "1": {
+                "name": "Trundle",
+                "values": 37803
+            },
+            "2": {
+                "name": "Tryndamere",
+                "values": 36252
+            },
+            "3": {
+                "name": "Nasus",
+                "values": 34816
+            },
+            "4": {
+                "name": "Nunu",
+                "values": 34807
+            },
+            "5": {
+                "name": "Dr. Mundo",
+                "values": 34625
+            },
+            "6": {
+                "name": "Singed",
+                "values": 34498
+            },
+            "7": {
+                "name": "Hecarim",
+                "values": 34413
+            },
+            "8": {
+                "name": "Garen",
+                "values": 34061
+            },
+            "9": {
+                "name": "Renekton",
+                "values": 33774
+            },
+            "10": {
+                "name": "Zyra",
+                "values": 17959
+            },
+            "11": {
+                "name": "Karma",
+                "values": 17624
+            },
+            "12": {
+                "name": "Nami",
+                "values": 17422
+            },
+            "13": {
+                "name": "Orianna",
+                "values": 17387
+            },
+            "14": {
+                "name": "Vel'Koz",
+                "values": 17340
+            },
+            "15": {
+                "name": "Zi,s",
+                "values": 17119
+            },
+            "16": {
+                "name": "Janna",
+                "values": 16915
+            },
+            "17": {
+                "name": "Xerath",
+                "values": 16703
+            },
+            "18": {
+                "name": "Soraka",
+                "values": 15951
+            },
+            "19": {
+                "name": "Lux",
+                "values": 15076
+            }
+        },
+        "Heal_Average": {
+            "0": {
+                "name": "Zac",
+                "values": 22130
+            },
+            "1": {
+                "name": "Vladimir",
+                "values": 19574
+            },
+            "2": {
+                "name": "Soraka",
+                "values": 18961
+            },
+            "3": {
+                "name": "Aatrox",
+                "values": 16493
+            },
+            "4": {
+                "name": "Sion",
+                "values": 16297
+            },
+            "5": {
+                "name": "Warwick",
+                "values": 16123
+            },
+            "6": {
+                "name": "Taric",
+                "values": 12656
+            },
+            "7": {
+                "name": "Yorick",
+                "values": 12225
+            },
+            "8": {
+                "name": "Trundle",
+                "values": 11807
+            },
+            "9": {
+                "name": "Fiddlesticks",
+                "values": 11202
+            },
+            "10": {
+                "name": "Syndra",
+                "values": 1118
+            },
+            "11": {
+                "name": "Annie",
+                "values": 1114
+            },
+            "12": {
+                "name": "Zi,s",
+                "values": 1095
+            },
+            "13": {
+                "name": "Zyra",
+                "values": 1093
+            },
+            "14": {
+                "name": "Heimerdinger",
+                "values": 1076
+            },
+            "15": {
+                "name": "Ryze",
+                "values": 1033
+            },
+            "16": {
+                "name": "Viktor",
+                "values": 1025
+            },
+            "17": {
+                "name": "Lux",
+                "values": 1010
+            },
+            "18": {
+                "name": "Morgana",
+                "values": 1003
+            },
+            "19": {
+                "name": "Akali",
+                "values": 978
+            }
+        },
+        "Minions_Killed": {
+            "0": {
+                "name": "Lucian",
+                "values": 162.54
+            },
+            "1": {
+                "name": "Yasuo",
+                "values": 160.68
+            },
+            "2": {
+                "name": "Mordekaiser",
+                "values": 156.5
+            },
+            "3": {
+                "name": "Sivir",
+                "values": 156.35
+            },
+            "4": {
+                "name": "Caitlyn",
+                "values": 155.93
+            },
+            "5": {
+                "name": "Renekton",
+                "values": 154.08
+            },
+            "6": {
+                "name": "Corki",
+                "values": 153.49
+            },
+            "7": {
+                "name": "Jinx",
+                "values": 148.89
+            },
+            "8": {
+                "name": "Graves",
+                "values": 148.64
+            },
+            "9": {
+                "name": "Singed",
+                "values": 148.21
+            },
+            "10": {
+                "name": "Alistar",
+                "values": 41.67
+            },
+            "11": {
+                "name": "Leona",
+                "values": 39.99
+            },
+            "12": {
+                "name": "Braum",
+                "values": 38.44
+            },
+            "13": {
+                "name": "Blitzcrank",
+                "values": 32.16
+            },
+            "14": {
+                "name": "Thresh",
+                "values": 31.11
+            },
+            "15": {
+                "name": "Soraka",
+                "values": 25.44
+            },
+            "16": {
+                "name": "Sona",
+                "values": 25.44
+            },
+            "17": {
+                "name": "Bard",
+                "values": 24.89
+            },
+            "18": {
+                "name": "Nami",
+                "values": 19.69
+            },
+            "19": {
+                "name": "Janna",
+                "values": 18.29
+            }
+        },
+        "Neutral_Minion_Killed_Average": {
+            "0": {
+                "name": "Udyr",
+                "values": 66.98
+            },
+            "1": {
+                "name": "Shyvana",
+                "values": 66.21
+            },
+            "2": {
+                "name": "Skarner",
+                "values": 59.77
+            },
+            "3": {
+                "name": "Warwick",
+                "values": 58.87
+            },
+            "4": {
+                "name": "Vi",
+                "values": 58.65
+            },
+            "5": {
+                "name": "Nocturne",
+                "values": 58.28
+            },
+            "6": {
+                "name": "Master Yi",
+                "values": 53.9
+            },
+            "7": {
+                "name": "Amumu",
+                "values": 52.57
+            },
+            "8": {
+                "name": "Evelynn",
+                "values": 52.46
+            },
+            "9": {
+                "name": "Rek'Sai",
+                "values": 51.76
+            },
+            "10": {
+                "name": "Morgana",
+                "values": 2.12
+            },
+            "11": {
+                "name": "Bard",
+                "values": 1.85
+            },
+            "12": {
+                "name": "Blitzcrank",
+                "values": 1.61
+            },
+            "13": {
+                "name": "Braum",
+                "values": 1.53
+            },
+            "14": {
+                "name": "Leona",
+                "values": 1.28
+            },
+            "15": {
+                "name": "Thresh",
+                "values": 1.18
+            },
+            "16": {
+                "name": "Sona",
+                "values": 1.02
+            },
+            "17": {
+                "name": "Soraka",
+                "values": 0.95
+            },
+            "18": {
+                "name": "Nami",
+                "values": 0.63
+            },
+            "19": {
+                "name": "Janna",
+                "values": 0.49
+            }
+        },
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": {
+            "0": {
+                "name": "Shyvana",
+                "values": 14.6
+            },
+            "1": {
+                "name": "Udyr",
+                "values": 14.05
+            },
+            "2": {
+                "name": "Nunu",
+                "values": 13.35
+            },
+            "3": {
+                "name": "Warwick",
+                "values": 11.07
+            },
+            "4": {
+                "name": "Master Yi",
+                "values": 10.75
+            },
+            "5": {
+                "name": "Nocturne",
+                "values": 10.49
+            },
+            "6": {
+                "name": "Rek'Sai",
+                "values": 10.27
+            },
+            "7": {
+                "name": "Vi",
+                "values": 10.12
+            },
+            "8": {
+                "name": "Skarner",
+                "values": 9.97
+            },
+            "9": {
+                "name": "Shaco",
+                "values": 9.89
+            },
+            "10": {
+                "name": "Blitzcrank",
+                "values": 0.65
+            },
+            "11": {
+                "name": "Alistar",
+                "values": 0.6
+            },
+            "12": {
+                "name": "Bard",
+                "values": 0.55
+            },
+            "13": {
+                "name": "Braum",
+                "values": 0.52
+            },
+            "14": {
+                "name": "Leona",
+                "values": 0.48
+            },
+            "15": {
+                "name": "Sona",
+                "values": 0.47
+            },
+            "16": {
+                "name": "Thresh",
+                "values": 0.47
+            },
+            "17": {
+                "name": "Soraka",
+                "values": 0.34
+            },
+            "18": {
+                "name": "Nami",
+                "values": 0.29
+            },
+            "19": {
+                "name": "Janna",
+                "values": 0.22
+            }
+        },
+        "Tower_Killed_Average": {
+            "0": {
+                "name": "Tryndamere",
+                "values": 1.66
+            },
+            "1": {
+                "name": "Fiora",
+                "values": 1.55
+            },
+            "2": {
+                "name": "Jinx",
+                "values": 1.51
+            },
+            "3": {
+                "name": "Nasus",
+                "values": 1.45
+            },
+            "4": {
+                "name": "Tristana",
+                "values": 1.44
+            },
+            "5": {
+                "name": "Trundle",
+                "values": 1.41
+            },
+            "6": {
+                "name": "Caitlyn",
+                "values": 1.33
+            },
+            "7": {
+                "name": "Sivir",
+                "values": 1.32
+            },
+            "8": {
+                "name": "Miss Fortune",
+                "values": 1.29
+            },
+            "9": {
+                "name": "Lucian",
+                "values": 1.25
+            },
+            "10": {
+                "name": "Blitzcrank",
+                "values": 0.3
+            },
+            "11": {
+                "name": "Braum",
+                "values": 0.29
+            },
+            "12": {
+                "name": "Janna",
+                "values": 0.29
+            },
+            "13": {
+                "name": "Sejuani",
+                "values": 0.28
+            },
+            "14": {
+                "name": "Tahm Kench",
+                "values": 0.28
+            },
+            "15": {
+                "name": "Soraka",
+                "values": 0.28
+            },
+            "16": {
+                "name": "Gragas",
+                "values": 0.27
+            },
+            "17": {
+                "name": "Amumu",
+                "values": 0.27
+            },
+            "18": {
+                "name": "Thresh",
+                "values": 0.26
+            },
+            "19": {
+                "name": "Bard",
+                "values": 0.22
+            }
+        },
+        "Wards_Bought_Average": {
+            "0": {
+                "name": "Janna",
+                "values": 1.6
+            },
+            "1": {
+                "name": "Thresh",
+                "values": 1.37
+            },
+            "2": {
+                "name": "Leona",
+                "values": 1.35
+            },
+            "3": {
+                "name": "Lulu",
+                "values": 1.33
+            },
+            "4": {
+                "name": "Bard",
+                "values": 1.31
+            },
+            "5": {
+                "name": "Braum",
+                "values": 1.31
+            },
+            "6": {
+                "name": "Alistar",
+                "values": 1.22
+            },
+            "7": {
+                "name": "Sona",
+                "values": 1.17
+            },
+            "8": {
+                "name": "Nami",
+                "values": 1.17
+            },
+            "9": {
+                "name": "Taric",
+                "values": 1.14
+            },
+            "10": {
+                "name": "Gangplank",
+                "values": 0.24
+            },
+            "11": {
+                "name": "Graves",
+                "values": 0.24
+            },
+            "12": {
+                "name": "Tristana",
+                "values": 0.24
+            },
+            "13": {
+                "name": "Caitlyn",
+                "values": 0.23
+            },
+            "14": {
+                "name": "Twitch",
+                "values": 0.22
+            },
+            "15": {
+                "name": "Miss Fortune",
+                "values": 0.21
+            },
+            "16": {
+                "name": "Jinx",
+                "values": 0.21
+            },
+            "17": {
+                "name": "Kalista",
+                "values": 0.2
+            },
+            "18": {
+                "name": "Ashe",
+                "values": 0.2
+            },
+            "19": {
+                "name": "Draven",
+                "values": 0.18
+            }
+        },
+        "Wards_Killed_Average": {
+            "0": {
+                "name": "Janna",
+                "values": 1.37
+            },
+            "1": {
+                "name": "Thresh",
+                "values": 1.22
+            },
+            "2": {
+                "name": "Leona",
+                "values": 1.14
+            },
+            "3": {
+                "name": "Braum",
+                "values": 1.04
+            },
+            "4": {
+                "name": "Lulu",
+                "values": 1.02
+            },
+            "5": {
+                "name": "Alistar",
+                "values": 0.97
+            },
+            "6": {
+                "name": "Nunu",
+                "values": 0.96
+            },
+            "7": {
+                "name": "Nami",
+                "values": 0.94
+            },
+            "8": {
+                "name": "Shyvana",
+                "values": 0.89
+            },
+            "9": {
+                "name": "Bard",
+                "values": 0.88
+            },
+            "10": {
+                "name": "Veigar",
+                "values": 0.26
+            },
+            "11": {
+                "name": "Yorick",
+                "values": 0.26
+            },
+            "12": {
+                "name": "Katarina",
+                "values": 0.26
+            },
+            "13": {
+                "name": "Garen",
+                "values": 0.24
+            },
+            "14": {
+                "name": "Ryze",
+                "values": 0.24
+            },
+            "15": {
+                "name": "Karthus",
+                "values": 0.24
+            },
+            "16": {
+                "name": "Darius",
+                "values": 0.24
+            },
+            "17": {
+                "name": "Nasus",
+                "values": 0.23
+            },
+            "18": {
+                "name": "Singed",
+                "values": 0.22
+            },
+            "19": {
+                "name": "Heimerdinger",
+                "values": 0.19
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.01619,
+        "Pick_Rate": 0.02316,
+        "Assists_Rate": 10.654145077720207,
+        "Death_Rate": 6.670552677029361,
+        "Kills_Rate": 5.740932642487047,
+        "KDA": 2.457828985694867,
+        "Gold_Earned_Average": 10619.921848013817,
+        "Gold_Spent_Average": 9869.933506044905,
+        "First_Blood_Average": 0.08678756476683938,
+        "First_Inhibitor_Assist_Average": 0.18609671848013817,
+        "First_Inhibitor_Kill_Average": 0.03929188255613126,
+        "First_Tower_Kill_Average": 0.05224525043177893,
+        "First_Tower_Assist_Average": 0.04447322970639033,
+        "Largest_Killing_Spree_Average": 2.4671848013816926,
+        "Largest_Multi_Kill_Average": 1.349740932642487,
+        "Largest_Critical_Strike": 524,
+        "Magic_Damage_Dealt_To_Champion_Average": 17642.167098445596,
+        "Minions_Killed_Average": 103.94430051813471,
+        "Neutral_Minion_Killed_Average": 5.578151986183074,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 1.5138169257340242,
+        "Pentakills_Average": 0,
+        "Physical_Damage_Dealt_To_Champion_Average": 992.5708117443869,
+        "Total_Damage_Dealt_To_Champion_Average": 19067.614421416234,
+        "Total_Damage_Taken_Average": 26629.172711571675,
+        "Total_Heal_Average": 6546.472366148532,
+        "Total_Time_Crowd_Control_Dealt_Average": 720.9425734024179,
+        "Tower_Kills_Average": 0.5297927461139896,
+        "True_Damage_Dealt_To_Champion_Average": 432.3389464594128,
+        "Sight_Wards_Bought_Average": 0.29447322970639034,
+        "Vision_Wards_Bought_Average": 0.18221070811744386,
+        "Wards_Bought_Average": 0.47668393782383417,
+        "Wards_Placed_Average": 6.765975820379966,
+        "Wards_Killed_Average": 0.29922279792746115,
+        "Win_Rate": 0.5103626943005182
+    },
+    "Items": {
+        "one": {
+            "name": "Athene’s Unholy Grail",
+            "percentages": "45.72%",
+            "win": "54.39%"
+        },
+        "two": {
+            "name": "Abyssal Scepter",
+            "percentages": "37.43%",
+            "win": "56.05%"
+        },
+        "three": {
+            "name": "Spirit Visage",
+            "percentages": "20.12%",
+            "win": "53.64%"
+        },
+        "four": {
+            "name": "Luden’s Echo",
+            "percentages": "19.34%",
+            "win": "58.25%"
+        },
+        "five": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "18.48%",
+            "win": "54.43%"
+        },
+        "six": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "16.01%",
+            "win": "63.88%"
+        },
+        "seven": {
+            "name": "Trickster’s Glass",
+            "percentages": "11.44%",
+            "win": "59.62%"
+        },
+        "eight": {
+            "name": "Thornmail",
+            "percentages": "8.11%",
+            "win": "50.00%"
+        },
+        "nine": {
+            "name": "Staff of Flowing Water",
+            "percentages": "7.51%",
+            "win": "55.17%"
+        },
+        "ten": {
+            "name": "Sightstone",
+            "percentages": "7.25%",
+            "win": "51.78%"
+        }
+    }
+}

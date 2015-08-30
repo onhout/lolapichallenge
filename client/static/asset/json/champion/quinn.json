@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.00568,
+        "Pick_Rate": 0.1017,
+        "Assists_Rate": 6.213864306784661,
+        "Death_Rate": 7.250245821042281,
+        "Kills_Rate": 7.659587020648967,
+        "KDA": 1.9135146131416558,
+        "Gold_Earned_Average": 11118.371583087512,
+        "Gold_Spent_Average": 10251.414257620452,
+        "First_Blood_Average": 0.1295968534906588,
+        "First_Inhibitor_Assist_Average": 0.1039331366764995,
+        "First_Inhibitor_Kill_Average": 0.08298918387413963,
+        "First_Tower_Kill_Average": 0.10855457227138643,
+        "First_Tower_Assist_Average": 0.047295968534906585,
+        "Largest_Killing_Spree_Average": 3.155850540806293,
+        "Largest_Multi_Kill_Average": 1.523008849557522,
+        "Largest_Critical_Strike": 2512,
+        "Magic_Damage_Dealt_To_Champion_Average": 722.5666666666667,
+        "Minions_Killed_Average": 131.01868239921336,
+        "Neutral_Minion_Killed_Average": 8.75929203539823,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 3.1636184857423797,
+        "Pentakills_Average": 0.0018682399213372665,
+        "Physical_Damage_Dealt_To_Champion_Average": 16443.408751229104,
+        "Total_Damage_Dealt_To_Champion_Average": 17433.587020648967,
+        "Total_Damage_Taken_Average": 21757.139036381515,
+        "Total_Heal_Average": 1776.1501474926254,
+        "Total_Time_Crowd_Control_Dealt_Average": 382.7277286135693,
+        "Tower_Kills_Average": 1.087905604719764,
+        "True_Damage_Dealt_To_Champion_Average": 267.2810226155359,
+        "Sight_Wards_Bought_Average": 0.1263520157325467,
+        "Vision_Wards_Bought_Average": 0.12458210422812192,
+        "Wards_Bought_Average": 0.2509341199606686,
+        "Wards_Placed_Average": 5.331071779744346,
+        "Wards_Killed_Average": 0.3466076696165192,
+        "Win_Rate": 0.4808259587020649
+    },
+    "Items": {
+        "one": {
+            "name": "Infinity Edge",
+            "percentages": "58.61%",
+            "win": "53.79%"
+        },
+        "two": {
+            "name": "Statikk Shiv",
+            "percentages": "48.04%",
+            "win": "52.70%"
+        },
+        "three": {
+            "name": "The Bloodthirster",
+            "percentages": "30.96%",
+            "win": "56.43%"
+        },
+        "four": {
+            "name": "Blade of the Ruined King",
+            "percentages": "17.43%",
+            "win": "51.77%"
+        },
+        "five": {
+            "name": "Last Whisper",
+            "percentages": "16.20%",
+            "win": "55.82%"
+        },
+        "six": {
+            "name": "Mirage Blade",
+            "percentages": "15.83%",
+            "win": "51.98%"
+        },
+        "seven": {
+            "name": "Youmuu’s Ghostblade",
+            "percentages": "12.00%",
+            "win": "54.13%"
+        },
+        "eight": {
+            "name": "Typhoon Claws",
+            "percentages": "11.30%",
+            "win": "52.60%"
+        },
+        "nine": {
+            "name": "Phantom Dancer",
+            "percentages": "7.97%",
+            "win": "58.32%"
+        },
+        "ten": {
+            "name": "Flesheater",
+            "percentages": "3.94%",
+            "win": "48.87%"
+        }
+    }
+}

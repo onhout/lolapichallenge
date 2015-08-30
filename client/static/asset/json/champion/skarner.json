@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.00211,
+        "Pick_Rate": 0.015,
+        "Assists_Rate": 9.144666666666666,
+        "Death_Rate": 5.463333333333333,
+        "Kills_Rate": 5.654,
+        "KDA": 2.7087248322147652,
+        "Gold_Earned_Average": 11387.418,
+        "Gold_Spent_Average": 10505.916,
+        "First_Blood_Average": 0.058,
+        "First_Inhibitor_Assist_Average": 0.134,
+        "First_Inhibitor_Kill_Average": 0.043333333333333335,
+        "First_Tower_Kill_Average": 0.021333333333333333,
+        "First_Tower_Assist_Average": 0.03,
+        "Largest_Killing_Spree_Average": 2.756666666666667,
+        "Largest_Multi_Kill_Average": 1.316,
+        "Largest_Critical_Strike": 1439,
+        "Magic_Damage_Dealt_To_Champion_Average": 5753.910666666667,
+        "Minions_Killed_Average": 50.344,
+        "Neutral_Minion_Killed_Average": 59.775333333333336,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 9.97,
+        "Pentakills_Average": 0.0006666666666666666,
+        "Physical_Damage_Dealt_To_Champion_Average": 5726.421333333334,
+        "Total_Damage_Dealt_To_Champion_Average": 12497.445333333333,
+        "Total_Damage_Taken_Average": 28904.339333333333,
+        "Total_Heal_Average": 2272.170666666667,
+        "Total_Time_Crowd_Control_Dealt_Average": 1181.092,
+        "Tower_Kills_Average": 0.5326666666666666,
+        "True_Damage_Dealt_To_Champion_Average": 1016.5373333333333,
+        "Sight_Wards_Bought_Average": 0.32666666666666666,
+        "Vision_Wards_Bought_Average": 0.274,
+        "Wards_Bought_Average": 0.6006666666666667,
+        "Wards_Placed_Average": 6.287333333333334,
+        "Wards_Killed_Average": 0.7653333333333333,
+        "Win_Rate": 0.5173333333333333
+    },
+    "Items": {
+        "one": {
+            "name": "Trinity Force",
+            "percentages": "33.13%",
+            "win": "57.74%"
+        },
+        "two": {
+            "name": "Iceborn Gauntlet",
+            "percentages": "30.60%",
+            "win": "58.38%"
+        },
+        "three": {
+            "name": "Frozen Heart",
+            "percentages": "20.13%",
+            "win": "53.97%"
+        },
+        "four": {
+            "name": "Dead Man’s Plate",
+            "percentages": "20.00%",
+            "win": "62.33%"
+        },
+        "five": {
+            "name": "Righteous Glory",
+            "percentages": "14.86%",
+            "win": "55.60%"
+        },
+        "six": {
+            "name": "Wit’s End",
+            "percentages": "10.06%",
+            "win": "60.26%"
+        },
+        "seven": {
+            "name": "Randuin’s Omen",
+            "percentages": "9.06%",
+            "win": "52.94%"
+        },
+        "eight": {
+            "name": "Ruby Sightstone",
+            "percentages": "8.86%",
+            "win": "42.85%"
+        },
+        "nine": {
+            "name": "Thornmail",
+            "percentages": "6.73%",
+            "win": "41.58%"
+        },
+        "ten": {
+            "name": "Spirit Visage",
+            "percentages": "6.33%",
+            "win": "48.42%"
+        }
+    }
+}

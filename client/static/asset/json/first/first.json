@@ -1,0 +1,11 @@
+{
+    "First": {
+        "First_Baron_Killed_Win_Rate": 84.23,
+        "First_Blood_Win_Rate": 60.04,
+        "First_Dragon_Killed_Win_Rate": 70.72,
+        "First_Inhibitor_Destroy_Win_Rate": 91.35,
+        "First_Tower_Destroy_Win_Rate": 67.66,
+        "First_Baron_Blood_Dragon_Inhibitor_Tower_Win_Rate": 96.15,
+        "First_Baron_Blood_Dragon_Inhibitor_Tower_Chance": 10.35
+    }
+}

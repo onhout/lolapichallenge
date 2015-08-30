@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.05722,
+        "Pick_Rate": 0.05032,
+        "Assists_Rate": 7.342408585055644,
+        "Death_Rate": 6.902225755166931,
+        "Kills_Rate": 6.90818759936407,
+        "KDA": 2.064637797996084,
+        "Gold_Earned_Average": 10932.884141494436,
+        "Gold_Spent_Average": 10146.77146263911,
+        "First_Blood_Average": 0.09439586645468999,
+        "First_Inhibitor_Assist_Average": 0.09817170111287758,
+        "First_Inhibitor_Kill_Average": 0.03557233704292528,
+        "First_Tower_Kill_Average": 0.02007154213036566,
+        "First_Tower_Assist_Average": 0.018879173290938,
+        "Largest_Killing_Spree_Average": 2.9272655007949124,
+        "Largest_Multi_Kill_Average": 1.3922893481717011,
+        "Largest_Critical_Strike": 1923,
+        "Magic_Damage_Dealt_To_Champion_Average": 8378.455087440381,
+        "Minions_Killed_Average": 42.19177265500795,
+        "Neutral_Minion_Killed_Average": 52.46860095389507,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 9.609101748807632,
+        "Pentakills_Average": 0.000397456279809221,
+        "Physical_Damage_Dealt_To_Champion_Average": 5673.20707472178,
+        "Total_Damage_Dealt_To_Champion_Average": 14959.762917329093,
+        "Total_Damage_Taken_Average": 26612.306637519872,
+        "Total_Heal_Average": 1928.814586645469,
+        "Total_Time_Crowd_Control_Dealt_Average": 629.4695945945946,
+        "Tower_Kills_Average": 0.34121621621621623,
+        "True_Damage_Dealt_To_Champion_Average": 907.52106518283,
+        "Sight_Wards_Bought_Average": 0.36665341812400637,
+        "Vision_Wards_Bought_Average": 0.31935612082670906,
+        "Wards_Bought_Average": 0.6860095389507154,
+        "Wards_Placed_Average": 6.109499205087441,
+        "Wards_Killed_Average": 0.6953497615262321,
+        "Win_Rate": 0.4636327503974563
+    },
+    "Items": {
+        "one": {
+            "name": "Randuin’s Omen",
+            "percentages": "19.33%",
+            "win": "51.90%"
+        },
+        "two": {
+            "name": "Blade of the Ruined King",
+            "percentages": "19.29%",
+            "win": "53.86%"
+        },
+        "three": {
+            "name": "Hextech Gunblade",
+            "percentages": "15.83%",
+            "win": "54.57%"
+        },
+        "four": {
+            "name": "Iceborn Gauntlet",
+            "percentages": "12.67%",
+            "win": "51.25%"
+        },
+        "five": {
+            "name": "Rylai’s Crystal Scepter",
+            "percentages": "11.96%",
+            "win": "60.79%"
+        },
+        "six": {
+            "name": "Luden’s Echo",
+            "percentages": "10.01%",
+            "win": "56.34%"
+        },
+        "seven": {
+            "name": "Trickster’s Glass",
+            "percentages": "7.41%",
+            "win": "50.67%"
+        },
+        "eight": {
+            "name": "Ruby Sightstone",
+            "percentages": "7.25%",
+            "win": "41.09%"
+        },
+        "nine": {
+            "name": "Liandry’s Torment",
+            "percentages": "7.13%",
+            "win": "58.77%"
+        },
+        "ten": {
+            "name": "Trinity Force",
+            "percentages": "6.97%",
+            "win": "60.68%"
+        }
+    }
+}

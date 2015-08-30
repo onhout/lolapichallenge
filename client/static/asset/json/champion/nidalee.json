@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.04992,
+        "Pick_Rate": 0.13874,
+        "Assists_Rate": 6.46633991639037,
+        "Death_Rate": 6.9519965402911925,
+        "Kills_Rate": 7.099899091826438,
+        "KDA": 1.9514162484966615,
+        "Gold_Earned_Average": 10276.64004612945,
+        "Gold_Spent_Average": 9408.10501657777,
+        "First_Blood_Average": 0.11935995387054923,
+        "First_Inhibitor_Assist_Average": 0.12671183508721348,
+        "First_Inhibitor_Kill_Average": 0.05030993224736918,
+        "First_Tower_Kill_Average": 0.04238143289606458,
+        "First_Tower_Assist_Average": 0.03596655614819086,
+        "Largest_Killing_Spree_Average": 3.0819518523857576,
+        "Largest_Multi_Kill_Average": 1.3737206285137669,
+        "Largest_Critical_Strike": 2472,
+        "Magic_Damage_Dealt_To_Champion_Average": 16080.731368026525,
+        "Minions_Killed_Average": 69.11417039065878,
+        "Neutral_Minion_Killed_Average": 24.178535389938013,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 5.108908750180193,
+        "Pentakills_Average": 0.0012973908029407526,
+        "Physical_Damage_Dealt_To_Champion_Average": 931.0381288741531,
+        "Total_Damage_Dealt_To_Champion_Average": 17366.011676517228,
+        "Total_Damage_Taken_Average": 23093.718033732162,
+        "Total_Heal_Average": 7474.148335015137,
+        "Total_Time_Crowd_Control_Dealt_Average": 269.69259045696987,
+        "Tower_Kills_Average": 0.51722646677238,
+        "True_Damage_Dealt_To_Champion_Average": 353.70196050165777,
+        "Sight_Wards_Bought_Average": 0.34935851232521264,
+        "Vision_Wards_Bought_Average": 0.21442986881937437,
+        "Wards_Bought_Average": 0.563788381144587,
+        "Wards_Placed_Average": 5.3581519388784775,
+        "Wards_Killed_Average": 0.5975205420210465,
+        "Win_Rate": 0.4575464898371054
+    },
+    "Items": {
+        "one": {
+            "name": "Luden’s Echo",
+            "percentages": "44.11%",
+            "win": "51.62%"
+        },
+        "two": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "32.20%",
+            "win": "54.31%"
+        },
+        "three": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "18.37%",
+            "win": "52.86%"
+        },
+        "four": {
+            "name": "Lich Bane",
+            "percentages": "16.83%",
+            "win": "49.63%"
+        },
+        "five": {
+            "name": "Rod of Ages",
+            "percentages": "11.74%",
+            "win": "52.17%"
+        },
+        "six": {
+            "name": "Netherstride Grimoire",
+            "percentages": "11.21%",
+            "win": "51.22%"
+        },
+        "seven": {
+            "name": "Void Staff",
+            "percentages": "10.99%",
+            "win": "53.18%"
+        },
+        "eight": {
+            "name": "Trickster’s Glass",
+            "percentages": "9.66%",
+            "win": "52.64%"
+        },
+        "nine": {
+            "name": "Pox Arcana",
+            "percentages": "7.40%",
+            "win": "50.24%"
+        },
+        "ten": {
+            "name": "Rite of Ruin",
+            "percentages": "6.63%",
+            "win": "48.80%"
+        }
+    }
+}

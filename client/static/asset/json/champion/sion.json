@@ -1,0 +1,89 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.00429,
+        "Pick_Rate": 0.03987,
+        "Assists_Rate": 8.974166039628793,
+        "Death_Rate": 6.695510408828693,
+        "Kills_Rate": 5.238274391773263,
+        "KDA": 2.1226821502153963,
+        "Gold_Earned_Average": 10601.792575871583,
+        "Gold_Spent_Average": 9829.244043140206,
+        "First_Blood_Average": 0.07248557812891898,
+        "First_Inhibitor_Assist_Average": 0.15224479558565338,
+        "First_Inhibitor_Kill_Average": 0.05342362678705794,
+        "First_Tower_Kill_Average": 0.08427389014296463,
+        "First_Tower_Assist_Average": 0.044645096563832455,
+        "Largest_Killing_Spree_Average": 2.1018309505894157,
+        "Largest_Multi_Kill_Average": 1.237020316027088,
+        "Largest_Critical_Strike": 1827,
+        "Magic_Damage_Dealt_To_Champion_Average": 4554.52445447705,
+        "Minions_Killed_Average": 102.01203912716328,
+        "Neutral_Minion_Killed_Average": 14.27464258841234,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 2.8954100827689992,
+        "Pentakills_Average": 0.00025081514923501377,
+        "Physical_Damage_Dealt_To_Champion_Average": 11380.384248808628,
+        "Total_Damage_Dealt_To_Champion_Average": 16297.006270378732,
+        "Total_Damage_Taken_Average": 33532.11136192626,
+        "Total_Heal_Average": 16297.487083019814,
+        "Total_Time_Crowd_Control_Dealt_Average": 1743.536744419363,
+        "Tower_Kills_Average": 0.7436669174818159,
+        "True_Damage_Dealt_To_Champion_Average": 361.56182593428645,
+        "Sight_Wards_Bought_Average": 0.271883621770755,
+        "Wards_Bought_Average": 0.47504389265111613,
+        "Wards_Placed_Average": 5.9515926761976425,
+        "Wards_Killed_Average": 0.3416102332580888,
+        "Win_Rate": 0.509154752947078
+    },
+    "Items": {
+        "one": {
+            "name": "Frozen Heart",
+            "percentages": "33.43%",
+            "win": "52.81%"
+        },
+        "two": {
+            "name": "Dead Man’s Plate",
+            "percentages": "22.69%",
+            "win": "55.69%"
+        },
+        "three": {
+            "name": "Warmog’s Armor",
+            "percentages": "22.52%",
+            "win": "55.34%"
+        },
+        "four": {
+            "name": "The Black Cleaver",
+            "percentages": "21.64%",
+            "win": "56.89%"
+        },
+        "five": {
+            "name": "Ravenous Hydra",
+            "percentages": "19.56%",
+            "win": "56.28%"
+        },
+        "six": {
+            "name": "Spirit Visage",
+            "percentages": "16.80%",
+            "win": "52.38%"
+        },
+        "seven": {
+            "name": "Thornmail",
+            "percentages": "13.59%",
+            "win": "51.66%"
+        },
+        "eight": {
+            "name": "Sunfire Cape",
+            "percentages": "13.19%",
+            "win": "55.13%"
+        },
+        "nine": {
+            "name": "Banshee’s Veil",
+            "percentages": "12.61%",
+            "win": "54.47%"
+        },
+        "ten": {
+            "name": "Ruby Sightstone",
+            "percentages": "11.78%",
+            "win": "45.74%"
+        }
+    }
+}

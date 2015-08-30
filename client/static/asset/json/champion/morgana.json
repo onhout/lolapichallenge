@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.04512,
+        "Pick_Rate": 0.12651,
+        "Assists_Rate": 11.273891391984824,
+        "Death_Rate": 6.043237688720259,
+        "Kills_Rate": 3.975416963085922,
+        "KDA": 2.5233672975553607,
+        "Gold_Earned_Average": 9685.688008853054,
+        "Gold_Spent_Average": 8854.716544146708,
+        "First_Blood_Average": 0.062366611335072326,
+        "First_Inhibitor_Assist_Average": 0.16496719626906964,
+        "First_Inhibitor_Kill_Average": 0.03786261955576634,
+        "First_Tower_Kill_Average": 0.04608331357204964,
+        "First_Tower_Assist_Average": 0.08189075962374516,
+        "Largest_Killing_Spree_Average": 1.772824282665402,
+        "Largest_Multi_Kill_Average": 1.09422180064817,
+        "Largest_Critical_Strike": 1568,
+        "Magic_Damage_Dealt_To_Champion_Average": 12168.050272705716,
+        "Minions_Killed_Average": 57.65512607698996,
+        "Neutral_Minion_Killed_Average": 2.1234685005137934,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 0.8159038811161173,
+        "Pentakills_Average": 0.00007904513477195479,
+        "Physical_Damage_Dealt_To_Champion_Average": 1387.8418306853214,
+        "Total_Damage_Dealt_To_Champion_Average": 13806.526124417042,
+        "Total_Damage_Taken_Average": 19348.236423998103,
+        "Total_Heal_Average": 1003.5959212710458,
+        "Total_Time_Crowd_Control_Dealt_Average": 334.1446525966327,
+        "Tower_Kills_Average": 0.43482728638052326,
+        "True_Damage_Dealt_To_Champion_Average": 250.11469449055411,
+        "Sight_Wards_Bought_Average": 0.701130345427239,
+        "Vision_Wards_Bought_Average": 0.43332542881985614,
+        "Wards_Bought_Average": 1.134455774247095,
+        "Wards_Placed_Average": 12.091534266065924,
+        "Wards_Killed_Average": 0.6778120306695123,
+        "Win_Rate": 0.5102363449529681
+    },
+    "Items": {
+        "one": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "59.30%",
+            "win": "55.04%"
+        },
+        "two": {
+            "name": "Sightstone",
+            "percentages": "31.43%",
+            "win": "50.21%"
+        },
+        "three": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "20.15%",
+            "win": "58.50%"
+        },
+        "four": {
+            "name": "Pox Arcana",
+            "percentages": "8.98%",
+            "win": "58.48%"
+        },
+        "five": {
+            "name": "Luden’s Echo",
+            "percentages": "8.67%",
+            "win": "59.70%"
+        },
+        "six": {
+            "name": "Rylai’s Crystal Scepter",
+            "percentages": "8.53%",
+            "win": "57.77%"
+        },
+        "seven": {
+            "name": "Trickster’s Glass",
+            "percentages": "8.26%",
+            "win": "59.75%"
+        },
+        "eight": {
+            "name": "Rod of Ages",
+            "percentages": "7.77%",
+            "win": "52.18%"
+        },
+        "nine": {
+            "name": "Athene’s Unholy Grail",
+            "percentages": "6.81%",
+            "win": "54.87%"
+        },
+        "ten": {
+            "name": "Netherstride Grimoire",
+            "percentages": "6.70%",
+            "win": "55.66%"
+        }
+    }
+}

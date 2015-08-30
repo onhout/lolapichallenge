@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.00354,
+        "Pick_Rate": 0.05186,
+        "Assists_Rate": 11.111453914384882,
+        "Death_Rate": 6.129386810644042,
+        "Kills_Rate": 3.8590435788661783,
+        "KDA": 2.4424135652939882,
+        "Gold_Earned_Average": 9770.433860393367,
+        "Gold_Spent_Average": 8969.628808330119,
+        "First_Blood_Average": 0.06845352873119938,
+        "First_Inhibitor_Assist_Average": 0.17952178943308908,
+        "First_Inhibitor_Kill_Average": 0.034516004627844196,
+        "First_Tower_Kill_Average": 0.044350173544157344,
+        "First_Tower_Assist_Average": 0.09236405707674508,
+        "Largest_Killing_Spree_Average": 1.7182799845738528,
+        "Largest_Multi_Kill_Average": 1.0773235634400309,
+        "Largest_Critical_Strike": 942,
+        "Magic_Damage_Dealt_To_Champion_Average": 13286.006170458928,
+        "Minions_Killed_Average": 56.63131507905901,
+        "Neutral_Minion_Killed_Average": 2.8200925568839184,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 0.9820671037408407,
+        "Pentakills_Average": 0.0001928268414963363,
+        "Physical_Damage_Dealt_To_Champion_Average": 1323.2107597377556,
+        "Total_Damage_Dealt_To_Champion_Average": 14872.244890088701,
+        "Total_Damage_Taken_Average": 17624.70516775935,
+        "Total_Heal_Average": 1283.8517161588893,
+        "Total_Time_Crowd_Control_Dealt_Average": 494.6355572695719,
+        "Tower_Kills_Average": 0.432896259159275,
+        "True_Damage_Dealt_To_Champion_Average": 262.5117624373313,
+        "Sight_Wards_Bought_Average": 0.6384496721943694,
+        "Vision_Wards_Bought_Average": 0.4589278827612804,
+        "Wards_Bought_Average": 1.09737755495565,
+        "Wards_Placed_Average": 12.773235634400308,
+        "Wards_Killed_Average": 0.7433474739683764,
+        "Win_Rate": 0.49286540686463554
+    },
+    "Items": {
+        "one": {
+            "name": "Sightstone",
+            "percentages": "38.06%",
+            "win": "48.37%"
+        },
+        "two": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "23.02%",
+            "win": "56.19%"
+        },
+        "three": {
+            "name": "Luden’s Echo",
+            "percentages": "20.70%",
+            "win": "56.61%"
+        },
+        "four": {
+            "name": "Liandry’s Torment",
+            "percentages": "17.58%",
+            "win": "54.05%"
+        },
+        "five": {
+            "name": "Zhonya’s Hourglass",
+            "percentages": "14.42%",
+            "win": "56.28%"
+        },
+        "six": {
+            "name": "Netherstride Grimoire",
+            "percentages": "13.18%",
+            "win": "56.87%"
+        },
+        "seven": {
+            "name": "Trickster’s Glass",
+            "percentages": "11.56%",
+            "win": "56.00%"
+        },
+        "eight": {
+            "name": "Athene’s Unholy Grail",
+            "percentages": "11.04%",
+            "win": "51.30%"
+        },
+        "nine": {
+            "name": "Pox Arcana",
+            "percentages": "10.77%",
+            "win": "54.56%"
+        },
+        "ten": {
+            "name": "Globe of Trust",
+            "percentages": "7.38%",
+            "win": "51.95%"
+        }
+    }
+}

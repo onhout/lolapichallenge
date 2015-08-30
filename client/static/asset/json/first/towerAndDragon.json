@@ -1,0 +1,16 @@
+{
+    "Dragon_And_Tower": {
+        "First_Dragon_Killed_Lose_Tower": {
+            "First_Dragon_Killed_Lose_Tower_Chance": 37.05,
+            "Lose_Top_Tower_Chance": 41.24,
+            "Lose_Mid_Tower_Chance": 22.82,
+            "Lose_Bot_Tower_Chance": 35.88
+        },
+        "First_Tower_And_Dragon": {
+            "First_Tower_And_Dragon_Chance": 62.95,
+            "Destroy_Enemy_Top_Tower_Chance": 34.66,
+            "Destroy_Enemy_Mid_Tower_Chance": 22.85,
+            "Destroy_Enemy_Bot_Tower_Chance": 42.48
+        }
+    }
+}

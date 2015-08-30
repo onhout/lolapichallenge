@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.0083,
+        "Pick_Rate": 0.01582,
+        "Assists_Rate": 6.939317319848294,
+        "Death_Rate": 6.543615676359039,
+        "Kills_Rate": 5.163716814159292,
+        "KDA": 1.8495942812983,
+        "Gold_Earned_Average": 10142.958280657396,
+        "Gold_Spent_Average": 9323.137168141593,
+        "First_Blood_Average": 0.11125158027812895,
+        "First_Inhibitor_Assist_Average": 0.11946902654867257,
+        "First_Inhibitor_Kill_Average": 0.07332490518331226,
+        "First_Tower_Kill_Average": 0.08280657395701643,
+        "First_Tower_Assist_Average": 0.029077117572692796,
+        "Largest_Killing_Spree_Average": 2.1599241466498103,
+        "Largest_Multi_Kill_Average": 1.2439949431099873,
+        "Largest_Critical_Strike": 1534,
+        "Magic_Damage_Dealt_To_Champion_Average": 6616.400758533502,
+        "Minions_Killed_Average": 108.37357774968395,
+        "Neutral_Minion_Killed_Average": 10.624525916561314,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 3.175094816687737,
+        "Pentakills_Average": 0,
+        "Physical_Damage_Dealt_To_Champion_Average": 10521.554993678887,
+        "Total_Damage_Dealt_To_Champion_Average": 17565.33881163085,
+        "Total_Damage_Taken_Average": 30196.749683944374,
+        "Total_Heal_Average": 12225.549936788875,
+        "Total_Time_Crowd_Control_Dealt_Average": 1625.5575221238937,
+        "Tower_Kills_Average": 0.8584070796460177,
+        "True_Damage_Dealt_To_Champion_Average": 426.84702907711755,
+        "Sight_Wards_Bought_Average": 0.3008849557522124,
+        "Vision_Wards_Bought_Average": 0.1738305941845765,
+        "Wards_Bought_Average": 0.4747155499367889,
+        "Wards_Placed_Average": 6.1371681415929205,
+        "Wards_Killed_Average": 0.26738305941845764,
+        "Win_Rate": 0.4608091024020228
+    },
+    "Items": {
+        "one": {
+            "name": "Muramana",
+            "percentages": "38.30%",
+            "win": "52.31%"
+        },
+        "two": {
+            "name": "Manamune",
+            "percentages": "33.50%",
+            "win": "45.84%"
+        },
+        "three": {
+            "name": "Spirit Visage",
+            "percentages": "32.42%",
+            "win": "50.87%"
+        },
+        "four": {
+            "name": "Trinity Force",
+            "percentages": "21.30%",
+            "win": "56.97%"
+        },
+        "five": {
+            "name": "Frozen Heart",
+            "percentages": "18.77%",
+            "win": "49.83%"
+        },
+        "six": {
+            "name": "Iceborn Gauntlet",
+            "percentages": "16.05%",
+            "win": "48.81%"
+        },
+        "seven": {
+            "name": "Essence Reaver",
+            "percentages": "10.17%",
+            "win": "63.35%"
+        },
+        "eight": {
+            "name": "Warmog’s Armor",
+            "percentages": "8.91%",
+            "win": "48.22%"
+        },
+        "nine": {
+            "name": "Flesheater",
+            "percentages": "8.47%",
+            "win": "47.76%"
+        },
+        "ten": {
+            "name": "Ruby Sightstone",
+            "percentages": "7.83%",
+            "win": "49.19%"
+        }
+    }
+}

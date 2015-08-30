@@ -1,0 +1,90 @@
+{
+    "champion": {
+        "Ban_Rate_Game": 0.01383,
+        "Pick_Rate": 0.06794,
+        "Assists_Rate": 13.747129820429791,
+        "Death_Rate": 5.67942302031204,
+        "Kills_Rate": 1.563879894024139,
+        "KDA": 2.6958741512465663,
+        "Gold_Earned_Average": 8988.7625846335,
+        "Gold_Spent_Average": 8157.509861642626,
+        "First_Blood_Average": 0.03164556962025317,
+        "First_Inhibitor_Assist_Average": 0.21151015602001766,
+        "First_Inhibitor_Kill_Average": 0.023550191345304682,
+        "First_Tower_Kill_Average": 0.035178098322048865,
+        "First_Tower_Assist_Average": 0.1142184280247277,
+        "Largest_Killing_Spree_Average": 0.5529879305269355,
+        "Largest_Multi_Kill_Average": 0.7119517221077422,
+        "Largest_Critical_Strike": 1330,
+        "Magic_Damage_Dealt_To_Champion_Average": 6478.047983514866,
+        "Minions_Killed_Average": 25.448631145128054,
+        "Neutral_Minion_Killed_Average": 0.9531939947012069,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 0.3469237562555196,
+        "Pentakills_Average": 0,
+        "Physical_Damage_Dealt_To_Champion_Average": 1026.1823667942301,
+        "Total_Damage_Dealt_To_Champion_Average": 7574.656461583751,
+        "Total_Damage_Taken_Average": 15951.022078304386,
+        "Total_Heal_Average": 18961.450103032086,
+        "Total_Time_Crowd_Control_Dealt_Average": 296.1624963202826,
+        "Tower_Kills_Average": 0.28068884309685016,
+        "True_Damage_Dealt_To_Champion_Average": 69.91845746246688,
+        "Sight_Wards_Bought_Average": 0.5428319105092729,
+        "Vision_Wards_Bought_Average": 0.4443626729467177,
+        "Wards_Bought_Average": 0.9871945834559905,
+        "Wards_Placed_Average": 13.91463055637327,
+        "Wards_Killed_Average": 0.7631733882837798,
+        "Win_Rate": 0.5298793052693553
+    },
+    "Items": {
+        "one": {
+            "name": "Sightstone",
+            "percentages": "52.26%",
+            "win": "54.23%"
+        },
+        "two": {
+            "name": "Talisman of Ascension",
+            "percentages": "48.32%",
+            "win": "55.46%"
+        },
+        "three": {
+            "name": "Ardent Censer",
+            "percentages": "15.88%",
+            "win": "60.51%"
+        },
+        "four": {
+            "name": "Rabadon’s Deathcap",
+            "percentages": "11.65%",
+            "win": "59.09%"
+        },
+        "five": {
+            "name": "Globe of Trust",
+            "percentages": "10.11%",
+            "win": "54.14%"
+        },
+        "six": {
+            "name": "Athene’s Unholy Grail",
+            "percentages": "8.94%",
+            "win": "55.92%"
+        },
+        "seven": {
+            "name": "Frozen Heart",
+            "percentages": "7.80%",
+            "win": "56.79%"
+        },
+        "eight": {
+            "name": "Trickster’s Glass",
+            "percentages": "7.77%",
+            "win": "59.28%"
+        },
+        "nine": {
+            "name": "Warmog’s Armor",
+            "percentages": "7.00%",
+            "win": "61.34%"
+        },
+        "ten": {
+            "name": "Locket of the Iron Solari",
+            "percentages": "6.88%",
+            "win": "58.97%"
+        }
+    }
+}

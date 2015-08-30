@@ -10,16 +10,6 @@ module.exports = function(app){
     app.get('/champions', function(req, res){
         res.render('champions');
     });
-    app.get('/firsts', function(req, res){
-        res.render('firsts');
-    });
-    app.get('/topten', function(req, res){
-        res.render('topten');
-    });
-    app.get('/teams', function(req, res){
-        res.render('teams');
-    });
-
     for (var i = 0; i< champarr.length; i++){
         (function(index){
             app.get('/champions/:id', function(req, res){

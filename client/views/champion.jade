@@ -41,9 +41,24 @@ block content
 
         .row
             .col-sm-12
-                .row
-                each item in Items
-                    .col-sm-1
-                        img(src='./asset/png/item/'+item.name.replace(/’/g, "").split(' ').join('').toLowerCase()+'.png')
-                        p= item.percentages
-                        p= item.win
+                table.table
+                    thead
+                    tr
+                        th
+                        each item in Items
+                            th: img.img-responsive(src='./asset/png/item/'+item.name.replace(/’/g, "").split(' ').join('').toLowerCase()+'.png')
+                    tbody
+                    tr
+                        th(scope='row') Item Percentages
+                        each item in Items
+                            td= item.percentages
+                    tr
+                        th(scope='row') Item Win Rate
+                        each item in Items
+                            td= item.win
+
+                    //each item in Items
+                    //tr
+                    //    td= 'Item Percentages' + item.percentages
+                    //tr
+                    //    td= 'Win Rate with Item'+ item.win

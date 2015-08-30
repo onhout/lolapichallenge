@@ -35,7 +35,7 @@
         "Wards_Killed_Average": 0.4623904576436222,
         "Win_Rate": 0.49878286270691335
     },
-    "items": {
+    "Items": {
         "one": {
             "name": "Sunfire Cape",
             "percentages": "52.99%",

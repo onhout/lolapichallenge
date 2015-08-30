@@ -16,6 +16,9 @@ body a {
   list-style: none;
   font-size: 18px;
 }
+.table {
+  background-color: darkslategray;
+}
 .table-hover tr:hover {
   background: #001100!important;
 }

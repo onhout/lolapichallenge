@@ -1,6 +1,6 @@
 {
     "champion": {
-        "Ban_Rate_Game": 0.01383,
+        "Ban_Rate_Per_Game": 0.01383,
         "Pick_Rate": 0.06794,
         "Assists_Rate": 13.747129820429791,
         "Death_Rate": 5.67942302031204,

@@ -11,7 +11,7 @@ module.exports = function(app){
         res.render('champions');
     });
     for (var i = 0; i< champarr.length; i++){
-        (function(index){
+        (function(){
             app.get('/champions/:id', function(req, res){
                 champion.getChampion(res, req.params.id)
             });

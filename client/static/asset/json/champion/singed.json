@@ -1,90 +1,90 @@
 {
     "champion": {
-        "Ban_Rate_Per_Game": 0.12025,
-        "Pick_Rate": 0.09811,
-        "Assists_Rate": 6.804912852920191,
-        "Death_Rate": 5.689939863418612,
-        "Kills_Rate": 6.747528284578534,
-        "KDA": 2.3818250214961307,
-        "Gold_Earned_Average": 12350.473142391194,
-        "Gold_Spent_Average": 11295.022729589236,
-        "First_Blood_Average": 0.0684945469371114,
-        "First_Inhibitor_Assist_Average": 0.11905004586688411,
-        "First_Inhibitor_Kill_Average": 0.0732850881663439,
-        "First_Tower_Kill_Average": 0.05035164611150749,
-        "First_Tower_Assist_Average": 0.022933442054836408,
-        "Largest_Killing_Spree_Average": 3.1759249821628783,
-        "Largest_Multi_Kill_Average": 1.4619304861889715,
-        "Largest_Critical_Strike": 1635,
-        "Magic_Damage_Dealt_To_Champion_Average": 9117.026297013555,
-        "Minions_Killed_Average": 80.29079604525532,
-        "Neutral_Minion_Killed_Average": 66.2147589440424,
-        "Neutral_Minion_Killed_Enemy_Jungle_Average": 14.605748649475078,
-        "Pentakills_Average": 0.0012231169095912751,
-        "Physical_Damage_Dealt_To_Champion_Average": 7290.673937417185,
-        "Total_Damage_Dealt_To_Champion_Average": 17329.302925287942,
-        "Total_Damage_Taken_Average": 31100.25410253797,
-        "Total_Heal_Average": 2913.6607889104066,
-        "Total_Time_Crowd_Control_Dealt_Average": 734.3711140556518,
-        "Tower_Kills_Average": 0.8039955152379982,
-        "True_Damage_Dealt_To_Champion_Average": 921.025379675874,
-        "Sight_Wards_Bought_Average": 0.42493119967383547,
-        "Vision_Wards_Bought_Average": 0.3583732545102436,
-        "Wards_Bought_Average": 0.7833044541840791,
-        "Wards_Placed_Average": 6.221078381408623,
-        "Wards_Killed_Average": 0.8980735908673937,
-        "Win_Rate": 0.5253287126694527
+        "Ban_Rate_Per_Game": 0.00382,
+        "Pick_Rate": 0.02072,
+        "Assists_Rate": 7.847007722007722,
+        "Death_Rate": 6.9232625482625485,
+        "Kills_Rate": 4.976351351351352,
+        "KDA": 1.8522133147438131,
+        "Gold_Earned_Average": 10912.16361003861,
+        "Gold_Spent_Average": 10116.082046332047,
+        "First_Blood_Average": 0.07577220077220077,
+        "First_Inhibitor_Assist_Average": 0.12162162162162163,
+        "First_Inhibitor_Kill_Average": 0.02750965250965251,
+        "First_Tower_Kill_Average": 0.048745173745173745,
+        "First_Tower_Assist_Average": 0.02895752895752896,
+        "Largest_Killing_Spree_Average": 2.062258687258687,
+        "Largest_Multi_Kill_Average": 1.2012548262548262,
+        "Largest_Critical_Strike": 421,
+        "Magic_Damage_Dealt_To_Champion_Average": 19255.624517374516,
+        "Minions_Killed_Average": 148.21283783783784,
+        "Neutral_Minion_Killed_Average": 4.86969111969112,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 1.8793436293436294,
+        "Pentakills_Average": 0.00048262548262548264,
+        "Physical_Damage_Dealt_To_Champion_Average": 802.3359073359073,
+        "Total_Damage_Dealt_To_Champion_Average": 20309.162162162163,
+        "Total_Damage_Taken_Average": 34498.37258687259,
+        "Total_Heal_Average": 2587.004826254826,
+        "Total_Time_Crowd_Control_Dealt_Average": 1050.511583011583,
+        "Tower_Kills_Average": 0.5704633204633205,
+        "True_Damage_Dealt_To_Champion_Average": 250.6833976833977,
+        "Sight_Wards_Bought_Average": 0.3252895752895753,
+        "Vision_Wards_Bought_Average": 0.1640926640926641,
+        "Wards_Bought_Average": 0.4893822393822394,
+        "Wards_Placed_Average": 5.879826254826255,
+        "Wards_Killed_Average": 0.2249034749034749,
+        "Win_Rate": 0.527992277992278
     },
     "Items": {
         "one": {
-            "name": "Blade of the Ruined King",
-            "percentages": "58.10%",
-            "win": "59.93%"
+            "name": "Rod of Ages",
+            "percentages": "64.09%",
+            "win": "56.09%"
         },
         "two": {
-            "name": "Sunfire Cape",
-            "percentages": "34.59%",
-            "win": "55.53%"
+            "name": "Rylai’s Crystal Scepter",
+            "percentages": "35.76%%",
+            "win": "62.48%"
         },
         "three": {
-            "name": "Randuin’s Omen",
-            "percentages": "27.05%",
-            "win": "55.31%"
+            "name": "Seraph’s Embrace",
+            "percentages": "31.12%",
+            "win": "59.68%"
         },
         "four": {
-            "name": "Spirit Visage",
-            "percentages": "24.85%",
-            "win": "55.84%"
+            "name": "Thornmail",
+            "percentages": "19.98%",
+            "win": "55.07%"
         },
         "five": {
-            "name": "Ravenous Hydra",
-            "percentages": "14.42%",
-            "win": "60.63%"
+            "name": "Liandry’s Torment",
+            "percentages": "18.09%",
+            "win": "63.73%"
         },
         "six": {
-            "name": "Dead Man’s Plate",
-            "percentages": "13.82%",
-            "win": "61.20%"
+            "name": "Netherstride Grimoire",
+            "percentages": "9.07%",
+            "win": "68.08%"
         },
         "seven": {
-            "name": "Thornmail",
-            "percentages": "11.37%",
-            "win": "49.55%"
+            "name": "Dead Man’s Plate",
+            "percentages": "8.73%",
+            "win": "56.90%"
         },
         "eight": {
-            "name": "Trinity Force",
-            "percentages": "10.08%",
-            "win": "63.09%"
+            "name": "Ruby Sightstone",
+            "percentages": "8.44%",
+            "win": "51.42%"
         },
         "nine": {
-            "name": "Ruby Sightstone",
-            "percentages": "8.40%",
-            "win": "43.51%"
+            "name": "Frozen Heart",
+            "percentages": "7.43%",
+            "win": "53.24%"
         },
         "ten": {
-            "name": "Banshee’s Veil",
-            "percentages": "7.44%",
-            "win": "54.10%"
+            "name": "Warmog’s Armor",
+            "percentages": "6.90%",
+            "win": "59.44%"
         }
     }
 }

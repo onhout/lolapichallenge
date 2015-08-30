@@ -1,90 +1,90 @@
 {
     "champion": {
-        "Ban_Rate_Per_Game": 0.01419,
-        "Pick_Rate": 0.08216,
-        "Assists_Rate": 11.058909444985394,
-        "Death_Rate": 5.517039922103213,
-        "Kills_Rate": 4.368305744888024,
-        "KDA": 2.796284857042005,
-        "Gold_Earned_Average": 9887.770569620254,
-        "Gold_Spent_Average": 9124.599196689387,
-        "First_Blood_Average": 0.07120253164556962,
-        "First_Inhibitor_Assist_Average": 0.16078383641674782,
-        "First_Inhibitor_Kill_Average": 0.042843232716650435,
-        "First_Tower_Kill_Average": 0.04016553067185979,
-        "First_Tower_Assist_Average": 0.04832035053554041,
-        "Largest_Killing_Spree_Average": 2.0814264849074977,
-        "Largest_Multi_Kill_Average": 1.1251217137293086,
-        "Largest_Critical_Strike": 1146,
-        "Magic_Damage_Dealt_To_Champion_Average": 8314.008519961051,
-        "Minions_Killed_Average": 86.80842259006816,
-        "Neutral_Minion_Killed_Average": 9.298685491723466,
-        "Neutral_Minion_Killed_Enemy_Jungle_Average": 2.0536757546251216,
-        "Pentakills_Average": 0.00012171372930866602,
-        "Physical_Damage_Dealt_To_Champion_Average": 3153.8085443037976,
-        "Total_Damage_Dealt_To_Champion_Average": 11773.30793573515,
-        "Total_Damage_Taken_Average": 28752.706426484907,
-        "Total_Heal_Average": 2517.7330817916263,
-        "Total_Time_Crowd_Control_Dealt_Average": 514.2770204479066,
-        "Tower_Kills_Average": 0.5740019474196689,
-        "True_Damage_Dealt_To_Champion_Average": 304.96324245374876,
-        "Sight_Wards_Bought_Average": 0.4036027263875365,
-        "Vision_Wards_Bought_Average": 0.3040408958130477,
-        "Wards_Bought_Average": 0.7076436222005842,
-        "Wards_Placed_Average": 6.924537487828627,
-        "Wards_Killed_Average": 0.4623904576436222,
-        "Win_Rate": 0.49878286270691335
+        "Ban_Rate_Per_Game": 0.12025,
+        "Pick_Rate": 0.09811,
+        "Assists_Rate": 6.804912852920191,
+        "Death_Rate": 5.689939863418612,
+        "Kills_Rate": 6.747528284578534,
+        "KDA": 2.3818250214961307,
+        "Gold_Earned_Average": 12350.473142391194,
+        "Gold_Spent_Average": 11295.022729589236,
+        "First_Blood_Average": 0.0684945469371114,
+        "First_Inhibitor_Assist_Average": 0.11905004586688411,
+        "First_Inhibitor_Kill_Average": 0.0732850881663439,
+        "First_Tower_Kill_Average": 0.05035164611150749,
+        "First_Tower_Assist_Average": 0.022933442054836408,
+        "Largest_Killing_Spree_Average": 3.1759249821628783,
+        "Largest_Multi_Kill_Average": 1.4619304861889715,
+        "Largest_Critical_Strike": 1635,
+        "Magic_Damage_Dealt_To_Champion_Average": 9117.026297013555,
+        "Minions_Killed_Average": 80.29079604525532,
+        "Neutral_Minion_Killed_Average": 66.2147589440424,
+        "Neutral_Minion_Killed_Enemy_Jungle_Average": 14.605748649475078,
+        "Pentakills_Average": 0.0012231169095912751,
+        "Physical_Damage_Dealt_To_Champion_Average": 7290.673937417185,
+        "Total_Damage_Dealt_To_Champion_Average": 17329.302925287942,
+        "Total_Damage_Taken_Average": 31100.25410253797,
+        "Total_Heal_Average": 2913.6607889104066,
+        "Total_Time_Crowd_Control_Dealt_Average": 734.3711140556518,
+        "Tower_Kills_Average": 0.8039955152379982,
+        "True_Damage_Dealt_To_Champion_Average": 921.025379675874,
+        "Sight_Wards_Bought_Average": 0.42493119967383547,
+        "Vision_Wards_Bought_Average": 0.3583732545102436,
+        "Wards_Bought_Average": 0.7833044541840791,
+        "Wards_Placed_Average": 6.221078381408623,
+        "Wards_Killed_Average": 0.8980735908673937,
+        "Win_Rate": 0.5253287126694527
     },
     "Items": {
         "one": {
-            "name": "Sunfire Cape",
-            "percentages": "52.99%",
-            "win": "54.96%"
+            "name": "Blade of the Ruined King",
+            "percentages": "58.10%",
+            "win": "59.93%"
         },
         "two": {
-            "name": "Spirit Visage",
-            "percentages": "32.41%",
-            "win": "55.83%"
+            "name": "Sunfire Cape",
+            "percentages": "34.59%",
+            "win": "55.53%"
         },
         "three": {
-            "name": "Thornmail",
-            "percentages": "26.08%",
-            "win": "54.96%"
+            "name": "Randuin’s Omen",
+            "percentages": "27.05%",
+            "win": "55.31%"
         },
         "four": {
-            "name": "Randuin’s Omen",
-            "percentages": "19.32%",
-            "win": "56.48%"
+            "name": "Spirit Visage",
+            "percentages": "24.85%",
+            "win": "55.84%"
         },
         "five": {
-            "name": "Dead Man’s Plate",
-            "percentages": "18.29%",
-            "win": "57.08%"
+            "name": "Ravenous Hydra",
+            "percentages": "14.42%",
+            "win": "60.63%"
         },
         "six": {
-            "name": "Ruby Sightstone",
-            "percentages": "13.27%",
-            "win": "42.43%"
+            "name": "Dead Man’s Plate",
+            "percentages": "13.82%",
+            "win": "61.20%"
         },
         "seven": {
-            "name": "Martyr’s Gambit",
-            "percentages": "10.61%",
-            "win": "58.60%"
+            "name": "Thornmail",
+            "percentages": "11.37%",
+            "win": "49.55%"
         },
         "eight": {
             "name": "Trinity Force",
-            "percentages": "9.72%",
-            "win": "63.07%"
+            "percentages": "10.08%",
+            "win": "63.09%"
         },
         "nine": {
-            "name": "Sightstone",
-            "percentages": "9.16%",
-            "win": "44.75%"
+            "name": "Ruby Sightstone",
+            "percentages": "8.40%",
+            "win": "43.51%"
         },
         "ten": {
-            "name": "Face of the Mountain",
-            "percentages": "8.72%",
-            "win": "52.30%"
+            "name": "Banshee’s Veil",
+            "percentages": "7.44%",
+            "win": "54.10%"
         }
     }
 }

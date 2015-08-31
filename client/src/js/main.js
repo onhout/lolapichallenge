@@ -1,36 +1,8 @@
 /**
  * Created by pl on 8/28/15.
  */
-$(function(){
-    var rand = Math.floor(Math.random() * (4 - 1) + 1);
-    $('body').css('background-image', 'url(./asset/background/'+rand+'.jpg)');
 
-    var barData = [{
-        'x': 'John',
-        'y': 5
-    }, {
-        'x': 10,
-        'y': 20
-    }, {
-        'x': 40,
-        'y': 10
-    }, {
-        'x': 60,
-        'y': 40
-    }, {
-        'x': 80,
-        'y': 5
-    }, {
-        'x': 100,
-        'y': 100
-    }, {
-        'x': 120,
-        'y': 150
-    }, {
-        'x': 'Fu',
-        'y': 14
-    }];
-
+var createGraph = function(barData){
     var vis = d3.select('#visualisation'),
         WIDTH = 1000,
         HEIGHT = 500,
@@ -41,24 +13,24 @@ $(function(){
             left: 50
         },
         xRange = d3.scale.ordinal().rangeRoundBands([MARGINS.left, WIDTH - MARGINS.right], 0.1).domain(barData.map(function (d) {
-            return d.x;
+            return d.name;
         })),
 
 
         yRange = d3.scale.linear().range([HEIGHT - MARGINS.top, MARGINS.bottom]).domain([0,
             d3.max(barData, function (d) {
-                return d.y;
+                return d.values;
             })
         ]),
 
         xAxis = d3.svg.axis()
             .scale(xRange)
-            .tickSize(5)
+            .tickSize(3)
             .tickSubdivide(true),
 
         yAxis = d3.svg.axis()
             .scale(yRange)
-            .tickSize(5)
+            .tickSize(3)
             .orient("left")
             .tickSubdivide(true);
 
@@ -80,14 +52,70 @@ $(function(){
         .enter()
         .append('rect')
         .attr('x', function (d) {
-            return xRange(d.x);
+            return xRange(d.name);
         })
         .attr('y', function (d) {
-            return yRange(d.y);
+            return yRange(d.values);
         })
         .attr('width', xRange.rangeBand())
         .attr('height', function (d) {
-            return ((HEIGHT - MARGINS.bottom) - yRange(d.y));
+            return ((HEIGHT - MARGINS.bottom) - yRange(d.values));
         })
-        .attr('fill', 'darkred');
+        .attr('fill', 'darkred')
+        .on('mouseover', function(d){console.log('Y axis: ', d.values);});
+};
+
+var resetGraph = function(){
+    $('#visualisation').html('');
+};
+
+var getGraphData = function(highlow, criteria){
+    var barData = [];
+    $.get('./asset/json/highestlowest/highestlowest.json', function(data){
+        var sijd = data.chart[criteria];
+        var start, end;
+        if(highlow == 'high'){
+            start = 0;
+            end = 10;
+        } else if (highlow=='low'){
+            start = 10;
+            end = 0;
+        }
+        for (var i = start; i< Object.keys(sijd).length-end; i++){
+            barData.push(data.chart[criteria][Object.keys(sijd)[i]]);
+        }
+
+    }).done(function(){
+        createGraph(barData);
+    });
+};
+
+$(function(){
+    var currentSelection = 'Ban_Percentage';
+    $('#graphTitle').text('Ban Percentage');
+    var rand = Math.floor(Math.random() * (4 - 1) + 1);
+    $('body').css('background-image', 'url(./asset/background/'+rand+'.jpg)');
+    $.get('./asset/json/highestlowest/highestlowest.json', function(data){
+        for (var i = 0; i< Object.keys(data.chart).length; i++){
+            $('#links').append('<li><a href="#" id="'+Object.keys(data.chart)[i]+'" class="graphLinks">'+Object.keys(data.chart)[i].split('_').join(' ')+'</a></li>');
+        }
+        $('.graphLinks').click(function(e){
+            $('#graphTitle').text($(this).text());
+            currentSelection = $(this).attr('id');
+            resetGraph();
+            getGraphData('high', $(this).attr('id'));
+            e.preventDefault();
+        });
+    });
+    $('#high').click(function(e){
+        resetGraph();
+        getGraphData('high', currentSelection);
+        e.preventDefault();
+    });
+    $('#low').click(function(e){
+        resetGraph();
+        getGraphData('low', currentSelection);
+        e.preventDefault();
+    });
+    getGraphData('high', currentSelection);
 });

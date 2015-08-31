@@ -1,6 +1,6 @@
 {
     "chart": {
-        "Ban_Rate_Average": {
+        "Ban_Percentage": {
             "0": {
                 "name": "Katarina",
                 "values": 63.15
@@ -82,7 +82,7 @@
                 "values": 0.18
             }
         },
-        "Pick_Rate_Percetange": {
+        "Pick_Percetange": {
             "0": {
                 "name": "Vayne",
                 "values": 25.38
@@ -164,7 +164,7 @@
                 "values": 0.81
             }
         },
-        "Win_Rate_Percentage": {
+        "Win_Percentage": {
             "0": {
                 "name": "Malzahar",
                 "values": 54.35

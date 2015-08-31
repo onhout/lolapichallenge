@@ -23,3 +23,7 @@ body a {
 .table-hover tr:hover {
   background: #001100!important;
 }
+
+.tableMain {
+  background-color: gray;
+}

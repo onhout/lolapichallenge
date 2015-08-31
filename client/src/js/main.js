@@ -10,7 +10,7 @@ var getChampName = function(thisChampName){
 
 var createGraph = function(barData){
     var vis = d3.select('#visualisation'),
-        WIDTH = 1000,
+        WIDTH = 900,
         HEIGHT = 500,
         MARGINS = {
             top: 20,
@@ -134,6 +134,6 @@ $(function(){
     });
     getGraphData('high', currentSelection);
 
-    $('#teamTable').append('<table class="table">' +
-        '<tr><td>diu lay</td></tr>');
+    /*$('#teamTable').append('<table class="table">' +
+        '<tr><td>diu lay</td></tr>');*/
 });

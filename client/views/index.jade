@@ -3,26 +3,119 @@
 
 extends ./layout.jade
 block title
-   title League of Legends coding challenge
+   title Black Market Brawlers Analytic
 block content
    .container
+      h2(style='text-align: center') Black Market Brawlers Summary
+      h3(style='text-align: center') Team Analysis
+      .row
+         .col-sm-12
+            table(style='width:500px;background-color:grey;margin: 0 auto').table.table-hover.table-bordered.table-responsive
+               thead
+                   tr
+                       th
+                       th(style='color:blue') Blue
+                       th(style='color:purple') Purple
+               tbody
+                   tr
+                       th Win Rate
+                       td(style='color:blue') 53.08%
+                       td(style='color:purple') 46.91%
+                   tr
+                       th First Baron Killed Chance
+                       td(style='color:blue') 49.55%
+                       td(style='color:purple') 50.44%
+                   tr
+                       th Baron Killed Rate
+                       td(style='color:blue') 49.44%
+                       td(style='color:purple') 50.55%
+                   tr
+                       th First Dragon Killed Chance
+                       td(style='color:blue') 51.44%
+                       td(style='color:purple') 48.55%
+                   tr
+                       th Dragon Killed Rate
+                       td(style='color:blue') 51.06%
+                       td(style='color:purple') 48.93%
+                   tr
+                       th First Tower Destroy Chance
+                       td(style='color:blue') 51.44%
+                       td(style='color:purple') 48.39%
+                   tr
+                       th Tower Destroy Rate
+                       td(style='color:blue') 51.85%
+                       td(style='color:purple') 48.14%
+                   tr
+                       th First Inhibitor Destroy Chance
+                       td(style='color:blue') 52.91%
+                       td(style='color:purple') 47.09%
+                   tr
+                       th Inhibitor Destroy Rate
+                       td(style='color:blue') 52.64%
+                       td(style='color:purple') 47.35%
+                   tr
+                       th First Blood Chance
+                       td(style='color:blue') 51.16%
+                       td(style='color:purple') 48.83%
+      h3(style='text-align: center') "First" Win Rate
+      h5(style='text-align: center') This is the win rate of player getting first baron, first blood, first dragon, first inhibitor, or first tower
+      .row
+         .col-sm-12
+            table(style='background-color:grey;width:500px;margin: 0 auto').table.table-hover.table-bordered.table-responsive
+               thead
+                   tr
+                       th
+                       th Win Rate
+               tbody
+                   tr
+                       th First Baron
+                       td 53.08%
+                   tr
+                       th First Blood
+                       td 60.04%
+                   tr
+                       th First Dragon
+                       td 70.72%
+                   tr
+                       th First Inhibitor
+                       td 91.35%
+                   tr
+                       th First Tower
+                       td 67.66%
+                   tr
+                       th First All Five
+                       td 96.15%
+      h3(style='text-align: center') Black Market Brawlers Minions
+      .row
+         .col-sm-12
+            table(style='background-color:grey;width:500px;margin: 0 auto').table.table-hover.table-bordered.table-responsive
+               thead
+                   tr
+                       th
+                       th Bought %
+               tbody
+                   tr
+                       th: img.img-responsive(src='./asset/png/minion/ironbacks.png')
+                       td 32.44%
+                   tr
+                       th: img.img-responsive(src='./asset/png/minion/ocklepods.png')
+                       td 12.63%
+                   tr
+                       th: img.img-responsive(src='./asset/png/minion/plundercrabs.png')
+                       td 23.68%
+                   tr
+                       th: img.img-responsive(src='./asset/png/minion/razorfins.png')
+                       td 31.23% 
       .col-md-4.col-md-offset-4
          .btn-group(style='width: 100%;')
-            button.btn.btn-primary.dropdown-toggle(data-toggle='dropdown' aria-haspopup='true' aria-expanded='false' style='width:100%;') Graphs
+            button.btn.btn-primary.dropdown-toggle(data-toggle='dropdown' aria-haspopup='true' aria-expanded='false' style='width:100%;color:black;') Select More Graph
                span.caret
             ul.dropdown-menu#links
          h3#graphTitle.text-center
       svg#visualisation.center-block(width="1000" height="500")
-      a#high(href='#') High
-      span  |
-      a#low(href='#')  Low
-
-      .col-md-12
-         h3 Team Table
-         #teamTable
-      .col-md-12
-         h3 Minions
-         #minion
-      .col-md-12
-         h3 First of everything
-         #firsts
+      .container(style='margin-left: 400px')
+          h3(style='margin-left: 19px') Select
+          a(style='color:red')#high(href='#') Highest
+          span  |
+          a(style='color:blue')#low(href='#')  Lowest
+      

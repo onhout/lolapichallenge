@@ -133,4 +133,7 @@ $(function(){
         e.preventDefault();
     });
     getGraphData('high', currentSelection);
+
+    $('#teamTable').append('<table class="table">' +
+        '<tr><td>diu lay</td></tr>');
 });

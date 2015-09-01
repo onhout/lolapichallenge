@@ -1,7 +1,7 @@
 # lolapichallenge
 <h3>Links of web application:</h3>
-http://lolapichallenge.herokuapp.com/
-http://lolapichallenge.herokuapp.com/champions
+<div>http://lolapichallenge.herokuapp.com/</div>
+<div>http://lolapichallenge.herokuapp.com/champions</div>
 <h3>About Black Market Brawlers</h3>
 Black Market Brawlers Analytics is a web application we submitted as an entry to the RIOT Games API 2.0 Challenge. Black Market Brawlers Analytic is about the performance of champions, items, teams, and players in Black Market Brawlers. 
 

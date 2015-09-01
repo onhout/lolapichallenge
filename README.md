@@ -1,15 +1,8 @@
 # lolapichallenge
-<h1>License</h1>
-Copyright 2015 Yuet Fu Tse & Ganwei Liu
+<h1>About Black Market Brawlers</h1>
+Black Market Brawlers Analytics is a web application we submitted as an entry to the RIOT Games API 2.0 Challenge. Black Market Brawlers Analytic is about the performance of champions, items, teams, and players in Black Market Brawlers. 
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+The web application has two parts. For the first part, we create a graph application for summarizing the highest and lowest performance of champions(like. most damage dealt to champion) We also create the statistics tables for minion, teams, and gameplay. For the second part, we create a statistic table and items for each champions. We hope our data can help the players to analyze Black Market Brawlers
 
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+<h1>Front-End And Back-End</h1>
+99997 of Black Market Brawlers games data were collected from Riot Games API challenge 2.0. For API request and data calculation, we chose Ajax and Javascript OOP for analyzing data. For front-end, we chose jQuery, bootstrap, and material design. But we ran out of time. We tried our best to build the front-end. For back-end, we chose express and node
